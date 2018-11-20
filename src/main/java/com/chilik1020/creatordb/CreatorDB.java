@@ -5,7 +5,7 @@ import java.sql.*;
 public class CreatorDB {
 
     private final String dbname = "engtestdb.db";
-    private final String url = "jdbc:sqlite:/home/chilik1020/IdeaProjects/creatorDB/db/" + dbname;
+    private final String url = "jdbc:sqlite:D:/loboda/androidprojects/creatorDB/db/" + dbname;
 
     private final String TABLE_CHAPTERS = "chapters";
     private final String TABLE_LESSONS = "lessons";
@@ -49,12 +49,15 @@ public class CreatorDB {
 
         String sqlLessons = "CREATE TABLE IF NOT EXISTS " + TABLE_LESSONS +"(\n"
                 + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
+                + " chapter_id TEXT NOT NULL,\n"
                 + "	topic TEXT NOT NULL,\n"
                 + "	grammar TEXT NOT NULL\n"
                 + ");";
 
         String sqlTests = "CREATE TABLE IF NOT EXISTS " + TABLE_TESTS +"(\n"
                 + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
+                + " chapter_id TEXT NOT NULL,\n"
+                + " topic_id TEXT NOT NULL,\n"
                 + "	question TEXT,\n"
                 + "	answer0 TEXT,\n"
                 + "	answer1 TEXT,\n"
@@ -79,8 +82,8 @@ public class CreatorDB {
         createTable(sqlChapters);
         createTable(sqlLessons);
         createTable(sqlTests);
-        createTable(sqlLessonsTests);
-        createTable(sqlChapterLessons);
+//        createTable(sqlLessonsTests);
+//        createTable(sqlChapterLessons);
     }
 
     private void createTable(String sql) {
@@ -110,15 +113,15 @@ public class CreatorDB {
                 for (int k = 0; k < i + 10; k++)
                     grammar.append(", some text");
 
-                int lesson_id = insertIntoLessons(topic, grammar.toString());
+                int lesson_id = insertIntoLessons(chapter_id,topic, grammar.toString());
 
-                insertIntoChaptersLessons(chapter_id, lesson_id);
+//                insertIntoChaptersLessons(chapter_id, lesson_id);
 
                 for (int j = 1; j < 11; j++) {
                     String q = "Text of question " + j + ", topic " + i;
-                    int test_id = insertIntoTests(q, a0, a1, a2, a3, ra);
+                    int test_id = insertIntoTests(chapter_id,lesson_id,q, a0, a1, a2, a3, ra);
 
-                    insertIntoLessonsTests(lesson_id, test_id);
+//                    insertIntoLessonsTests(lesson_id, test_id);
                 }
             }
         }
@@ -149,15 +152,16 @@ public class CreatorDB {
         return id;
     }
 
-    private int insertIntoLessons(String topic, String grammar) {
-        String sql = "INSERT INTO lessons(topic,grammar) VALUES(?,?)";
+    private int insertIntoLessons(int chapter_id, String topic, String grammar) {
+        String sql = "INSERT INTO lessons(chapter_id,topic,grammar) VALUES(?,?,?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
         try (Connection conn = this.connect();
              PreparedStatement pstmt = conn.prepareStatement(sql, returnId)) {
-            pstmt.setString(1, topic);
-            pstmt.setString(2, grammar);
+            pstmt.setInt(1, chapter_id);
+            pstmt.setString(2, topic);
+            pstmt.setString(3, grammar);
             int affectedRows = pstmt.executeUpdate();
 
             if (affectedRows == 0) {
@@ -176,19 +180,21 @@ public class CreatorDB {
         return id;
     }
 
-    private int insertIntoTests(String q, String a0,String a1,String a2,String a3, int ra) {
-        String sql = "INSERT INTO tests(question, answer0,answer1,answer2,answer3,right_answer) VALUES(?,?,?,?,?,?)";
+    private int insertIntoTests(int chapter_id,int topic_id,String q, String a0,String a1,String a2,String a3, int ra) {
+        String sql = "INSERT INTO tests(chapter_id,topic_id,question, answer0,answer1,answer2,answer3,right_answer) VALUES(?,?,?,?,?,?,?,?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
         try (Connection conn = this.connect();
              PreparedStatement pstmt = conn.prepareStatement(sql)) {
-            pstmt.setString(1, q);
-            pstmt.setString(2, a0);
-            pstmt.setString(3, a1);
-            pstmt.setString(4, a2);
-            pstmt.setString(5, a3);
-            pstmt.setInt(6, ra);
+            pstmt.setInt(1, chapter_id);
+            pstmt.setInt(2, topic_id);
+            pstmt.setString(3, q);
+            pstmt.setString(4, a0);
+            pstmt.setString(5, a1);
+            pstmt.setString(6, a2);
+            pstmt.setString(7, a3);
+            pstmt.setInt(8, ra);
             int affectedRows = pstmt.executeUpdate();
 
             if (affectedRows == 0) {
