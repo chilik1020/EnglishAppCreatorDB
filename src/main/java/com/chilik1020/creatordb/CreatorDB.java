@@ -10,8 +10,7 @@ public class CreatorDB {
     private final String TABLE_CHAPTERS = "chapters";
     private final String TABLE_LESSONS = "lessons";
     private final String TABLE_TESTS = "tests";
-    private final String TABLE_LESSONS_TESTS = "lessons_tests";
-    private final String TABLE_CHAPTERS_LESSONS = "chapters_lessons";
+    private final String TABLE_QUESTIONS = "questions";
 
     private Connection connect() {
         // SQLite connection string
@@ -49,15 +48,23 @@ public class CreatorDB {
 
         String sqlLessons = "CREATE TABLE IF NOT EXISTS " + TABLE_LESSONS +"(\n"
                 + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
-                + " chapter_id TEXT NOT NULL,\n"
+                + " chapter_id INTEGER NOT NULL,\n"
                 + "	topic TEXT NOT NULL,\n"
                 + "	grammar TEXT NOT NULL\n"
                 + ");";
 
         String sqlTests = "CREATE TABLE IF NOT EXISTS " + TABLE_TESTS +"(\n"
                 + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
-                + " chapter_id TEXT NOT NULL,\n"
-                + " topic_id TEXT NOT NULL,\n"
+                + " chapter_id INTEGER NOT NULL,\n"
+                + " topic_id INTEGER NOT NULL,\n"
+                + "	topic TEXT NOT NULL\n"
+                + ");";
+
+        String sqlQuestions = "CREATE TABLE IF NOT EXISTS " + TABLE_QUESTIONS +"(\n"
+                + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
+                + " chapter_id INTEGER NOT NULL,\n"
+                + " topic_id INTEGER NOT NULL,\n"
+                + " test_id INTEGER NOT NULL,\n"
                 + "	question TEXT,\n"
                 + "	answer0 TEXT,\n"
                 + "	answer1 TEXT,\n"
@@ -66,22 +73,11 @@ public class CreatorDB {
                 + " right_answer INTEGER NOT NULL\n"
                 + ");";
 
-        String sqlLessonsTests = "CREATE TABLE IF NOT EXISTS " + TABLE_LESSONS_TESTS +"(\n"
-                + "	lesson_id INTEGER NOT NULL,\n"
-                + "	test_id INTEGER NOT NULL,\n"
-                + " FOREIGN KEY (lesson_id) REFERENCES " + TABLE_LESSONS + "(_id),\n"
-                + " FOREIGN KEY (test_id) REFERENCES " + TABLE_TESTS + "(_id)\n"
-                + ");";
-        String sqlChapterLessons = "CREATE TABLE IF NOT EXISTS " + TABLE_CHAPTERS_LESSONS +"(\n"
-                + "	chapter_id INTEGER NOT NULL,\n"
-                + "	lesson_id INTEGER NOT NULL,\n"
-                + " FOREIGN KEY (lesson_id) REFERENCES " + TABLE_LESSONS + "(_id),\n"
-                + " FOREIGN KEY (chapter_id) REFERENCES " + TABLE_CHAPTERS + "(_id)\n"
-                + ");";
 
         createTable(sqlChapters);
         createTable(sqlLessons);
         createTable(sqlTests);
+        createTable(sqlQuestions);
 //        createTable(sqlLessonsTests);
 //        createTable(sqlChapterLessons);
     }
@@ -102,11 +98,11 @@ public class CreatorDB {
         String a2 = "Answer 3";
         String a3 = "Answer 4";
         int ra = 2;
-        for (int m = 1; m < 11; m++) {
+        for (int m = 1; m < 11; m++) { ///////////////////////////////////////// COUNT OF CHAPTERS
             String chapter = "Chapter " + m;
             int chapter_id = insertIntoChapters(chapter);
             System.out.println("Chapter " + chapter_id);
-            for (int i = 1; i < 15; i++) {
+            for (int i = 1; i < 15; i++) { ///////////////////////////////////// COUNT OF TOPICS
                 String topic = "Topic " + i;
 //            String grammar = "Grammar text of topic " + i;
                 StringBuilder grammar = new StringBuilder("Grammar text of topic " + i);
@@ -114,20 +110,18 @@ public class CreatorDB {
                     grammar.append(", some text");
 
                 int lesson_id = insertIntoLessons(chapter_id,topic, grammar.toString());
-
-//                insertIntoChaptersLessons(chapter_id, lesson_id);
-
-                for (int j = 1; j < 11; j++) {
-                    String q = "Text of question " + j + ", topic " + i;
-                    int test_id = insertIntoTests(chapter_id,lesson_id,q, a0, a1, a2, a3, ra);
-
-//                    insertIntoLessonsTests(lesson_id, test_id);
+                for (int d = 1; d < 4; d++) { ////////////////////////////////// COUNT OF TESTS
+                    int test_id = insertIntoTests(chapter_id, lesson_id, "Test: " + topic);
+                    for (int j = 1; j < 11; j++) { ///////////////////////////// COUNT OF QUESTIONS
+                        String q = "Text of question " + j + ", topic " + i;
+                        int question_id = insertIntoQuestions(chapter_id, lesson_id,test_id, q, a0, a1, a2, a3, ra);
+                    }
                 }
             }
         }
     }
     private int insertIntoChapters(String chapter) {
-        String sql = "INSERT INTO chapters(chapter) VALUES(?)";
+        String sql = "INSERT INTO " + TABLE_CHAPTERS + " (chapter) VALUES(?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
@@ -153,7 +147,7 @@ public class CreatorDB {
     }
 
     private int insertIntoLessons(int chapter_id, String topic, String grammar) {
-        String sql = "INSERT INTO lessons(chapter_id,topic,grammar) VALUES(?,?,?)";
+        String sql = "INSERT INTO " + TABLE_LESSONS + "(chapter_id,topic,grammar) VALUES(?,?,?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
@@ -180,21 +174,16 @@ public class CreatorDB {
         return id;
     }
 
-    private int insertIntoTests(int chapter_id,int topic_id,String q, String a0,String a1,String a2,String a3, int ra) {
-        String sql = "INSERT INTO tests(chapter_id,topic_id,question, answer0,answer1,answer2,answer3,right_answer) VALUES(?,?,?,?,?,?,?,?)";
+    private int insertIntoTests(int chapter_id, int topic_id, String topic) {
+        String sql = "INSERT INTO " + TABLE_TESTS + "(chapter_id,topic_id,topic) VALUES(?,?,?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
         try (Connection conn = this.connect();
-             PreparedStatement pstmt = conn.prepareStatement(sql)) {
+             PreparedStatement pstmt = conn.prepareStatement(sql, returnId)) {
             pstmt.setInt(1, chapter_id);
             pstmt.setInt(2, topic_id);
-            pstmt.setString(3, q);
-            pstmt.setString(4, a0);
-            pstmt.setString(5, a1);
-            pstmt.setString(6, a2);
-            pstmt.setString(7, a3);
-            pstmt.setInt(8, ra);
+            pstmt.setString(3, topic);
             int affectedRows = pstmt.executeUpdate();
 
             if (affectedRows == 0) {
@@ -213,31 +202,40 @@ public class CreatorDB {
         return id;
     }
 
-    private void insertIntoLessonsTests(int lessonId, int testId) {
-        String sql = "INSERT INTO lessons_tests(lesson_id, test_id) VALUES(?,?);";
+    private int insertIntoQuestions(int chapter_id, int topic_id, int test_id,  String q, String a0, String a1, String a2, String a3, int ra) {
+        String sql = "INSERT INTO " + TABLE_QUESTIONS + " (chapter_id,topic_id,test_id,question, answer0,answer1,answer2,answer3,right_answer) VALUES(?,?,?,?,?,?,?,?,?)";
+        String[] returnId = { "BATCHID" };
+        int id = -1;
 
         try (Connection conn = this.connect();
              PreparedStatement pstmt = conn.prepareStatement(sql)) {
-            pstmt.setInt(1, lessonId);
-            pstmt.setInt(2, testId);
-            pstmt.executeUpdate();
+            pstmt.setInt(1, chapter_id);
+            pstmt.setInt(2, topic_id);
+            pstmt.setInt(3, test_id);
+            pstmt.setString(4, q);
+            pstmt.setString(5, a0);
+            pstmt.setString(6, a1);
+            pstmt.setString(7, a2);
+            pstmt.setString(8, a3);
+            pstmt.setInt(9, ra);
+            int affectedRows = pstmt.executeUpdate();
+
+            if (affectedRows == 0) {
+                throw new SQLException("Creating row failed, no rows affected.");
+            }
+
+            ResultSet rs = pstmt.getGeneratedKeys();
+            if (rs.next()) {
+                id = rs.getInt(1);
+            }
+            rs.close();
+
         } catch (SQLException e) {
-            System.out.println("insertIntoLessonsTests: " + e.getMessage());
+            System.out.println("insertIntoQuestions: " + e.getMessage());
         }
+        return id;
     }
 
-    private void insertIntoChaptersLessons(int chapterId, int lessonId) {
-        String sql = "INSERT INTO chapters_lessons(chapter_id, lesson_id) VALUES(?,?);";
-
-        try (Connection conn = this.connect();
-             PreparedStatement pstmt = conn.prepareStatement(sql)) {
-            pstmt.setInt(1, chapterId);
-            pstmt.setInt(2, lessonId);
-            pstmt.executeUpdate();
-        } catch (SQLException e) {
-            System.out.println("insertIntoChaptersLessons: " + e.getMessage());
-        }
-    }
 
 
     public static void main(String[] args) {
