@@ -103,7 +103,7 @@ public class CreatorDB {
             int chapter_id = insertIntoChapters(chapter);
             System.out.println("Chapter " + chapter_id);
             for (int i = 1; i < 15; i++) { ///////////////////////////////////// COUNT OF TOPICS
-                String topic = "Topic " + i;
+                String topic = chapter +  " : Topic " + i;
 //            String grammar = "Grammar text of topic " + i;
                 StringBuilder grammar = new StringBuilder("Grammar text of topic " + i);
                 for (int k = 0; k < i + 10; k++)
@@ -113,7 +113,7 @@ public class CreatorDB {
                 for (int d = 1; d < 4; d++) { ////////////////////////////////// COUNT OF TESTS
                     int test_id = insertIntoTests(chapter_id, lesson_id, "Test: " + topic);
                     for (int j = 1; j < 11; j++) { ///////////////////////////// COUNT OF QUESTIONS
-                        String q = "Text of question " + j + ", topic " + i;
+                        String q = topic + " : Test " + test_id +  " : Text of question " + j;
                         int question_id = insertIntoQuestions(chapter_id, lesson_id,test_id, q, a0, a1, a2, a3, ra);
                     }
                 }
