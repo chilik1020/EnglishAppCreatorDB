@@ -1,0 +1,2209 @@
+{
+  "chapterId": 12,
+  "chapter": "Prepositions",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 1200,
+      "topic": "Prepositions of place",
+      "path": "12_preposition_00_of_place.html"
+    },
+    {
+      "lessonGrammarId": 1201,
+      "topic": "Prepositions of movement",
+      "path": "12_preposition_01_of_movement.html"
+    },
+    {
+      "lessonGrammarId": 1202,
+      "topic": "Prepositions of time",
+      "path": "12_preposition_02_of_time.html"
+    },
+    {
+      "lessonGrammarId": 1203,
+      "topic": "Prepositions of cause",
+      "path": "12_preposition_03_of_cause.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 1200,
+      "topic": "Prepositions of place"
+    },
+    {
+      "lessonTestId": 1201,
+      "topic": "Prepositions of movement"
+    },
+    {
+      "lessonTestId": 1202,
+      "topic": "Prepositions of time"
+    },
+    {
+      "lessonTestId": 1203,
+      "topic": "Prepositions of cause"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 1200,
+      "lessonTestId": 1200,
+      "topic": "Prepositions of place",
+      "price": 0
+    },
+    {
+      "testId": 1201,
+      "lessonTestId": 1200,
+      "topic": "Prepositions of place",
+      "price": 0
+    },
+    {
+      "testId": 1202,
+      "lessonTestId": 1200,
+      "topic": "Prepositions of place",
+      "price": 2
+    },
+    {
+      "testId": 1203,
+      "lessonTestId": 1200,
+      "topic": "Prepositions of place",
+      "price": 2
+    },
+    {
+      "testId": 1204,
+      "lessonTestId": 1200,
+      "topic": "Prepositions of place",
+      "price": 2
+    },
+    {
+      "testId": 1205,
+      "lessonTestId": 1201,
+      "topic": "Prepositions of movement",
+      "price": 0
+    },
+    {
+      "testId": 1206,
+      "lessonTestId": 1201,
+      "topic": "Prepositions of movement",
+      "price": 0
+    },
+    {
+      "testId": 1207,
+      "lessonTestId": 1201,
+      "topic": "Prepositions of movement",
+      "price": 2
+    },
+    {
+      "testId": 1208,
+      "lessonTestId": 1201,
+      "topic": "Prepositions of movement",
+      "price": 2
+    },
+    {
+      "testId": 1209,
+      "lessonTestId": 1201,
+      "topic": "Prepositions of movement",
+      "price": 2
+    },
+    {
+      "testId": 1210,
+      "lessonTestId": 1202,
+      "topic": "Prepositions of time",
+      "price": 0
+    },
+    {
+      "testId": 1211,
+      "lessonTestId": 1202,
+      "topic": "Prepositions of time",
+      "price": 0
+    },
+    {
+      "testId": 1212,
+      "lessonTestId": 1202,
+      "topic": "Prepositions of time",
+      "price": 2
+    },
+    {
+      "testId": 1213,
+      "lessonTestId": 1202,
+      "topic": "Prepositions of time",
+      "price": 2
+    },
+    {
+      "testId": 1214,
+      "lessonTestId": 1202,
+      "topic": "Prepositions of time",
+      "price": 2
+    },
+    {
+      "testId": 1215,
+      "lessonTestId": 1203,
+      "topic": "Prepositions of cause",
+      "price": 0
+    },
+    {
+      "testId": 1216,
+      "lessonTestId": 1203,
+      "topic": "Prepositions of cause",
+      "price": 0
+    },
+    {
+      "testId": 1217,
+      "lessonTestId": 1203,
+      "topic": "Prepositions of cause",
+      "price": 2
+    },
+    {
+      "testId": 1218,
+      "lessonTestId": 1203,
+      "topic": "Prepositions of cause",
+      "price": 2
+    },
+    {
+      "testId": 1219,
+      "lessonTestId": 1203,
+      "topic": "Prepositions of cause",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "PREPOSITIONS OF PLACE, TEST 1",
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "He looked __ the girl __ the picture.",
+      "answer0": "at, in",
+      "answer1": "on, at",
+      "answer2": "at, on",
+      "answer3": "on, from",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "Are you going __ the baker's?",
+      "answer0": "to",
+      "answer1": "up",
+      "answer2": "in",
+      "answer3": "on",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "There is a strange picture __ the wall.",
+      "answer0": "from",
+      "answer1": "in",
+      "answer2": "at",
+      "answer3": "on",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "Don't sit __ that chair, it is painted.",
+      "answer0": "in",
+      "answer1": "above",
+      "answer2": "on",
+      "answer3": "at",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "Our dog hates swimming __ that tiny lake.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "from",
+      "answer3": "into",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "They've waited till the rain stop __ the bridge.",
+      "answer0": "between",
+      "answer1": "from",
+      "answer2": "under",
+      "answer3": "into",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "__ the left side of the street there is a post office.",
+      "answer0": "at",
+      "answer1": "in",
+      "answer2": "on",
+      "answer3": "next to",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "Who is sitting there __ your mother and Jane?",
+      "answer0": "between",
+      "answer1": "above",
+      "answer2": "under",
+      "answer3": "up",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "Laura was standing __ the picture admiring it.",
+      "answer0": "opposite",
+      "answer1": "into",
+      "answer2": "behind",
+      "answer3": "between",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1200,
+      "question": "Let’s go __ for some fresh air.",
+      "answer0": "on",
+      "answer1": "inside",
+      "answer2": "from",
+      "answer3": "outside",
+      "rightAnswer": 3
+    },
+    {
+      "_comment": "PREPOSITIONS OF PLACE, TEST 2",
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "When I was __ home yesterday, my friend suggested going __ the club.",
+      "answer0": "in, to",
+      "answer1": "at, to",
+      "answer2": "in, in",
+      "answer3": "at, in",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "The children are playing __ the street.",
+      "answer0": "inside",
+      "answer1": "at",
+      "answer2": "in",
+      "answer3": "along",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "There’s an interesting documentary __ TV.",
+      "answer0": "on",
+      "answer1": "in",
+      "answer2": "at",
+      "answer3": "inside",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "Look __ that bee! It’s right__ the cake.",
+      "answer0": "at, at",
+      "answer1": "on, at",
+      "answer2": "in, on",
+      "answer3": "at, on",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "We spent last summer __ Spain. This year we’re going __ Italy.",
+      "answer0": "in, in",
+      "answer1": "at, to",
+      "answer2": "at, in",
+      "answer3": "in, to",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "Who is this handsome man standing __ the door?",
+      "answer0": "at",
+      "answer1": "in",
+      "answer2": "between",
+      "answer3": "inside",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "Can you find Baikal __ the map?",
+      "answer0": "at",
+      "answer1": "on",
+      "answer2": "in",
+      "answer3": "inside",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "I live __ the 9th floor __ Maroseyka street __ Moscow.",
+      "answer0": "on, in, in",
+      "answer1": "on, on, on",
+      "answer2": "on, on, in",
+      "answer3": "in, in, in",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "You can put any poster __ the door __ your room, if you like.",
+      "answer0": "on, on",
+      "answer1": "on, in",
+      "answer2": "at, in",
+      "answer3": "in, in",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1201,
+      "question": "Kids always want to sit __ their parents __ the table.",
+      "answer0": "next to, at",
+      "answer1": "on, under",
+      "answer2": "near, in",
+      "answer3": "opposite, on",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF PLACE, TEST 3",
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "Do you live very __ your work?",
+      "answer0": "far from",
+      "answer1": "next to",
+      "answer2": "at",
+      "answer3": "behind",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "I saw a huge bear in the woods and a tiny little bear hiding __ his mother’s back.",
+      "answer0": "at",
+      "answer1": "on",
+      "answer2": "behind",
+      "answer3": "in front of",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "Could you please help me hang this shelf __ my desk __ the wall?",
+      "answer0": "on, on",
+      "answer1": "above, on",
+      "answer2": "in, at",
+      "answer3": "above, at",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "The vehicle was left __ the corner of the street.",
+      "answer0": "under",
+      "answer1": "into",
+      "answer2": "inside",
+      "answer3": "on",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "Michael spent his first vacation __ a small village __ the mountains __ Georgia.",
+      "answer0": "in, on, at",
+      "answer1": "in, in, in",
+      "answer2": "at, on, in",
+      "answer3": "at, in, at",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "Let’s meet __ the entrance __ the swimming pool.",
+      "answer0": "at, to",
+      "answer1": "in, to",
+      "answer2": "at, on",
+      "answer3": "into, at",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "St. Petersburg is a city __ Russia __ the Neva river.",
+      "answer0": "in, at",
+      "answer1": "in, on",
+      "answer2": "at, in",
+      "answer3": "at, on",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "Jenice was waiting for him __ the bus stop __ the end of Menice street.",
+      "answer0": "on, in",
+      "answer1": "at, at",
+      "answer2": "on, on",
+      "answer3": "at, by",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "When you sit __ your companion, don’t you feel uncomfortable?",
+      "answer0": "above",
+      "answer1": "over",
+      "answer2": "opposite",
+      "answer3": "in",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1202,
+      "question": "I would like to grow some bushes __ the entrance of my country-house.",
+      "answer0": "in front of",
+      "answer1": "under",
+      "answer2": "in",
+      "answer3": "below",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF PLACE, TEST 4",
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "You promised that you will always be __ me, but you left me alone.",
+      "answer0": "on",
+      "answer1": "next",
+      "answer2": "far",
+      "answer3": "next to",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "The best way to spend time with your children is stay __, so let’s go to the park altogether.",
+      "answer0": "inside",
+      "answer1": "far from",
+      "answer2": "near",
+      "answer3": "outside",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "Denis had to choose __ study and work, so he decided to continue his business career.",
+      "answer0": "between",
+      "answer1": "in",
+      "answer2": "near",
+      "answer3": "next to",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "My little son was hiding __ the table, but I pretended that I didn’t see him and looked __ him __ the curtains. He was laughing and it was so cute.",
+      "answer0": "on, at, under",
+      "answer1": "under, for, behind",
+      "answer2": "into, on, over",
+      "answer3": "behind, for, at",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "Have you seen my glasses? I can’t find them anywhere. They aren’t __ the cupboard nor __ the bookcase. There they are! They fell down __ the floor __ the coffee table.",
+      "answer0": "in, in, under, over",
+      "answer1": "on, on, behind, at",
+      "answer2": "on, in, on, behind",
+      "answer3": "under, under, between, in",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "There must be somebody __ the building, I can see the light.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "above",
+      "answer3": "next",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "I think I left my wallet __ the chair __ the corner of my hotel room.",
+      "answer0": "in, at",
+      "answer1": "on, at",
+      "answer2": "on, in",
+      "answer3": "in, in",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "When we were __ London we stayed __ a hotel.",
+      "answer0": "at, in",
+      "answer1": "in, at",
+      "answer2": "in, in",
+      "answer3": "at, at",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "__ the middle of this picture you can see his portrait.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "on",
+      "answer3": "from",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1203,
+      "question": "I don’t know when he arrived __ the party last night.",
+      "answer0": "on",
+      "answer1": "in",
+      "answer2": "at",
+      "answer3": "near",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF PLACE, TEST 5",
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "My stepfather teaches__a college __ Boston.",
+      "answer0": "in, at",
+      "answer1": "in, in",
+      "answer2": "at, at",
+      "answer3": "at, to",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "Stand __ me, don’t go far away.",
+      "answer0": "above",
+      "answer1": "at",
+      "answer2": "by",
+      "answer3": "next",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "Are you going to meet her __ the station? No, I’ll wait for her __ my car.",
+      "answer0": "at, at",
+      "answer1": "in, on",
+      "answer2": "behind, on",
+      "answer3": "at, in",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "Have you seen those presents __ the Christmas tree?",
+      "answer0": "under",
+      "answer1": "over",
+      "answer2": "in",
+      "answer3": "at",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "The girl was sitting __ the beach __ the umbrella __ her sandcastle.",
+      "answer0": "at, near, under",
+      "answer1": "on, under, in front of",
+      "answer2": "in, below, near",
+      "answer3": "near, in, on",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "Look at the stars __ you. The sky is so clean with no clouds__ it. Amazing!",
+      "answer0": "near, in",
+      "answer1": "next to, on",
+      "answer2": "at, near",
+      "answer3": "above, on",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "Let’s book a table __ the café. It seems like it’s too windy for the terrace.",
+      "answer0": "outside",
+      "answer1": "next to",
+      "answer2": "into",
+      "answer3": "inside",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "Don’t make me stand __ you two, I hate it when you argue.",
+      "answer0": "above",
+      "answer1": "below",
+      "answer2": "between",
+      "answer3": "over",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "Are there any shops __ your house or do we have to drive __?",
+      "answer0": "near, far away",
+      "answer1": "near, near",
+      "answer2": "far away, far away",
+      "answer3": "opposite, next",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1200,
+      "testId": 1204,
+      "question": "Mum was cooking __ the kitchen when I came __ home.",
+      "answer0": "on, to",
+      "answer1": "on, at",
+      "answer2": "in, back",
+      "answer3": "in, to",
+      "rightAnswer": 2
+    },
+
+
+    {
+      "_comment": "PREPOSITIONS OF MOVEMENT, TEST 1",
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "When the class finished, I opened the door and walked __ the room.",
+      "answer0": "out of",
+      "answer1": "around",
+      "answer2": "toward",
+      "answer3": "off",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "Julia jumped __ the rock __ the water.",
+      "answer0": "out of, onto",
+      "answer1": "into, off",
+      "answer2": "down, out of",
+      "answer3": "off, into",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "Meg came __ the kitchen and started to cook dinner.",
+      "answer0": "into",
+      "answer1": "in",
+      "answer2": "on",
+      "answer3": "onto",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "I don’t like mountain biking. I get really tired when I ride __ the hills.",
+      "answer0": "into",
+      "answer1": "up",
+      "answer2": "under",
+      "answer3": "past",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "The thief jumped __ the fence and tried to enter the house.",
+      "answer0": "into",
+      "answer1": "over",
+      "answer2": "down",
+      "answer3": "toward",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "Peter swam __ the river to the other side.",
+      "answer0": "through",
+      "answer1": "down",
+      "answer2": "across",
+      "answer3": "around",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "Angela took a key __ her pocket and opened the door.",
+      "answer0": "out of",
+      "answer1": "into",
+      "answer2": "onto",
+      "answer3": "off",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "Oh my god! I guess I forgot my keys inside. I’ll have to climb __ the window __ the house.",
+      "answer0": "into, towards",
+      "answer1": "onto, into",
+      "answer2": "from, out of",
+      "answer3": "through, into",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "She walked quietly __ the corridor __ the elevator.",
+      "answer0": "in, up",
+      "answer1": "along, to",
+      "answer2": "from, through",
+      "answer3": "through, over",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1205,
+      "question": "They walked __ the forest and arrived __ a beautiful waterfall.",
+      "answer0": "into, off",
+      "answer1": "through, at",
+      "answer2": "over, at",
+      "answer3": "down, across",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF MOVEMENT, TEST 2",
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "Lisa puts her books __ her backpack every morning before going __ school.",
+      "answer0": "away from, off",
+      "answer1": "past, to",
+      "answer2": "into, to",
+      "answer3": "out of, past",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "Our plane is now flying __ Prague.",
+      "answer0": "over",
+      "answer1": "off",
+      "answer2": "onto",
+      "answer3": "down",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "My friend always helps the old people walk __ the street.",
+      "answer0": "across",
+      "answer1": "towards",
+      "answer2": "away from",
+      "answer3": "around",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "We need to get __ the ship as soon as possible. It leaves in 5 minutes.",
+      "answer0": "into",
+      "answer1": "onto",
+      "answer2": "through",
+      "answer3": "past",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "The Earth is moving __ the Sun, not vice versa.",
+      "answer0": "toward",
+      "answer1": "off",
+      "answer2": "across",
+      "answer3": "around",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "Suddenly I saw the light and started to move __ it.",
+      "answer0": "over",
+      "answer1": "under",
+      "answer2": "towards",
+      "answer3": "up",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "Kim is on a diet, so she always walks __ the candy shops.",
+      "answer0": "up",
+      "answer1": "towards",
+      "answer2": "past",
+      "answer3": "into",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "When John was a little boy, he had to walk __ the field to get __ school every day.",
+      "answer0": "through, to",
+      "answer1": "over, to",
+      "answer2": "across, under",
+      "answer3": "between, out",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "The boy got __ the school bus, looked left and right and walked __ the road.",
+      "answer0": "over, onto",
+      "answer1": "down, through",
+      "answer2": "up, around",
+      "answer3": "off, across",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1206,
+      "question": "Get __the house and get __ the car. We are late for school!",
+      "answer0": "off, out of",
+      "answer1": "into, into",
+      "answer2": "from, over",
+      "answer3": "out of, into",
+      "rightAnswer": 3
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF MOVEMENT, TEST 3",
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "Walk __ the road for 50 meters, go __ the cinema, and then turn left.",
+      "answer0": "down, over",
+      "answer1": "along, onto",
+      "answer2": "down, past",
+      "answer3": "along, past",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "It was so hot that we jumped __ the lake with our clothes on!",
+      "answer0": "off",
+      "answer1": "out of",
+      "answer2": "into",
+      "answer3": "through",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "When I decided to keep fit I started to walk __ the stairs to the 7th floor every day.",
+      "answer0": "up",
+      "answer1": "across",
+      "answer2": "towards",
+      "answer3": "forward",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "She went __ the room without saying goodbye to anyone.",
+      "answer0": "into",
+      "answer1": "out of",
+      "answer2": "through",
+      "answer3": "down",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "Little boy fell __ the tree and broke his arm.",
+      "answer0": "around",
+      "answer1": "towards",
+      "answer2": "off",
+      "answer3": "through",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "Look __ the window – there is such a thunder tonight!",
+      "answer0": "off",
+      "answer1": "out of",
+      "answer2": "down",
+      "answer3": "over",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "She took __ her seatbelt and got __ the car.",
+      "answer0": "off, into",
+      "answer1": "away, off",
+      "answer2": "away, out of",
+      "answer3": "off, out of",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "Sarah walked right __ me, pretending she didn’t see me.",
+      "answer0": "through",
+      "answer1": "between",
+      "answer2": "down",
+      "answer3": "past",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "It takes 20 minutes to get __ my house __ the shop.",
+      "answer0": "from, to",
+      "answer1": "down, up",
+      "answer2": "off, towards",
+      "answer3": "from, over",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1207,
+      "question": "He got nervous as the policeman was walking __ him.",
+      "answer0": "around",
+      "answer1": "over",
+      "answer2": "towards",
+      "answer3": "through",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF MOVEMENT, TEST 4",
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "We were driving __for ages looking for you! Why didn’t you answer my calls?",
+      "answer0": "onto",
+      "answer1": "off",
+      "answer2": "round",
+      "answer3": "across",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "This guy came __ to me and gave me the flower.",
+      "answer0": "past",
+      "answer1": "up",
+      "answer2": "through",
+      "answer3": "down",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "Could you please give me a lift __ the airport __ the city center?",
+      "answer0": "from, to",
+      "answer1": "to, out",
+      "answer2": "from, over",
+      "answer3": "to, up",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "Don’t walk away __ me when I’m talking __ you!",
+      "answer0": "at, from",
+      "answer1": "from, to",
+      "answer2": "across, past",
+      "answer3": "out, toward",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "Dad looked __ the room and finally saw his book.",
+      "answer0": "through",
+      "answer1": "across",
+      "answer2": "around",
+      "answer3": "along",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "The boy kicked the ball __ the window.",
+      "answer0": "up",
+      "answer1": "down",
+      "answer2": "onto",
+      "answer3": "through",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "They skied __ the mountain very fast.",
+      "answer0": "down",
+      "answer1": "through",
+      "answer2": "across",
+      "answer3": "along",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "Last night we decided to go __ and went __ the restaurant.",
+      "answer0": "into, to",
+      "answer1": "out, to",
+      "answer2": "from, over",
+      "answer3": "across, along",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "Joe went __ the bus and decided to walk __ the street for a while.",
+      "answer0": "into, over",
+      "answer1": "from, over",
+      "answer2": "out of, along",
+      "answer3": "onto, from",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1208,
+      "question": "Do you think you can jump __ this river and swim __ it?",
+      "answer0": "into, across",
+      "answer1": "into, through",
+      "answer2": "out of, across",
+      "answer3": "out of, through",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF MOVEMENT, TEST 5",
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "Watch out! Big trucks can’t drive __ this bridge.",
+      "answer0": "under",
+      "answer1": "through",
+      "answer2": "into",
+      "answer3": "onto",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "If you need to get to the town, walk __ this river.",
+      "answer0": "across",
+      "answer1": "along",
+      "answer2": "through",
+      "answer3": "over",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "He was sitting there all day, looking __ the window, waiting for you. But now he is asleep.",
+      "answer0": "down",
+      "answer1": "up",
+      "answer2": "onto",
+      "answer3": "out of",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "The boy jumped __ the board __ the pool.",
+      "answer0": "off, onto",
+      "answer1": "off, into",
+      "answer2": "up, into",
+      "answer3": "up, onto",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "Mr. Harris is now going __ his house. I think he is going __ work.",
+      "answer0": "into, to",
+      "answer1": "into, off",
+      "answer2": "out of, off",
+      "answer3": "out of, to",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "Too many cars are driving __ this bridge every day. It needs to be repaired!",
+      "answer0": "to",
+      "answer1": "into",
+      "answer2": "over",
+      "answer3": "onto",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "She took the money __ her wallet and then put it back __ her purse.",
+      "answer0": "out of, into",
+      "answer1": "over, out of",
+      "answer2": "out of, onto",
+      "answer3": "over, into",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "We have no water coming __ the shower.",
+      "answer0": "off",
+      "answer1": "across",
+      "answer2": "through",
+      "answer3": "along",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "They were the first people to drive __ the Sahara desert.",
+      "answer0": "by",
+      "answer1": "across",
+      "answer2": "past",
+      "answer3": "towards",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1201,
+      "testId": 1209,
+      "question": "Please put that bag __ my table.",
+      "answer0": "across",
+      "answer1": "along",
+      "answer2": "down",
+      "answer3": "onto",
+      "rightAnswer": 3
+    },
+
+
+    {
+      "_comment": "PREPOSITIONS OF TIME, TEST 1",
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "Mr and Mrs Kelly have been married __1978.",
+      "answer0": "since",
+      "answer1": "after",
+      "answer2": "before",
+      "answer3": "for",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "I go to the dance classes __ Mondays, Wednesdays and Fridays.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "on",
+      "answer3": "after",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "I was tired this morning, so I stayed in bed __ 10 a.m.",
+      "answer0": "until",
+      "answer1": "for",
+      "answer2": "from",
+      "answer3": "in",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "Our street is quiet __ night, but sometimes you can hear the sirens.",
+      "answer0": "in",
+      "answer1": "on",
+      "answer2": "until",
+      "answer3": "at",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "It used to be hot __ summer in our country, but something has changed.",
+      "answer0": "at",
+      "answer1": "in",
+      "answer2": "before",
+      "answer3": "on",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "We are going to have an exam __ May early __ the morning.",
+      "answer0": "on, on",
+      "answer1": "in, in",
+      "answer2": "at, in",
+      "answer3": "in, on",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "I go to bed __ half past ten, otherwise I will feel terrible __ the next day.",
+      "answer0": "at, -",
+      "answer1": "at, in",
+      "answer2": "in, -",
+      "answer3": "in, on",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "My birthday is __ the 9th of June, this year it was __ Monday.",
+      "answer0": "on, on",
+      "answer1": "in, on",
+      "answer2": "at, on",
+      "answer3": "on, in",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "He works __ Monday__ Saturday.",
+      "answer0": "at, on",
+      "answer1": "on, to",
+      "answer2": "from, to",
+      "answer3": "till, until",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1210,
+      "question": "It is not very cold here __ winter, but it is very hot __ summer.",
+      "answer0": "on, on",
+      "answer1": "in, in",
+      "answer2": "at, at",
+      "answer3": "from, till",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF TIME, TEST 2",
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "We always meet up with our relatives __ Christmas.",
+      "answer0": "on",
+      "answer1": "at",
+      "answer2": "till",
+      "answer3": "by",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "There is an assembly __ 8.30 __ the morning.",
+      "answer0": "at, in",
+      "answer1": "in, in",
+      "answer2": "at, on",
+      "answer3": "at, at",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "__ Sundays we usually go hiking, so we come back home late __ night.",
+      "answer0": "on, in",
+      "answer1": "in, at",
+      "answer2": "at, in",
+      "answer3": "on, at",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "If you want to see cherry blossoms in Japan, you should go there __ spring.",
+      "answer0": "before",
+      "answer1": "in",
+      "answer2": "after",
+      "answer3": "until",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "We’ve been waiting for Suzy __ half an hour, but she hasn’t arrived.",
+      "answer0": "in",
+      "answer1": "for",
+      "answer2": "till",
+      "answer3": "before",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "This monument was built __19th century.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "on",
+      "answer3": "-",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "Jessica was born __ December 18th.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "on",
+      "answer3": "while",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "The temperature drops below zero __ night.",
+      "answer0": "in the",
+      "answer1": "at",
+      "answer2": "on",
+      "answer3": "by",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "He said he’ll be back __ an hour.",
+      "answer0": "after",
+      "answer1": "before",
+      "answer2": "until",
+      "answer3": "in",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1211,
+      "question": "We usually do the shopping __ Saturdays __ the morning.",
+      "answer0": "on, in",
+      "answer1": "in, in",
+      "answer2": "after, on",
+      "answer3": "before, at",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF TIME, TEST 3",
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "She passed her driving test __ March. She’s been driving __ half a year.",
+      "answer0": "in, before",
+      "answer1": "at, after",
+      "answer2": "on, till",
+      "answer3": "in, for",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "“Have you just arrived?” – “No, I have been here __half past seven.",
+      "answer0": "since",
+      "answer1": "for",
+      "answer2": "during",
+      "answer3": "on",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "__ Sunday mornings I have coffee and toast __ breakfast and read the newspaper.",
+      "answer0": "on, at",
+      "answer1": "in, for",
+      "answer2": "in, at",
+      "answer3": "on, for",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "We will go camping __ Easter.",
+      "answer0": "in",
+      "answer1": "on",
+      "answer2": "-",
+      "answer3": "at",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "David and Joe are good friends, they have known each other __ ten years.",
+      "answer0": "after",
+      "answer1": "for",
+      "answer2": "before",
+      "answer3": "until",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "The project must be finished __ Monday.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "by",
+      "answer3": "during",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "They’ve been waiting at the restaurant __ half and hour.",
+      "answer0": "for",
+      "answer1": "after",
+      "answer2": "before",
+      "answer3": "by",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "I love looking at the stars __ night.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "on",
+      "answer3": "by",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "We enjoy watching films __ Christmas day.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "until",
+      "answer3": "on",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1212,
+      "question": "Don’t open the door of the train __ the train stops.",
+      "answer0": "by",
+      "answer1": "while",
+      "answer2": "until",
+      "answer3": "at",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF TIME, TEST 4",
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "He will arrive __ a few minutes.",
+      "answer0": "in",
+      "answer1": "before",
+      "answer2": "by",
+      "answer3": "at",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "My parents aren’t here __ the moment.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "by",
+      "answer3": "after",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "I’m meeting my friend __ Tuesday __ the evening.",
+      "answer0": "in, in",
+      "answer1": "on, at",
+      "answer2": "in, on",
+      "answer3": "on, in",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "The train leaves __ half past seven __ the morning.",
+      "answer0": "in, in",
+      "answer1": "on, in",
+      "answer2": "at, in",
+      "answer3": "at, by",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "Last Tuesday __ dinner her friend Alice came over for tea and cake.",
+      "answer0": "in",
+      "answer1": "on",
+      "answer2": "at",
+      "answer3": "after",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "They talked about the dry weather __ their conversation.",
+      "answer0": "during",
+      "answer1": "before",
+      "answer2": "after",
+      "answer3": "until",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "Everyone should brush his teeth twice a day: __ the morning and __ the evening.",
+      "answer0": "in, in",
+      "answer1": "at, at",
+      "answer2": "on, on",
+      "answer3": "from, to",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "I started doing this report __ eight o’clock and finished only __ midnight.",
+      "answer0": "at, in",
+      "answer1": "at, at",
+      "answer2": "at, on",
+      "answer3": "in, by",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "She’s always up __ dawn.",
+      "answer0": "in",
+      "answer1": "during",
+      "answer2": "for",
+      "answer3": "before",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1213,
+      "question": "Kate got married __ the age of 19.",
+      "answer0": "in",
+      "answer1": "after",
+      "answer2": "at",
+      "answer3": "on",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF TIME, TEST 5",
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "He had promised to be back __ five o’clock, but he isn’t still there.",
+      "answer0": "in",
+      "answer1": "at",
+      "answer2": "on",
+      "answer3": "during",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "The meeting is going to start __ ten o’clock __ the morning.",
+      "answer0": "at, in",
+      "answer1": "in, in",
+      "answer2": "in, at",
+      "answer3": "at, on",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "Look! Phoebe is having a toast and Coke __ the moment.",
+      "answer0": "in",
+      "answer1": "on",
+      "answer2": "for",
+      "answer3": "at",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "Benjamin feels tired __ Fridays. He has a French course after school.",
+      "answer0": "in",
+      "answer1": "since",
+      "answer2": "on",
+      "answer3": "at",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "Theo and Liam will be in Hawaii __ July. They will spend their holiday there.",
+      "answer0": "at",
+      "answer1": "in",
+      "answer2": "on",
+      "answer3": "for",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "We’ll wait __ half past six for you, but if you’re late – we will leave.",
+      "answer0": "since",
+      "answer1": "after",
+      "answer2": "until",
+      "answer3": "during",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "He left the house over an hour __.",
+      "answer0": "ago",
+      "answer1": "before",
+      "answer2": "after",
+      "answer3": "during",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "I’m going to watch a movie with my friend __ 8 o’clock __ the evening.",
+      "answer0": "at, in",
+      "answer1": "from, to",
+      "answer2": "till, until",
+      "answer3": "at, on",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "Our conversation will have to wait __ next time.",
+      "answer0": "before",
+      "answer1": "after",
+      "answer2": "until",
+      "answer3": "since",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1202,
+      "testId": 1214,
+      "question": "The Beatles were a popular music band __ the 1960s.",
+      "answer0": "at",
+      "answer1": "by",
+      "answer2": "for",
+      "answer3": "in",
+      "rightAnswer": 3
+    },
+
+
+    {
+      "_comment": "PREPOSITIONS OF CAUSE, TEST 1",
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "My mum can sometimes be extremely impatient, __ her duties are rather stressful.",
+      "answer0": "so",
+      "answer1": "for",
+      "answer2": "of",
+      "answer3": "as a result",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "__ my boss is back from holidays, I must be very punctual this week.",
+      "answer0": "because",
+      "answer1": "thanks to",
+      "answer2": "since",
+      "answer3": "so",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "__the importance of this problem, I suggest discussing it immediately.",
+      "answer0": "due to",
+      "answer1": "as a result of",
+      "answer2": "because",
+      "answer3": "from",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "Last night I stayed up too late, __ I feel really tired today.",
+      "answer0": "as",
+      "answer1": "for",
+      "answer2": "in accordance with",
+      "answer3": "so",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "The baby began to cry __ she was hungry.",
+      "answer0": "because",
+      "answer1": "so",
+      "answer2": "from",
+      "answer3": "of",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "__ I didn’t do my report, I had to miss that work day.",
+      "answer0": "because of",
+      "answer1": "therefore",
+      "answer2": "since",
+      "answer3": "as a result of",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "__ his poor health, he won’t be able to attend the meeting today.",
+      "answer0": "as",
+      "answer1": "due to",
+      "answer2": "since",
+      "answer3": "from",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "It was raining outside, __ we put on our raincoats.",
+      "answer0": "on account of",
+      "answer1": "in accordance with",
+      "answer2": "because",
+      "answer3": "so",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "The result __ the cold weather is that we are using more wood to heat the house.",
+      "answer0": "of",
+      "answer1": "for",
+      "answer2": "since",
+      "answer3": "so",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1215,
+      "question": "My friend is excited __ it’s his birthday today.",
+      "answer0": "so",
+      "answer1": "because",
+      "answer2": "therefore",
+      "answer3": "from",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF CAUSE, TEST 2",
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "We could go to the picnic __ the good weather.",
+      "answer0": "as a result of",
+      "answer1": "so",
+      "answer2": "from",
+      "answer3": "since",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "__ the day was warm, we decided to book a table at the terrace.",
+      "answer0": "because",
+      "answer1": "since",
+      "answer2": "from",
+      "answer3": "as a result",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "Andy got 100% on his test __ he studied a lot.",
+      "answer0": "because",
+      "answer1": "so",
+      "answer2": "in accordance with",
+      "answer3": "from",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "Max stayed up late reading __ he was very tired today.\n",
+      "answer0": "because",
+      "answer1": "of",
+      "answer2": "so",
+      "answer3": "on account of",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "Eli forgot his umbrella and __ he got wet.",
+      "answer0": "because of",
+      "answer1": "as a result",
+      "answer2": "thanks to",
+      "answer3": "since",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "Suzie laughed __ the joke was funny.",
+      "answer0": "as a result",
+      "answer1": "therefore",
+      "answer2": "so",
+      "answer3": "because",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "__ your position, you will get paid next month.",
+      "answer0": "so",
+      "answer1": "because",
+      "answer2": "from",
+      "answer3": "in accordance with",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "__ my hard work, I could pass my driving exam.",
+      "answer0": "thanks to",
+      "answer1": "from",
+      "answer2": "so",
+      "answer3": "because",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "His granny died __ pneumonia.",
+      "answer0": "because",
+      "answer1": "thanks to",
+      "answer2": "of",
+      "answer3": "since",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1216,
+      "question": "I bought these plums __ the cake, so please don’t eat them.",
+      "answer0": "because of",
+      "answer1": "for",
+      "answer2": "so",
+      "answer3": "due to",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF CAUSE, TEST 3",
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "__ the weather forecast, our flight might be delayed.",
+      "answer0": "as a result of",
+      "answer1": "thanks to",
+      "answer2": "of",
+      "answer3": "due to",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "Nowadays more and more people are suffering __ obesity.",
+      "answer0": "from",
+      "answer1": "since",
+      "answer2": "so",
+      "answer3": "thanks to",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "I didn’t understand this task, __ I couldn’t fulfil it in time.",
+      "answer0": "therefore",
+      "answer1": "since",
+      "answer2": "because of",
+      "answer3": "due to",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "They didn’t give her a chance, __ she had to struggle herself.",
+      "answer0": "so",
+      "answer1": "because ",
+      "answer2": "from",
+      "answer3": "since",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "He married at 21 __ he had no other options.",
+      "answer0": "because of",
+      "answer1": "due to",
+      "answer2": "because",
+      "answer3": "as a result of",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "Jane went to bed early __ she had a terrible headache.",
+      "answer0": "so",
+      "answer1": "as",
+      "answer2": "from",
+      "answer3": "due to",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "My granny never talked about war__ it was the most terrible time in her life.",
+      "answer0": "since",
+      "answer1": "so",
+      "answer2": "therefore",
+      "answer3": "on account of",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "You’re going to have very serious health problems __ your harmful habits.",
+      "answer0": "in accordance with",
+      "answer1": "so",
+      "answer2": "because",
+      "answer3": "because of",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "Many people complained of insects in their flats __ the  bad living conditions.",
+      "answer0": "on account of",
+      "answer1": "therefore",
+      "answer2": "because",
+      "answer3": "so",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1217,
+      "question": "A tornado ruined their house, __ they had to find another place to live.",
+      "answer0": "since",
+      "answer1": "therefore",
+      "answer2": "because",
+      "answer3": "as a result of",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF CAUSE, TEST 4",
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "__ the alarm was not set, we were late for work.",
+      "answer0": "so",
+      "answer1": "from",
+      "answer2": "because",
+      "answer3": "thanks to",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "__ school was cancelled, we all went to the mall that Monday.",
+      "answer0": "so",
+      "answer1": "as a result",
+      "answer2": "in accordance with",
+      "answer3": "since",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "John made a rude comment, __ Helen doesn’t talk to him anymore.",
+      "answer0": "as",
+      "answer1": "from",
+      "answer2": "on account of",
+      "answer3": "so",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "Betty completed each task perfectly, __ she was promoted.",
+      "answer0": "therefore",
+      "answer1": "as",
+      "answer2": "since",
+      "answer3": "due to",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "We had to cancel our vacation __ the high ticket prices.",
+      "answer0": "as a result",
+      "answer1": "thanks to",
+      "answer2": "because of",
+      "answer3": "so",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "__ the task, you must fulfil these 3 columns in the report.",
+      "answer0": "so",
+      "answer1": "in accordance with",
+      "answer2": "on account of",
+      "answer3": "therefore",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "I was just extremely tired __ his endless parties, so we broke up.",
+      "answer0": "from",
+      "answer1": "for",
+      "answer2": "of",
+      "answer3": "as",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "What are you doing this __?",
+      "answer0": "for",
+      "answer1": "from",
+      "answer2": "because",
+      "answer3": "so",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "I’ve always dreamt of becoming a teacher, __ I entered this university.",
+      "answer0": "from",
+      "answer1": "in accordance with",
+      "answer2": "because of",
+      "answer3": "therefore",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1218,
+      "question": "Jack had to clean the floor __ he spilled his juice",
+      "answer0": "so",
+      "answer1": "therefore",
+      "answer2": "as a result",
+      "answer3": "since",
+      "rightAnswer": 3
+    },
+
+    {
+      "_comment": "PREPOSITIONS OF CAUSE, TEST 5",
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "Fred was driving at the speed of 160, __ he got a speeding ticket.",
+      "answer0": "since",
+      "answer1": "therefore",
+      "answer2": "because",
+      "answer3": "thanks to",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "__ changes in classifications, Pluto is no longer a planet.",
+      "answer0": "as",
+      "answer1": "from",
+      "answer2": "because of",
+      "answer3": "therefore ",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "Maria didn’t follow the recipe, __ the cake was not very tasty.",
+      "answer0": "so",
+      "answer1": "due to",
+      "answer2": "as a result of",
+      "answer3": "on account of",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "I learned to play the drums very quickly __ I took the lessons from a pro.",
+      "answer0": "for",
+      "answer1": "so",
+      "answer2": "because of",
+      "answer3": "in accordance with",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "__ the electricity didn’t work the most of the day, the ice cream in the freezer melted.",
+      "answer0": "from",
+      "answer1": "since",
+      "answer2": "therefore",
+      "answer3": "because",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "__ inflation, the ruble is worth less than before.",
+      "answer0": "since",
+      "answer1": "so",
+      "answer2": "because of",
+      "answer3": "because",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "__ this map, we should walk for 100 metres and then turn left.",
+      "answer0": "in accordance with",
+      "answer1": "because of",
+      "answer2": "therefore",
+      "answer3": "since",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "__ the fridge was almost empty, we had to go to the shop.",
+      "answer0": "from",
+      "answer1": "as a result",
+      "answer2": "because",
+      "answer3": "since",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "__ God’s sake, will you turn that music down?!",
+      "answer0": "for",
+      "answer1": "due to",
+      "answer2": "since",
+      "answer3": "thanks to",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1203,
+      "testId": 1219,
+      "question": "Everyone was shocked when Steve Jobs died __ cancer.",
+      "answer0": "for",
+      "answer1": "since",
+      "answer2": "of",
+      "answer3": "because",
+      "rightAnswer": 2
+    }
+  ]
+}

@@ -2,20 +2,20 @@ package com.chilik1020.creatordb.models;
 
 public class Chapter{
 
-    private int _id;
+    private Long _id;
 
     private String chapter;
 
-    public Chapter(int id, String chapter) {
+    public Chapter(Long id, String chapter) {
         this._id = id;
         this.chapter = chapter;
     }
 
-    public int get_id() {
+    public Long get_id() {
         return _id;
     }
 
-    public void set_id(int _id) {
+    public void set_id(Long _id) {
         this._id = _id;
     }
 
@@ -25,5 +25,13 @@ public class Chapter{
 
     public void setChapter(String chapter) {
         this.chapter = chapter;
+    }
+
+    @Override
+    public String toString() {
+        return "Chapter{" +
+                "_id=" + _id +
+                ", chapter='" + chapter + '\'' +
+                '}';
     }
 }

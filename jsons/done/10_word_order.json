@@ -1,0 +1,560 @@
+{
+  "chapterId": 10,
+  "chapter": "Word order",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 1000,
+      "topic": "Word order",
+      "path": "10_word_order_00_word_order.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 1000,
+      "topic": "Word order"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 1000,
+      "lessonTestId": 1000,
+      "topic": "Word order",
+      "price": 0
+    },
+    {
+      "testId": 1001,
+      "lessonTestId": 1000,
+      "topic": "Word order",
+      "price": 0
+    },
+    {
+      "testId": 1002,
+      "lessonTestId": 1000,
+      "topic": "Word order",
+      "price": 2
+    },
+    {
+      "testId": 1003,
+      "lessonTestId": 1000,
+      "topic": "Word order",
+      "price": 2
+    },
+    {
+      "testId": 1004,
+      "lessonTestId": 1000,
+      "topic": "Word order",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "WORD ORDER, TEST 1",
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "He always drives his car out of the garage at seven o'clock in the morning.",
+      "answer1": "At seven o'clock in the morning he gets always his car out of the garage.",
+      "answer2": "He always at seven o'clock in the morning drives his car out of the garage.",
+      "answer3": "At seven o'clock in the morning he gets his car out of the garage always.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "I’m sorry but never I do the vacuum cleaning and washing up.",
+      "answer1": "I’m sorry but I never do the vacuum cleaning and washing up.",
+      "answer2": "Never I’m sorry but I do the vacuum cleaning and washing up.",
+      "answer3": "I’m sorry but I do the vacuum cleaning and washing up never.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "They have often a cup of tea at the hotel at about three o'clock in the afternoon.",
+      "answer1": "They at about three o'clock in the afternoon often have a cup of tea at the hotel.",
+      "answer2": "Often they have a cup of tea at the hotel at about three o'clock in the afternoon.",
+      "answer3": "They often have a cup of tea at the hotel at about three o'clock in the afternoon.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "They are at present abroad, don’t phone them.",
+      "answer1": "They are abroad at present, don’t phone them.",
+      "answer2": "They abroad are at present, don’t phone them.",
+      "answer3": "Abroad they are at present, don’t phone them.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "I remember Mr. and Mrs. Jones, they used to live nearby.",
+      "answer1": "I remember Mr. and Mrs. Jones, they nearby used to live.",
+      "answer2": "I remember Mr. and Mrs. Jones, they used to nearby live.",
+      "answer3": "I remember Mr. and Mrs. Jones, nearby they used to live.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "My cousin is moving definitely to Dublin soon, he’s so happy about that.",
+      "answer1": "My cousin is moving to Dublin soon definitely, he’s so happy about that.",
+      "answer2": "My cousin is definitely moving to Dublin soon, he’s so happy about that.",
+      "answer3": "My cousin definitely is moving to Dublin soon, he’s so happy about that.",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "Sign here your name – at the bottom of the page.",
+      "answer1": "Sign your here name – at the bottom of the page.",
+      "answer2": "Sign your name – at the bottom of the page here.",
+      "answer3": "Sign your name here – at the bottom of the page.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "Agricultural production and forest cover are also affected.",
+      "answer1": "Agricultural production and forest cover are affected also.",
+      "answer2": "Agricultural production and forest cover also are affected.",
+      "answer3": "Agricultural production also and forest cover are affected.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "Dina’s boyfriend will buy probably her some flowers.",
+      "answer1": "Dina’s boyfriend will probably buy her some flowers.",
+      "answer2": "Dina’s boyfriend probably will buy her some flowers.",
+      "answer3": "Dina’s boyfriend will buy her some flowers probably.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1000,
+      "question": "Which is correct?",
+      "answer0": "He explained how easy would it be to do it.",
+      "answer1": "He explained would how easy it be to do it.",
+      "answer2": "He explained how easy it would be to do it.",
+      "answer3": "He explained how it would be easy to do it.",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "WORD ORDER, TEST 2",
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "This is the town I used to live in.",
+      "answer1": "This is the town I used to live.",
+      "answer2": "This is the town I used in to live.",
+      "answer3": "I used to live in this is the town.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "Nobody's cared ever about anything you've said.",
+      "answer1": "Nobody's cared about anything ever you've said.",
+      "answer2": "Ever nobody's cared about anything you've said.",
+      "answer3": "Nobody's ever cared about anything you've said.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "He asked me what was the point of it.",
+      "answer1": "He asked me what the point of it was.",
+      "answer2": "He asked me was what the point of it.",
+      "answer3": "He asked me what the point was of it.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "Everybody makes mistakes, even firefighters or doctors.",
+      "answer1": "Even everybody makes mistakes, firefighters or doctors.",
+      "answer2": "Everybody even makes mistakes, firefighters or doctors.",
+      "answer3": "Everybody makes mistakes, firefighters or doctors even.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "I made iced tea and downstairs left it.",
+      "answer1": "I made iced tea and left downstairs it.",
+      "answer2": "I made iced tea and left it downstairs.",
+      "answer3": "I made iced tea downstairs and left it.",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "I don't think we should any more go.",
+      "answer1": "I don't think we any more should go.",
+      "answer2": "I don't think any more we should go.",
+      "answer3": "I don't think we should go any more.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "He asked me if had I finished it yet.",
+      "answer1": "He asked me if I had finished it yet.",
+      "answer2": "He asked me if had finished I it yet.",
+      "answer3": "He asked me if I yet had finished it.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "Who are you looking at?",
+      "answer1": "Who at are you looking?",
+      "answer2": "At Who you are looking?",
+      "answer3": "Who are looking you at?",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "However, still progress is slow and inconsistent.",
+      "answer1": "However, progress is slow and inconsistent still.",
+      "answer2": "However, progress still is still slow and inconsistent.",
+      "answer3": "However, progress is still slow and inconsistent.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1001,
+      "question": "Which is correct?",
+      "answer0": "How do we often go to the Italian restaurant?",
+      "answer1": "How do we go often to the Italian restaurant?",
+      "answer2": "How often do we go to the Italian restaurant?",
+      "answer3": "How often we go to the Italian restaurant?",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "WORD ORDER, TEST 3",
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "How have long the Aborigines been living in the outback of Australia?",
+      "answer1": "How long have the Aborigines been living in the outback of Australia?",
+      "answer2": "How long the Aborigines have been living in the outback of Australia?",
+      "answer3": "How long have been the Aborigines living in the outback of Australia?",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "Thirty countries have joined already the project to provide quality tele-education and telemedicine.",
+      "answer1": "Thirty countries already have joined the project to provide quality tele-education and telemedicine.",
+      "answer2": "Thirty countries have joined the project already to provide quality tele-education and telemedicine.",
+      "answer3": "Thirty countries have already joined the project to provide quality tele-education and telemedicine.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "Whose boyfriend did we talk about?",
+      "answer1": "About whose boyfriend did we talk?",
+      "answer2": "Whose boyfriend about did we talk?",
+      "answer3": "Whose boyfriend did we about talk?",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "She asked me why hadn't I had any time.",
+      "answer1": "She asked me why hadn't had I any time.",
+      "answer2": "She asked me why I hadn't had any time.",
+      "answer3": "She asked me I why hadn't had any time.",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "Maybe no longer she wants to go to the cinema with you.",
+      "answer1": "Maybe she no longer wants to go to the cinema with you.",
+      "answer2": "Maybe she wants no longer to go to the cinema with you.",
+      "answer3": "Maybe she wants to go to the cinema with you no longer.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "The clown was wearing a big green-yellow hat.",
+      "answer1": "The clown was wearing a big green and yellow hat.",
+      "answer2": "The clown was wearing a yellow and green big hat.",
+      "answer3": "The clown was wearing a hat big, green, yellow.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "Our friends must also write a test.",
+      "answer1": "Our friends also must write a test.",
+      "answer2": "Our friends must write a test also.",
+      "answer3": "Our friends must write also a test.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "I can't stay any longer here, I have to leave now",
+      "answer1": "I can't any longer stay here, I have to leave now.",
+      "answer2": "I can't stay here any longer, I have to leave now.",
+      "answer3": "I any longer can't stay here, I have to leave now.",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "When the contract should be signed?",
+      "answer1": "When the contract be should signed?",
+      "answer2": "When should be the contract signed?",
+      "answer3": "When should the contract be signed?",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1002,
+      "question": "Which is correct?",
+      "answer0": "I have a beautiful square wooden table in the dining room.",
+      "answer1": "I have a beautiful wooden square table in the dining room.",
+      "answer2": "I have a square beautiful wooden table in the dining room.",
+      "answer3": "I have a square wooden beautiful table in the dining room.",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "WORD ORDER, TEST 4",
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "Yesterday, he asked me what was doing I that night.",
+      "answer1": "Yesterday, he asked me what I was doing that night.",
+      "answer2": "Yesterday, he asked me what was I doing that night.",
+      "answer3": "Yesterday, he asked me what I that night was doing.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "They rarely find a parking place near the shops.",
+      "answer1": "They find rarely a parking place near the shops.",
+      "answer2": "Rarely they find a parking place near the shops.",
+      "answer3": "They find a parking place rarely near the shops.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "Adam was given a little adorable black kitten by his sister.",
+      "answer1": "Adam was given a little black adorable kitten by his sister.",
+      "answer2": "Adam was given an adorable black little kitten by his sister.",
+      "answer3": "Adam was given an adorable little black kitten by his sister.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "In the afternoon sometimes I unload the dishwasher.",
+      "answer1": "In the afternoon I sometimes unload the dishwasher.",
+      "answer2": "In the afternoon I unload sometimes the dishwasher.",
+      "answer3": "In the afternoon I unload the dishwasher sometimes.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "How long does it usually take you to prepare for each meeting?",
+      "answer1": "How long it does usually take you to prepare for each meeting?",
+      "answer2": "How long does it take usually you to prepare for each meeting?",
+      "answer3": "How long it usually takes you to prepare for each meeting?",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "This way we may be ahead several steps.",
+      "answer1": "This way ahead we may be several steps.",
+      "answer2": "This way we may ahead be several steps.",
+      "answer3": "This way we may be several steps ahead.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "My brother hardly feeds the dog.",
+      "answer1": "My brother hardly ever feeds the dog.",
+      "answer2": "My brother hardly feeds ever the dog.",
+      "answer3": "My brother feeds the dog hardly ever.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "He saw an interesting old American movie with his friends at home.",
+      "answer1": "He saw an American interesting old movie with his friends at home.",
+      "answer2": "He saw an old interesting American movie with his friends at home.",
+      "answer3": "He saw an old American interesting movie with his friends at home.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "How often you have to renew a passport?",
+      "answer1": "How do often you have to renew a passport?",
+      "answer2": "How often do you have to renew a passport?",
+      "answer3": "How often you do have to renew a passport?",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1003,
+      "question": "Which is correct?",
+      "answer0": "Patients are sent for highly specialized overseas care.",
+      "answer1": "Patients are sent for highly specialized care overseas.",
+      "answer2": "Patients are overseas sent for highly specialized care.",
+      "answer3": "Patients are sent overseas for highly specialized care.",
+      "rightAnswer": 3
+    },
+
+    {
+      "_comment": "WORD ORDER, TEST 5",
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "Especially when we know where you live.",
+      "answer1": "Especially when we know where live you.",
+      "answer2": "Especially when we know where do you live.",
+      "answer3": "Especially when we know you live where.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "My grandmother has knitted a new woolen nice pullover for me.",
+      "answer1": "My grandmother has knitted a nice new woolen pullover for me.",
+      "answer2": "My grandmother has knitted a nice woolen new pullover for me.",
+      "answer3": "My grandmother has knitted a woolen nice new pullover for me.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "Unfortunately, it always has been expensive to fly to Australia.",
+      "answer1": "Unfortunately, it has been always expensive to fly to Australia.",
+      "answer2": "Unfortunately, it has always been expensive to fly to Australia.",
+      "answer3": "Unfortunately, always it has been expensive to fly to Australia.",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "The baby is down hiding there under the table.",
+      "answer1": "The baby down there is hiding under the table.",
+      "answer2": "The baby is down there hiding under the table.",
+      "answer3": "The baby is hiding down there under the table.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "Molly almost fell off the bike.",
+      "answer1": "Molly fell off almost the bike.",
+      "answer2": "Molly fell almost off the bike.",
+      "answer3": "Molly fell off the bike almost.",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "When Mark did tell us a long story?",
+      "answer1": "When did Mark tell us a long story?",
+      "answer2": "When did tell Mark us a long story?",
+      "answer3": "When did Mark tell a long story us?",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "Looking back, she was right probably.",
+      "answer1": "Looking back, she was probably right.",
+      "answer2": "Looking back, she probably was right.",
+      "answer3": "Looking back, probably she was right.",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "I don't know who's you sending but you come at the wrong time.",
+      "answer1": "I don't know sending you who's but you come at the wrong time.",
+      "answer2": "I don't know who's sending you but you come at the wrong time.",
+      "answer3": "I don't know you who's sending but you come at the wrong time.",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "This is worse than definitely usual.",
+      "answer1": "This definitely is worse than usual.",
+      "answer2": "This is worse than usual definitely.",
+      "answer3": "This is definitely worse than usual.",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1000,
+      "testId": 1004,
+      "question": "Which is correct?",
+      "answer0": "How many orders have we received so far?",
+      "answer1": "How many orders we have received so far?",
+      "answer2": "How orders many have we received so far?",
+      "answer3": "How many orders have received we so far?",
+      "rightAnswer": 0
+    }
+  ]
+}

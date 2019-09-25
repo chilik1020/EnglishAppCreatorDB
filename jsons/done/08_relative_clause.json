@@ -1,0 +1,560 @@
+{
+  "chapterId": 8,
+  "chapter": "Relative clause",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 800,
+      "topic": "Relative clause",
+      "path": "08_relative_clause_00_relative_clause.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 800,
+      "topic": "Relative clause"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 800,
+      "lessonTestId": 800,
+      "topic": "Relative clause",
+      "price": 0
+    },
+    {
+      "testId": 801,
+      "lessonTestId": 800,
+      "topic": "Relative clause",
+      "price": 0
+    },
+    {
+      "testId": 802,
+      "lessonTestId": 800,
+      "topic": "Relative clause",
+      "price": 2
+    },
+    {
+      "testId": 803,
+      "lessonTestId": 800,
+      "topic": "Relative clause",
+      "price": 2
+    },
+    {
+      "testId": 804,
+      "lessonTestId": 800,
+      "topic": "Relative clause",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "RELATIVE CLAUSE, TEST 1",
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "A waiter __ served us was very nice and welcoming.",
+      "answer0": "who",
+      "answer1": "which",
+      "answer2": "where",
+      "answer3": "-",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "The bus __ us to the hotel suddenly broke down.",
+      "answer0": "took",
+      "answer1": "taking",
+      "answer2": "taken",
+      "answer3": "-",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "Where is the nearest shop __ sells dairy products?",
+      "answer0": "where",
+      "answer1": "which",
+      "answer2": "when",
+      "answer3": "-",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "I share this room with my brother, __ I get on really well.",
+      "answer0": "whom with",
+      "answer1": "that",
+      "answer2": "with whom",
+      "answer3": "which",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "Some of my friends __ to the party told me they would be late.",
+      "answer0": "invited",
+      "answer1": "inviting",
+      "answer2": "that are invite",
+      "answer3": "invite",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "Mike said some bad things about you __ were not true.",
+      "answer0": "what",
+      "answer1": "whose",
+      "answer2": "who",
+      "answer3": "that",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "Last year I went to London __ is the capital of Great Britain.",
+      "answer0": "where",
+      "answer1": "what",
+      "answer2": "-",
+      "answer3": "which",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "John showed me his new flat, __ he was very proud.",
+      "answer0": "which of",
+      "answer1": "of which",
+      "answer2": "that",
+      "answer3": "what",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "It must be very hard to sleep at nights for people __ next to the train station.",
+      "answer0": "lived",
+      "answer1": "living",
+      "answer2": "who living",
+      "answer3": "-",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 800,
+      "question": "Mike __ cat is ill, took it to the vet.",
+      "answer0": "who",
+      "answer1": "which",
+      "answer2": "whose",
+      "answer3": "that",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "RELATIVE CLAUSE, TEST 2",
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "What’s the name of the hotel __ you told me about?",
+      "answer0": "that",
+      "answer1": "what",
+      "answer2": "which",
+      "answer3": "whose",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "The book __ you were just looking at belongs to me.",
+      "answer0": "where",
+      "answer1": "–",
+      "answer2": "when",
+      "answer3": "whose",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "The man __ is standing in front of the door is Tina’s father.",
+      "answer0": "which",
+      "answer1": "–",
+      "answer2": "with whom",
+      "answer3": "who",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "The kid __ in the accident was taken to hospital.",
+      "answer0": "injured",
+      "answer1": "injuring",
+      "answer2": "injure",
+      "answer3": "that injured",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "The books __ I borrowed were amazing.",
+      "answer0": "what",
+      "answer1": "where",
+      "answer2": "that",
+      "answer3": "whose",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "There were some people __ in the river, even though it was rather cold.",
+      "answer0": "are swimming",
+      "answer1": "swum",
+      "answer2": "that are swimming",
+      "answer3": "swimming",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "My parents have always tried to give us everything __ we wanted.",
+      "answer0": "what",
+      "answer1": "–",
+      "answer2": "that",
+      "answer3": "which",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "The bus driver was a man __ used to live in my neighborhood.",
+      "answer0": "who",
+      "answer1": "which",
+      "answer2": "whose",
+      "answer3": "-",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "The letter __ I received this morning had some bad news.",
+      "answer0": "whose",
+      "answer1": "–",
+      "answer2": "who",
+      "answer3": "where",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 801,
+      "question": "The exam __ I passed last week wasn’t easy.",
+      "answer0": "what",
+      "answer1": "which",
+      "answer2": "when",
+      "answer3": "who",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "RELATIVE CLAUSE, TEST 3",
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "A church is a place __ people go to find some support.",
+      "answer0": "what",
+      "answer1": "when",
+      "answer2": "where",
+      "answer3": "whose",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "Jenny showed me some photos __ by her brother.",
+      "answer0": "taken",
+      "answer1": "taking",
+      "answer2": "which took",
+      "answer3": "that taken",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "The Italian restaurant __ I celebrated my birthday wasn’t quiet at all.",
+      "answer0": "which",
+      "answer1": "that",
+      "answer2": "in where",
+      "answer3": "where",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "That’s the type of sport __ I know nothing about.",
+      "answer0": "-",
+      "answer1": "what",
+      "answer2": "who",
+      "answer3": "whose",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "This school is only for children __ parents work in our factory.",
+      "answer0": "where",
+      "answer1": "whose",
+      "answer2": "which",
+      "answer3": "in which",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "Do you know the name of this student __ parents are French?",
+      "answer0": "whose",
+      "answer1": "where",
+      "answer2": "of whom",
+      "answer3": "who",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "The woman was wearing some strange clothes __ looked very expensive.",
+      "answer0": "who",
+      "answer1": "that",
+      "answer2": "–",
+      "answer3": "whose",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "Margaret gave me a big box __ contained some interesting leaflets.",
+      "answer0": "which",
+      "answer1": "in which",
+      "answer2": "what",
+      "answer3": "in what",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "I live in a wonderful village __ Yesenin used to write his poems.",
+      "answer0": "in where",
+      "answer1": "where",
+      "answer2": "– ",
+      "answer3": "there",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 802,
+      "question": "Jonathan is my colleague __ son wants to get acquainted with you.",
+      "answer0": "whom",
+      "answer1": "who",
+      "answer2": "with whom",
+      "answer3": "whose",
+      "rightAnswer": 3
+    },
+
+    {
+      "_comment": "RELATIVE CLAUSE, TEST 4",
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "She is the nurse __ looked after me.",
+      "answer0": "what",
+      "answer1": "which",
+      "answer2": "who",
+      "answer3": "-",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "Do you like the neighbor __ lives next door to you",
+      "answer0": "who",
+      "answer1": "-",
+      "answer2": "where",
+      "answer3": "when",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "The pilot __ plane landed in the field was not hurt.",
+      "answer0": "who",
+      "answer1": "that",
+      "answer2": "whose",
+      "answer3": "whom",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "He is the only student __ speaks English very well.",
+      "answer0": "whom",
+      "answer1": "whose",
+      "answer2": "what",
+      "answer3": "who",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "Do you remember the day __ we first kissed?",
+      "answer0": "which",
+      "answer1": "where",
+      "answer2": "in what",
+      "answer3": "when",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "The man __ I bought this food from has won the lottery.",
+      "answer0": "whom",
+      "answer1": "whose",
+      "answer2": "of whom",
+      "answer3": "who",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "Do you know a shop __ I can buy a laptop computer?",
+      "answer0": "that",
+      "answer1": "where",
+      "answer2": "which",
+      "answer3": "what",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "John Skull, __ book “English made simple” sold a million copies, died today.",
+      "answer0": "whose",
+      "answer1": "which",
+      "answer2": "that",
+      "answer3": "who",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "The language __ people speak in Wales is called Welsh.",
+      "answer0": "what",
+      "answer1": "in what",
+      "answer2": "in that",
+      "answer3": "that",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 803,
+      "question": "Ted, __ fixes my car, is a very good friend of my uncle.",
+      "answer0": "which",
+      "answer1": "who",
+      "answer2": "whose",
+      "answer3": "whom",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "RELATIVE CLAUSE, TEST 5",
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "I hate it __ people tell me what to do.",
+      "answer0": "where",
+      "answer1": "who",
+      "answer2": "when",
+      "answer3": "whose",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "The parcel __ contains your present is on the table.",
+      "answer0": "that",
+      "answer1": "what",
+      "answer2": "in what",
+      "answer3": "-",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "Andy showed me a picture of his son, __ is a police officer.",
+      "answer0": "whose",
+      "answer1": "who",
+      "answer2": "whom",
+      "answer3": "with whom",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "My brother, __ lives in Berlin, is much older than me.",
+      "answer0": "whose",
+      "answer1": "what",
+      "answer2": "who",
+      "answer3": "with whom",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "These bikes, __ cost a fortune, are made in Japan.",
+      "answer0": "what",
+      "answer1": "whose",
+      "answer2": "whom",
+      "answer3": "which",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "They introduced me to John, __ I liked immediately.",
+      "answer0": "which",
+      "answer1": "whom",
+      "answer2": "with whom",
+      "answer3": "of which",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "It was in 2005 __ Hurricane Katrina hit New Orleans.",
+      "answer0": "when",
+      "answer1": "where",
+      "answer2": "once",
+      "answer3": "-",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "Japan is a country __ earthquakes are very common.",
+      "answer0": "-",
+      "answer1": "where",
+      "answer2": "when",
+      "answer3": "in what",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "He’s the boy __ mother saved many people’s lives.",
+      "answer0": "what’s",
+      "answer1": "whose",
+      "answer2": "-",
+      "answer3": "whom",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 800,
+      "testId": 804,
+      "question": "We went to the restaurant __ we celebrated our wedding day.",
+      "answer0": "in what",
+      "answer1": "-",
+      "answer2": "which of",
+      "answer3": "where",
+      "rightAnswer": 3
+    }
+  ]
+}

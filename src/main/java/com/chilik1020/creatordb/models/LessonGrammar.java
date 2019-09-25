@@ -1,36 +1,36 @@
 package com.chilik1020.creatordb.models;
 
-public class Lesson {
+public class LessonGrammar {
 
-    private int _id;
+    private Long _id;
 
-    private int chapterId;
+    private Long chapterId;
 
     private String topic;
 
     private String grammar;
 
-    public Lesson(int _id, int chapterId, String topic, String grammar) {
+    public LessonGrammar(Long _id, Long chapterId, String topic, String grammar) {
         this._id = _id;
         this.chapterId = chapterId;
         this.topic = topic;
         this.grammar = grammar;
     }
 
-    public int getChapterId() {
+    public Long getChapterId() {
         return chapterId;
     }
 
-    public void setChapterId(int chapterId) {
+    public void setChapterId(Long chapterId) {
         this.chapterId = chapterId;
     }
 
 
-    public int getId() {
+    public Long getId() {
         return _id;
     }
 
-    public void setId(int _id) {
+    public void setId(Long _id) {
         this._id = _id;
     }
 
@@ -52,7 +52,7 @@ public class Lesson {
 
     @Override
     public String toString() {
-        return "Lesson{" +
+        return "LessonGrammar{" +
                 "_id=" + _id +
                 ", chapterId=" + chapterId +
                 ", topic='" + topic + '\'' +

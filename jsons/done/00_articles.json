@@ -1,0 +1,561 @@
+{
+  "chapterId": 0,
+  "chapter": "Articles",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 0,
+      "topic": "A, An, Some, No article",
+      "path": "00_articles_00_a_an_some.html"
+    },
+    {
+      "lessonGrammarId": 1,
+      "topic": "The",
+      "path": "00_articles_01_the.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 0,
+      "topic": "Articles"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 0,
+      "lessonTestId": 0,
+      "topic": "Articles",
+      "price": 0
+    },
+    {
+      "testId": 1,
+      "lessonTestId": 0,
+      "topic": "Articles",
+      "price": 0
+    },
+    {
+      "testId": 2,
+      "lessonTestId": 0,
+      "topic": "Articles",
+      "price": 2
+    },
+    {
+      "testId": 3,
+      "lessonTestId": 0,
+      "topic": "Articles",
+      "price": 2
+    },
+    {
+      "testId": 4,
+      "lessonTestId": 0,
+      "topic": "Articles",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "ARTICLES, TEST 1",
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "I just finished __ book you gave me.",
+      "answer0": "a",
+      "answer1": "the",
+      "answer2": "-",
+      "answer3": "some",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "__ day of __ dead is __ national holiday in Mexico.",
+      "answer0": "A, a, a",
+      "answer1": "The, a, a",
+      "answer2": "The, the, a",
+      "answer3": "A, the, a",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "Can you pass __ salt, please?",
+      "answer0": "the",
+      "answer1": "-",
+      "answer2": "a",
+      "answer3": "an",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "Where is __ tallest building in __ world?",
+      "answer0": "the, the",
+      "answer1": "-, the",
+      "answer2": "-, -",
+      "answer3": "a, the",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "I found __ book, __ very strange book.",
+      "answer0": "a, the",
+      "answer1": "a, -",
+      "answer2": "the, -",
+      "answer3": "a, a",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "It is __ best time to talk to him.",
+      "answer0": "-",
+      "answer1": "the",
+      "answer2": "a",
+      "answer3": "an",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "I found __ book, __ book was about __ little boy.",
+      "answer0": "the, the, a",
+      "answer1": "a, a, a",
+      "answer2": "a, -, a",
+      "answer3": "a, the, a",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "London, __ capital of England, is on __ Thames.",
+      "answer0": "the, -",
+      "answer1": "a, the",
+      "answer2": "the, the",
+      "answer3": "a, -",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "I would have done __ same in __ same situation.",
+      "answer0": "-, -",
+      "answer1": "the, the",
+      "answer2": "-, the",
+      "answer3": "the, -",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 0,
+      "question": "__ tomato is not __ vegetable. It's __ fruit.",
+      "answer0": "The, a, a",
+      "answer1": "-,a, a",
+      "answer2": "-, -, -",
+      "answer3": "The, a, -",
+      "rightAnswer": 0
+    },
+    {
+      "_comment": "ARTICLES, TEST 2",
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "My friends went to __ cinema without me.",
+      "answer0": "-",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "Did you fix __ car? we have to get it back today.",
+      "answer0": "-",
+      "answer1": "a",
+      "answer2": "an",
+      "answer3": "the",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "I am __ dentist but I am also afraid to go to __ dentist.",
+      "answer0": "a, the",
+      "answer1": "a, a",
+      "answer2": "a, -",
+      "answer3": "the, the",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "I remember __ night we met.",
+      "answer0": "the",
+      "answer1": "a",
+      "answer2": "-",
+      "answer3": "an",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "___ girls want ___ guys who are dangerous, have ___ tattoos, play  ___ guitar.",
+      "answer0": "A, a, a, -",
+      "answer1": "-, -, -, the",
+      "answer2": "The, the, the, -",
+      "answer3": "-, -, -, -",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "Reading ___ books is very useful for __ brain.",
+      "answer0": "-, a",
+      "answer1": "-, the",
+      "answer2": "-, -",
+      "answer3": "the, -",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "Be quiet. Don't talk in __ theater.",
+      "answer0": "-",
+      "answer1": "a",
+      "answer2": "the",
+      "answer3": "an",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "__ bag looked very old.",
+      "answer0": "The",
+      "answer1": "-",
+      "answer2": "A",
+      "answer3": "An",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "I hate washing ___ dishes.",
+      "answer0": "-",
+      "answer1": "the",
+      "answer2": "a",
+      "answer3": "some",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 1,
+      "question": "Pack your things and leave __ school.",
+      "answer0": "-",
+      "answer1": "the",
+      "answer2": "a",
+      "answer3": "an",
+      "rightAnswer": 1
+    },
+    {
+      "_comment": "ARTICLES, TEST 3",
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "Repairing ___ old cars is his hobby.",
+      "answer0": "the",
+      "answer1": "a",
+      "answer2": "-",
+      "answer3": "an",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "There are heavy taxes for __ rich in France.",
+      "answer0": "-",
+      "answer1": "a",
+      "answer2": "the",
+      "answer3": "an",
+      "rightAnswer": 2 
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "What did happen at __ school yesterday?",
+      "answer0": "the",
+      "answer1": "-",
+      "answer2": "a",
+      "answer3": "an",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "I headed to __ nearest restaurant.",
+      "answer0": "-",
+      "answer1": "the",
+      "answer2": "a",
+      "answer3": "an",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "A: You need some rest. B: No, I have __ little time.",
+      "answer0": "a",
+      "answer1": "-",
+      "answer2": "the",
+      "answer3": "some",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "All I see is just __ few people near __ forest.",
+      "answer0": "a, a",
+      "answer1": "-, the",
+      "answer2": "the, the",
+      "answer3": "a, the",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "Will you pay me __ car repair?",
+      "answer0": "-",
+      "answer1": "an",
+      "answer2": "a",
+      "answer3": "the",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "I need your help after ___ school.",
+      "answer0": "a",
+      "answer1": "the",
+      "answer2": "-",
+      "answer3": "an",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": "Could you put __ axe down?",
+      "answer0": "a",
+      "answer1": "an",
+      "answer2": "-",
+      "answer3": "the",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 2,
+      "question": " __ Berlin is one of __ cities I visited last year.",
+      "answer0": "- , the",
+      "answer1": "The, the",
+      "answer2": "-, -",
+      "answer3": "-, a",
+      "rightAnswer": 0
+    },
+    {
+      "_comment": "ARTICLES, TEST 4",
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "I'm going to go ___ Miami and __ Bahamas.",
+      "answer0": "-, -",
+      "answer1": "-, the",
+      "answer2": "the, the",
+      "answer3": "the, -",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "We should get to know each other __ little better.",
+      "answer0": "the",
+      "answer1": "-",
+      "answer2": "an",
+      "answer3": "a",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "__ Spanish arrived in America in __ 15th century.",
+      "answer0": "-, a",
+      "answer1": "The, the",
+      "answer2": "-, an",
+      "answer3": "-, -",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "I told her __ story of our sons.",
+      "answer0": "a",
+      "answer1": "the",
+      "answer2": "-",
+      "answer3": "an",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "He did everything __ doctor asked.",
+      "answer0": "a",
+      "answer1": "-",
+      "answer2": "an",
+      "answer3": "the",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "Did you wash __ dishes?",
+      "answer0": "the",
+      "answer1": "-",
+      "answer2": "a",
+      "answer3": "an",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "If it looks like __ apple and it tastes like __ apple, it's probably __ apple.",
+      "answer0": "an, the, the",
+      "answer1": "an, an, an",
+      "answer2": "-, - , -",
+      "answer3": "a, a, a",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "I think __ end of __ world is coming.",
+      "answer0": "the, the",
+      "answer1": "-, the",
+      "answer2": "-, -",
+      "answer3": "an, a",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "After ___ school he visits his brother in __ hospital.",
+      "answer0": "-, a",
+      "answer1": "-, -",
+      "answer2": "the, the",
+      "answer3": "-, the",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 3,
+      "question": "__ Pacific ocean is __ largest in __ world.",
+      "answer0": "- , the, the",
+      "answer1": "The, the, the",
+      "answer2": "-, -, the",
+      "answer3": "The, -, the",
+      "rightAnswer": 1
+    },
+    {
+      "_comment": "ARTICLES, TEST 5",
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "I know __ little restaurant just around __ corner.",
+      "answer0": "a, a",
+      "answer1": "a, the",
+      "answer2": "the, the",
+      "answer3": "-, the",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "__ old and __ sick is not required to work.",
+      "answer0": "An, -",
+      "answer1": "An, a",
+      "answer2": "-, -",
+      "answer3": "The, the",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "They speak __ same language and embrace __ same religion.",
+      "answer0": "-, -",
+      "answer1": "the, the",
+      "answer2": "the, -",
+      "answer3": "-, the",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "__ girl giving another __ girl __ compliment is never sincere.",
+      "answer0": "a, a, a",
+      "answer1": "A, -, a",
+      "answer2": "The, - , -",
+      "answer3": "A,-, an",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "__ second law of thermodynamics says that  __  entropy will always increase.",
+      "answer0": "the, the",
+      "answer1": "A, an",
+      "answer2": "The, a",
+      "answer3": "The, -",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "It is like beginning __ story in __ middle.",
+      "answer0": "-, the",
+      "answer1": "a, the",
+      "answer2": "a, -",
+      "answer3": "-, -",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "She worked as __ reader to __ blind.",
+      "answer0": "a, -",
+      "answer1": "a, a",
+      "answer2": "-, the",
+      "answer3": "a, the",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "He preaches in __ prison church.",
+      "answer0": "a",
+      "answer1": "the",
+      "answer2": "-",
+      "answer3": "an",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "We'll go there and follow __ 37th parallel over __ Andes.",
+      "answer0": "the, -",
+      "answer1": "-, -",
+      "answer2": "the, the",
+      "answer3": "-, the",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 0,
+      "testId": 4,
+      "question": "I should have given it __ little more attention.",
+      "answer0": "a",
+      "answer1": "-",
+      "answer2": "an",
+      "answer3": "the",
+      "rightAnswer": 0
+    }
+  ]
+}

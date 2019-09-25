@@ -1,0 +1,570 @@
+{
+  "chapterId": 9,
+  "chapter": "Adjectives and adverbs",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 900,
+      "topic": "Adjective and adverb",
+      "path": "09_adjectives_and_adverbs_00_adjective_and_adverb.html"
+    },
+    {
+      "lessonGrammarId": 901,
+      "topic": "Adjective -ing and -ed",
+      "path": "09_adjectives_and_adverbs_01_ing_ed_adjective.html"
+    },
+    {
+      "lessonGrammarId": 902,
+      "topic": "Comparative and superlative adjectives",
+      "path": "09_adjectives_and_adverbs_02_comparative_superlative.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 900,
+      "topic": "Adjectives and adverbs"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 900,
+      "lessonTestId": 900,
+      "topic": "Adjectives and adverbs",
+      "price": 0
+    },
+    {
+      "testId": 901,
+      "lessonTestId": 900,
+      "topic": "Adjectives and adverbs",
+      "price": 0
+    },
+    {
+      "testId": 902,
+      "lessonTestId": 900,
+      "topic": "Adjectives and adverbs",
+      "price": 2
+    },
+    {
+      "testId": 903,
+      "lessonTestId": 900,
+      "topic": "Adjectives and adverbs",
+      "price": 2
+    },
+    {
+      "testId": 904,
+      "lessonTestId": 900,
+      "topic": "Adjectives and adverbs",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "ADJECTIVES AND ADVERBS, TEST 1",
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "She was __ when she got the job but three weeks __ she was fired.",
+      "answer0": "happier, later",
+      "answer1": "happy, later",
+      "answer2": "happily, lately",
+      "answer3": "happy, latter",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "Mike earns __ money than his wife but he is __ calm.",
+      "answer0": "little, absolutely",
+      "answer1": "less, absolute",
+      "answer2": "least, absolutely",
+      "answer3": "less, absolutely",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "She was __ affected by the death of his __ friend.",
+      "answer0": "deeply, best",
+      "answer1": "deeply, better",
+      "answer2": "deep, best",
+      "answer3": "deep, good",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "She used to be a __ musician, but she __ plays at all now.",
+      "answer0": "greatest, hardly",
+      "answer1": "great, hard",
+      "answer2": "great, hardly",
+      "answer3": "greater, harder",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "Have you seen any __ cartoons on TV __?",
+      "answer0": "best, later",
+      "answer1": "good, lately",
+      "answer2": "better, lately",
+      "answer3": "good, late",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "They went __ to the headmaster with their __complaint.",
+      "answer0": "directly, serious",
+      "answer1": "directly, more serious",
+      "answer2": "direct, seriously",
+      "answer3": "more direct, serious",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "The teacher tried __ to make her class __.",
+      "answer0": "hardly, happy",
+      "answer1": "hard, happy",
+      "answer2": "harder, happily",
+      "answer3": "hard, happily",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "Australians and New Zealanders are __ related.",
+      "answer0": "closer",
+      "answer1": "close",
+      "answer2": "closely",
+      "answer3": "closelly",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "Jane sat there __, waiting for someone to come.",
+      "answer0": "silently",
+      "answer1": "silent",
+      "answer2": "silentely",
+      "answer3": "more silent",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 900,
+      "question": "She stayed __ even though she looked rather __.",
+      "answer0": "calmer, angrier",
+      "answer1": "calmly, angry",
+      "answer2": "calm, angry",
+      "answer3": "calm, angrier",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "ADJECTIVES AND ADVERBS, TEST 2",
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "She was __ to him when she heard that he had lost his job __.",
+      "answer0": "friend, unexpectedly",
+      "answer1": "friendlier, unexpected",
+      "answer2": "friendly, more unexpected",
+      "answer3": "friendly, unexpectedly",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "The house is rather __ but Joan has decorated it __.",
+      "answer0": "simply, beautifully",
+      "answer1": "simple, more beautiful",
+      "answer2": "simple, beautifully",
+      "answer3": "simplier, beautiful",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "The food was __ but the service was __.",
+      "answer0": "more wonderful, awfuler",
+      "answer1": "wonderful, awful",
+      "answer2": "wonderful, more awful",
+      "answer3": "wonderfully, awfully",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "Don’t take this __ but your husband is __.",
+      "answer0": "personally, stingy",
+      "answer1": "personally, stingily",
+      "answer2": "personal, stingy",
+      "answer3": "more personal, stingy",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "Sara speaks so __ that I can __ understand her.",
+      "answer0": "faster, hardly",
+      "answer1": "fastly, hardly",
+      "answer2": "fast, hard",
+      "answer3": "fast, hardly",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "You can see __ mountains very __ with these binoculars.",
+      "answer0": "distantly, clearly",
+      "answer1": "more distant, clearer",
+      "answer2": "distant, clearly",
+      "answer3": "distantly, clear",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "When you are a __ parent you will think __ about children.",
+      "answer0": "good, differently",
+      "answer1": "good, different",
+      "answer2": "best, differently",
+      "answer3": "better, more different",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "John writes so __. Look at his __ mistakes.",
+      "answer0": "careless, silly",
+      "answer1": "carelessly, silly",
+      "answer2": "careless, sillier",
+      "answer3": "carelessly, sillier",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "He found his way __ through the __ light.",
+      "answer0": "easier, worst",
+      "answer1": "easilly, bad",
+      "answer2": "easily, bad",
+      "answer3": "easy, bader",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 901,
+      "question": "Which do you think is __ subject in school? - __ maths.",
+      "answer0": "worse, definitely",
+      "answer1": "worst, definite",
+      "answer2": "bad, definitelly",
+      "answer3": "the worst, definitely",
+      "rightAnswer": 3
+    },
+
+    {
+      "_comment": "ADJECTIVES AND ADVERBS, TEST 3",
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "The tsunami of 2004 was __ disaster in history.",
+      "answer0": "the most horrible",
+      "answer1": "horribly",
+      "answer2": "the more horrible",
+      "answer3": "more horrible",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "Even though the test is next week I am getting __ by the day.",
+      "answer0": "nervouser",
+      "answer1": "the most nervous",
+      "answer2": "more nervous",
+      "answer3": "nervously",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "Of all the new classmates I like Harry __. I think he is very __.",
+      "answer0": "less, arrogant",
+      "answer1": "the least, most arrogant",
+      "answer2": "little, arrogant",
+      "answer3": "the least, arrogant",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "The night grew __ and the noises became __ and __.",
+      "answer0": "darker, loud, loud",
+      "answer1": "dark, louder, louder",
+      "answer2": "darkly, louder, louder",
+      "answer3": "dark, loud, loud",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "In the USA food is not as __ as in Europe and it’s much __.",
+      "answer0": "expensively, tasty",
+      "answer1": "expensive, tastier",
+      "answer2": "more expensive, tastier",
+      "answer3": "expensive, tastyer",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "She looks so elegant in this __ __ __ dress.",
+      "answer0": "smart, leather, red",
+      "answer1": "leather, red, smart",
+      "answer2": "leather, red, smart",
+      "answer3": "red, smart, leather",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "How's Ben? - He's still __ but he looks a lot __than the day before.",
+      "answer0": "iller, better",
+      "answer1": "ill, good",
+      "answer2": "ill, better",
+      "answer3": "more ill, good",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "The waiting lists there are __ than at other hospitals and many patients say that the medical staff are __ in all of Canada.",
+      "answer0": "shorter, the most careful",
+      "answer1": "short, the most careful",
+      "answer2": "shorter, more careful",
+      "answer3": "short, careful",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "She thinks she has __ job in the whole hospital. Her hours are __ than her friends' but the rewards are __ than theirs.",
+      "answer0": "good, worse, more great",
+      "answer1": "the best, worse, greater",
+      "answer2": "the best, worst, greater",
+      "answer3": "better, worse, greater",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 902,
+      "question": "I saw a very __ movie in the cinema yesterday and felt __.",
+      "answer0": "excited, satisfying",
+      "answer1": "exciting, satisfying",
+      "answer2": "exciting, satisfied",
+      "answer3": "more exciting, satisfied",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "ADJECTIVES AND ADVERBS, TEST 4",
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "Jackie and I had a __ time in France last summer.",
+      "answer0": "wonderful",
+      "answer1": "wondered",
+      "answer2": "wonderfully",
+      "answer3": "more wonderful",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "My brother is a very __ person. He keeps losing things wherever he goes.",
+      "answer0": "caring",
+      "answer1": "cared",
+      "answer2": "careless",
+      "answer3": "carelessly",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "We could hear the __ fans screaming.",
+      "answer0": "exciting",
+      "answer1": "excitingly",
+      "answer2": "excited",
+      "answer3": "more exciting",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "My dad had a very __ look on his face.",
+      "answer0": "worrier",
+      "answer1": "worried",
+      "answer2": "worrying",
+      "answer3": "more worrying",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "This wonderful story is about __ __ __ woman.",
+      "answer0": "beautiful, French, small",
+      "answer1": "French, beautiful, small",
+      "answer2": "beautiful, small, French",
+      "answer3": "small, beautiful, French",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "My sister is slim and she has __ __ __ hair.",
+      "answer0": "shiny, long, blonde",
+      "answer1": "blonde, long, shiny",
+      "answer2": "shiny, blonde, long",
+      "answer3": "long, shiny, blonde",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "His neighbor rides a __ __ __ motorbike.",
+      "answer0": "fantastic, black, big",
+      "answer1": "fantastic, big, black",
+      "answer2": "black, fantastic, big",
+      "answer3": "big, black, fantastic",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "Things are better organized now – we have __ problems than before.",
+      "answer0": "fewer",
+      "answer1": "the least",
+      "answer2": "less",
+      "answer3": "little",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "We have invented a __ __ __ gadget that can control everything.",
+      "answer0": "wonderful, tiny, new",
+      "answer1": "tiny, new, wonderful",
+      "answer2": "wonderful, new, tiny",
+      "answer3": "new, tiny, wonderful",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 903,
+      "question": "Mother grew __ after she heard the __ news.",
+      "answer0": "calmer, good",
+      "answer1": "calm, good",
+      "answer2": "calmer, better",
+      "answer3": "more calm, good",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "ADJECTIVES AND ADVERBS, TEST 5",
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "The dancer moved __ __.",
+      "answer0": "incredible, graceful",
+      "answer1": "incredibly, gracefully",
+      "answer2": "incredible, more graceful",
+      "answer3": "incredibly, graceful",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "They were __ __ about their Christmas presents.",
+      "answer0": "perfect, happy",
+      "answer1": "perfectly, happily",
+      "answer2": "more perfect, happily",
+      "answer3": "perfectly, happy",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "Mother was __ __ about Fred's latest results.",
+      "answer0": "really, annoyed",
+      "answer1": "real, annoy",
+      "answer2": "really, annoying",
+      "answer3": "really, annoyingly",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "We have not worked too __ __.",
+      "answer0": "hardly, lately",
+      "answer1": "hard, late",
+      "answer2": "hard, lately",
+      "answer3": "hard, later",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "The roads are __ and the winds are blowing __.",
+      "answer0": "icy, heavily",
+      "answer1": "icily, heavily",
+      "answer2": "icy, heavyly",
+      "answer3": "icier, heavier",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "Charlie is a__ young man and he sings __.",
+      "answer0": "handsome, beautiful",
+      "answer1": "handsome, beautifully",
+      "answer2": "more handsome, more beautiful",
+      "answer3": "handsome, the most beautiful",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "My sister has __ passed her test.",
+      "answer0": "successful",
+      "answer1": "more successful",
+      "answer2": "successfullier",
+      "answer3": "successfully",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "Jimmy is __ known for his jokes.",
+      "answer0": "better",
+      "answer1": "best",
+      "answer2": "well",
+      "answer3": "good",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "The soldiers fought __ but it didn’t help.",
+      "answer0": "bravely",
+      "answer1": "brave",
+      "answer2": "braver",
+      "answer3": "bravly",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 900,
+      "testId": 904,
+      "question": "Which of the four supermarkets do you think has __ range of products?",
+      "answer0": "the wider",
+      "answer1": "wide",
+      "answer2": "the widest",
+      "answer3": "the most wide",
+      "rightAnswer": 2
+    }
+  ]
+}

@@ -2,14 +2,11 @@ package com.chilik1020.creatordb.models;
 
 
 public class Question{
+//    private Long chapterId;
 
-    private int _id;
+    private Long lessonId;
 
-    private int chapterId;
-
-    private int lessonId;
-
-    private int testId;
+    private Long testId;
 
     private String question;
 
@@ -18,11 +15,9 @@ public class Question{
     private String answer2;
     private String answer3;
 
-    private int rightAnswer;
+    private Long rightAnswer;
 
-    public Question(int _id, int chapterId, int lessonId, int testId, String question, String answer0, String answer1, String answer2, String answer3, int rightAnswer) {
-        this._id = _id;
-        this.chapterId = chapterId;
+    public Question(Long lessonId, Long testId, String question, String answer0, String answer1, String answer2, String answer3, Long rightAnswer) {
         this.lessonId = lessonId;
         this.testId = testId;
         this.question = question;
@@ -32,37 +27,19 @@ public class Question{
         this.answer3 = answer3;
         this.rightAnswer = rightAnswer;
     }
-
-
-    public int getId() {
-        return _id;
-    }
-
-    public void setId(int _id) {
-        this._id = _id;
-    }
-
-    public int getChapterId() {
-        return chapterId;
-    }
-
-    public void setChapterId(int chapterId) {
-        this.chapterId = chapterId;
-    }
-
-    public int getLessonId() {
+    public Long getLessonId() {
         return lessonId;
     }
 
-    public void setLessonId(int lessonId) {
+    public void setLessonId(Long lessonId) {
         this.lessonId = lessonId;
     }
 
-    public int getTestId() {
+    public Long getTestId() {
         return testId;
     }
 
-    public void setTestId(int testId) {
+    public void setTestId(Long testId) {
         this.testId = testId;
     }
 
@@ -106,12 +83,25 @@ public class Question{
         this.answer3 = answer3;
     }
 
-    public int getRightAnswer() {
+    public Long getRightAnswer() {
         return rightAnswer;
     }
 
-    public void setRightAnswer(int rightAnswer) {
+    public void setRightAnswer(Long rightAnswer) {
         this.rightAnswer = rightAnswer;
     }
 
+    @Override
+    public String toString() {
+        return "Question{" +
+                "lessonId=" + lessonId +
+                ", testId=" + testId +
+                ", question='" + question + '\'' +
+                ", answer0='" + answer0 + '\'' +
+                ", answer1='" + answer1 + '\'' +
+                ", answer2='" + answer2 + '\'' +
+                ", answer3='" + answer3 + '\'' +
+                ", rightAnswer=" + rightAnswer +
+                '}';
+    }
 }

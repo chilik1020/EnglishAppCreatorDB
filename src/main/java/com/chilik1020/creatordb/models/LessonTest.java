@@ -1,17 +1,17 @@
 package com.chilik1020.creatordb.models;
 
-
-public class Test{
-
+public class LessonTest {
     private Long _id;
 
     private Long chapterId;
 
-    private Long lessonId;
-
     private String topic;
 
-    private long price;
+    public LessonTest(Long _id, Long chapterId, String topic) {
+        this._id = _id;
+        this.chapterId = chapterId;
+        this.topic = topic;
+    }
 
     public Long getId() {
         return _id;
@@ -29,14 +29,6 @@ public class Test{
         this.chapterId = chapterId;
     }
 
-    public Long getLessonId() {
-        return lessonId;
-    }
-
-    public void setLessonId(Long lessonId) {
-        this.lessonId = lessonId;
-    }
-
     public String getTopic() {
         return topic;
     }
@@ -45,30 +37,12 @@ public class Test{
         this.topic = topic;
     }
 
-    public long getPrice() {
-        return price;
-    }
-
-    public void setPrice(long price) {
-        this.price = price;
-    }
-
-    public Test(Long _id, Long chapterId, Long lessonId, String topic, long price) {
-        this._id = _id;
-        this.chapterId = chapterId;
-        this.lessonId = lessonId;
-        this.topic = topic;
-        this.price = price;
-    }
-
     @Override
     public String toString() {
-        return "Test{" +
+        return "LessonTest{" +
                 "_id=" + _id +
                 ", chapterId=" + chapterId +
-                ", lessonId=" + lessonId +
                 ", topic='" + topic + '\'' +
-                ", price=" + price +
                 '}';
     }
 }

@@ -1,0 +1,565 @@
+{
+  "chapterId": 13,
+  "chapter": "Phrasal verbs",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 1300,
+      "topic": "Phrasal verbs",
+      "path": "13_phrasal_verbs_00_phrasal_verbs.html"
+    },
+    {
+      "lessonGrammarId": 1301,
+      "topic": "Table of phrasal verbs",
+      "path": "13_phrasal_verbs_01_table_of_phrasal_verbs.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 1300,
+      "topic": "Phrasal verbs"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 1300,
+      "lessonTestId": 1300,
+      "topic": "Phrasal verbs",
+      "price": 0
+    },
+    {
+      "testId": 1301,
+      "lessonTestId": 1300,
+      "topic": "Phrasal verbs",
+      "price": 0
+    },
+    {
+      "testId": 1302,
+      "lessonTestId": 1300,
+      "topic": "Phrasal verbs",
+      "price": 2
+    },
+    {
+      "testId": 1303,
+      "lessonTestId": 1300,
+      "topic": "Phrasal verbs",
+      "price": 2
+    },
+    {
+      "testId": 1304,
+      "lessonTestId": 1300,
+      "topic": "Phrasal verbs",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "PHRASAL VERBS, TEST 1",
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: look for sth.  If you don’t know a word you should look it __ in the dictionary.",
+      "answer0": "up",
+      "answer1": "round",
+      "answer2": "for",
+      "answer3": "after",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: die. Sadly, the chairman of the club passed __last weekend.",
+      "answer0": "off as",
+      "answer1": "out",
+      "answer2": "away",
+      "answer3": "on",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: understand. What does this word say? I can’t make __ the handwriting.",
+      "answer0": "off",
+      "answer1": "out",
+      "answer2": "for",
+      "answer3": "up",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: avoid. I’m keeping __ chocolate for a while in an attempt to lose a little weight.",
+      "answer0": "off",
+      "answer1": "on",
+      "answer2": "back",
+      "answer3": "up",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: wait. The secretary asked me to hold __until Mrs Harris was ready to take my call.",
+      "answer0": "in",
+      "answer1": "out",
+      "answer2": "back",
+      "answer3": "on",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: lengthen. This skirt is too short. I’ll let it __ a bit.",
+      "answer0": "off",
+      "answer1": "down",
+      "answer2": "out",
+      "answer3": "on",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: rise. The price of petrol has gone __ again; the cost of running a car is increasing.",
+      "answer0": "on",
+      "answer1": "round",
+      "answer2": "up",
+      "answer3": "down",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: examine carefully.  They went __ the survey results carefully.",
+      "answer0": "through",
+      "answer1": "down with",
+      "answer2": "over",
+      "answer3": "round",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: reveal sth.  Someone is giving __ secret information.",
+      "answer0": "in",
+      "answer1": "away",
+      "answer2": "up",
+      "answer3": "off",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1300,
+      "question": "Meaning: break a promise. I hope he doesn’t go __ his promise.",
+      "answer0": "in for",
+      "answer1": "off",
+      "answer2": "over",
+      "answer3": "back on",
+      "rightAnswer": 3
+    },
+
+    {
+      "_comment": "PHRASAL VERBS, TEST 2",
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: be on friendly terms. I generally get __ my boss, although we disagree sometimes.",
+      "answer0": "across",
+      "answer1": "away",
+      "answer2": "along with",
+      "answer3": "over",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: survive despite difficulties. I earn enough money to get __, but I haven’t managed to save much lately.",
+      "answer0": "on",
+      "answer1": "by",
+      "answer2": "off  with",
+      "answer3": "round",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: break into pieces. This book is so old that it’s falling  __.",
+      "answer0": "for",
+      "answer1": "out",
+      "answer2": "in with",
+      "answer3": "apart",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: need. We could do __ a new washing machine. This one is very old.",
+      "answer0": "without",
+      "answer1": "up",
+      "answer2": "with",
+      "answer3": "away with",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: stop. The car drew __ next to me, and the driver asked for directions.",
+      "answer0": "in",
+      "answer1": "up",
+      "answer2": "with",
+      "answer3": "out",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: visit. My house has a beautiful garden. Why don’t you come __ and see it?",
+      "answer0": "out",
+      "answer1": "into",
+      "answer2": "across",
+      "answer3": "over",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: interrupt. I ’m sorry to cut __ your conversation, but I’d like to ask a question.",
+      "answer0": "off",
+      "answer1": "into",
+      "answer2": "down",
+      "answer3": "out",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: find by chance. I came __ my old school books yesterday when I was tidying the attic.",
+      "answer0": "across",
+      "answer1": "along",
+      "answer2": "by",
+      "answer3": "into",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: continue. When the noise stopped, she carried __ as if nothing had happened.",
+      "answer0": "off",
+      "answer1": "out",
+      "answer2": "on",
+      "answer3": "away",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1301,
+      "question": "Meaning: raise a child. It’s difficult to bring __ children alone.",
+      "answer0": "about",
+      "answer1": "up",
+      "answer2": "on",
+      "answer3": "round",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PHRASAL VERBS, TEST 3",
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: return a phone call. I’m busy now, so I’ll call you __ later.",
+      "answer0": "for",
+      "answer1": "out",
+      "answer2": "off",
+      "answer3": "back",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: begin suddenly. War broke__ suddenly in the country",
+      "answer0": "in",
+      "answer1": "out",
+      "answer2": "up",
+      "answer3": "off",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: oppose. Many people are __ the new law.",
+      "answer0": "against",
+      "answer1": "after",
+      "answer2": "over",
+      "answer3": "out of",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: arrive. The train pulled __ at the station and hundreds of people got off.",
+      "answer0": "down",
+      "answer1": "through",
+      "answer2": "in",
+      "answer3": "on",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: make a note. Put your ideas __ on paper and I’ll look at them later.",
+      "answer0": "off",
+      "answer1": "down",
+      "answer2": "up",
+      "answer3": "on",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: receive punishment for a wrongdoing. Alice said to Jane, ‘You’ll pay __ this one day.’",
+      "answer0": "back",
+      "answer1": "on",
+      "answer2": "out",
+      "answer3": "for",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: meet sb unexpectedly. I ran __ an old teacher of mine last weekend at the supermarket.",
+      "answer0": "into",
+      "answer1": "down",
+      "answer2": "away",
+      "answer3": "over",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: care for sb. ‘The baby’s crying again.’ ‘Don’t worry. I’ll see __ him this time.",
+      "answer0": "off",
+      "answer1": "about",
+      "answer2": "to",
+      "answer3": "out",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: remove. The dentist took __ one of my teeth last month.",
+      "answer0": "out",
+      "answer1": "on",
+      "answer2": "up",
+      "answer3": "over",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1302,
+      "question": "Meaning: start a journey. Tom set __ on his voyage, full of excitement.",
+      "answer0": "in",
+      "answer1": "off",
+      "answer2": "up",
+      "answer3": "aside",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PHRASAL VERBS, TEST 4",
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: replace sb temporarily. I offered to stand __ Emily yesterday, because she was ill.",
+      "answer0": "up",
+      "answer1": "up to",
+      "answer2": "by",
+      "answer3": "in for",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: exhaust. I’m worn __! I’ve been working hard all day long.",
+      "answer0": "off",
+      "answer1": "in",
+      "answer2": "out",
+      "answer3": "over",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: switch on. We turned __ the heater because the room was cold.",
+      "answer0": "on",
+      "answer1": "out",
+      "answer2": "down",
+      "answer3": "into",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: have an effect on.  That washing powder doesn’t work __ grass stains. You’ll have to use something stronger.",
+      "answer0": "out",
+      "answer1": "on",
+      "answer2": "up",
+      "answer3": "off",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: reject. Anna was offered a job, but she turned it __.",
+      "answer0": "away",
+      "answer1": "out",
+      "answer2": "over",
+      "answer3": "down",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: turn to a new page. Turn __ the page and look at exercise ten.",
+      "answer0": "off",
+      "answer1": "on",
+      "answer2": "over",
+      "answer3": "in",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: take care of. Nurses look __ patients in hospital.",
+      "answer0": "after",
+      "answer1": "for",
+      "answer2": "into",
+      "answer3": "round",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: anticipate with pleasure. We’re really looking__ your birthday party.",
+      "answer0": "for",
+      "answer1": "forward to",
+      "answer2": "on",
+      "answer3": "over",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: think up. They had an argument yesterday, but I think they’ve made __ now.",
+      "answer0": "off",
+      "answer1": "out",
+      "answer2": "up",
+      "answer3": "for",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1303,
+      "question": "Meaning: pretend to be sth. The jeweller tried to pass the ring __ solid gold even though it wasn’t.",
+      "answer0": "out",
+      "answer1": "away",
+      "answer2": "on",
+      "answer3": "off as",
+      "rightAnswer": 3
+    },
+
+    {
+      "_comment": "PHRASAL VERBS, TEST 5",
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: conceal. The jury thought that one of the witnesses was keeping some important information __.",
+      "answer0": "back",
+      "answer1": "on",
+      "answer2": "out of",
+      "answer3": "up",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: delay. We were held __ in traffic. That’s why we arrived late.",
+      "answer0": "on",
+      "answer1": "up",
+      "answer2": "in",
+      "answer3": "out",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: not punish. The young man was let__ because he had never been in trouble before.",
+      "answer0": "out",
+      "answer1": "down",
+      "answer2": "up",
+      "answer3": "off",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: happen. Things are going __ fine at the moment. There are no problems.",
+      "answer0": "on",
+      "answer1": "into",
+      "answer2": "out",
+      "answer3": "over",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: spread. The news went __ the office quickly.",
+      "answer0": "through",
+      "answer1": "round",
+      "answer2": "up",
+      "answer3": "off",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: offer oneself as a prisoner. The thieves gave themselves __ and were taken to prison.",
+      "answer0": "off",
+      "answer1": "out",
+      "answer2": "away",
+      "answer3": "up",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: agree with. I’ll fall __ whatever you plan for the weekend.",
+      "answer0": "out",
+      "answer1": "behind",
+      "answer2": "in with",
+      "answer3": "apart",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: encounter difficulties. The builders came__ some major problems while they were laying the foundations.",
+      "answer0": "up against",
+      "answer1": "over",
+      "answer2": "up",
+      "answer3": "off",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: suggest an idea. Some excellent ideas were brought __ at the annual meeting.",
+      "answer0": "about",
+      "answer1": "forward",
+      "answer2": "on",
+      "answer3": "up",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1300,
+      "testId": 1304,
+      "question": "Meaning: fulfill. Paul carried __ his plan very successfully.",
+      "answer0": "on",
+      "answer1": "up",
+      "answer2": "away",
+      "answer3": "out",
+      "rightAnswer": 3
+    }
+  ]
+}

@@ -1,19 +1,27 @@
 package com.chilik1020.creatordb;
 
+import com.chilik1020.creatordb.models.*;
+
 import java.sql.*;
 
 public class DBHelper {
 
-    private static final String dbname = "engtestdb.db";
-    private static final String url = "jdbc:sqlite:D:/loboda/androidprojects/creatorDB/db/" + dbname;
 
+    private static final String dbGeneralname = "eng_grammar_tests_general_data_v3_4.db";
+    private static final String urlGeneral = "jdbc:sqlite:" + CreatorDB.fileLocation + "creatorDB/db/" + dbGeneralname;
+
+    private static final String dbPersonalname = "eng_grammar_tests_personal_data_v3_4.db";
+    private static final String urlPersonal = "jdbc:sqlite:" + CreatorDB.fileLocation + "creatorDB/db/" + dbPersonalname;
+
+    private static final String TABLE_PURCHASES = "purchases";
     private static final String TABLE_CHAPTERS = "chapters";
-    private static final String TABLE_LESSONS = "lessons";
+    private static final String TABLE_LESSONS_GRAMMAR = "lessonsGrammar";
+    private static final String TABLE_LESSONS_TEST = "lessonsTest";
     private static final String TABLE_TESTS = "tests";
     private static final String TABLE_QUESTIONS = "questions";
     private static final String TABLE_SCORES = "scores";
 
-    private static Connection connect() {
+    private static Connection connect(String url) {
         // SQLite connection string
         Connection conn = null;
         try {
@@ -30,7 +38,18 @@ public class DBHelper {
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
-        try (Connection conn = connect()) {
+        try (Connection conn = connect(urlGeneral)) {
+            if (conn != null) {
+                DatabaseMetaData meta = conn.getMetaData();
+                System.out.println("The driver name is " + meta.getDriverName());
+                System.out.println("A new database has been created.");
+            }
+
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+
+        try (Connection conn = connect(urlPersonal)) {
             if (conn != null) {
                 DatabaseMetaData meta = conn.getMetaData();
                 System.out.println("The driver name is " + meta.getDriverName());
@@ -42,57 +61,73 @@ public class DBHelper {
         }
     }
     public static void createTables() {
+        String sqlPurchases = "CREATE TABLE IF NOT EXISTS " + TABLE_PURCHASES +"(\n"
+                + " _id INTEGER NOT NULL,\n"
+                + "	name TEXT NOT NULL  PRIMARY KEY,\n"
+                + " status INTEGER NOT NULL \n"
+                + ");";
+
         String sqlChapters = "CREATE TABLE IF NOT EXISTS " + TABLE_CHAPTERS +"(\n"
-                + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
+                + " _id INTEGER NOT NULL PRIMARY KEY,\n"
                 + "	chapter TEXT NOT NULL\n"
                 + ");";
 
-        String sqlLessons = "CREATE TABLE IF NOT EXISTS " + TABLE_LESSONS +"(\n"
-                + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
-                + " chapter_id INTEGER NOT NULL,\n"
+        String sqlLessonsGrammar = "CREATE TABLE IF NOT EXISTS " + TABLE_LESSONS_GRAMMAR +"(\n"
+                + " _id INTEGER NOT NULL PRIMARY KEY,\n"
+                + " chapterId INTEGER NOT NULL,\n"
                 + "	topic TEXT NOT NULL,\n"
                 + "	grammar TEXT NOT NULL\n"
                 + ");";
 
-        String sqlTests = "CREATE TABLE IF NOT EXISTS " + TABLE_TESTS +"(\n"
-                + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
-                + " chapter_id INTEGER NOT NULL,\n"
-                + " topic_id INTEGER NOT NULL,\n"
+        String sqlLessonsTest = "CREATE TABLE IF NOT EXISTS " + TABLE_LESSONS_TEST +"(\n"
+                + " _id INTEGER NOT NULL PRIMARY KEY,\n"
+                + " chapterId INTEGER NOT NULL,\n"
                 + "	topic TEXT NOT NULL\n"
                 + ");";
 
+        String sqlTests = "CREATE TABLE IF NOT EXISTS " + TABLE_TESTS +"(\n"
+                + " _id INTEGER NOT NULL PRIMARY KEY,\n"
+                + " chapterId INTEGER NOT NULL,\n"
+                + " lessonId INTEGER NOT NULL,\n"
+                + "	topic TEXT NOT NULL,\n"
+                + " price INTEGER NOT NULL\n"
+                + ");";
+
         String sqlQuestions = "CREATE TABLE IF NOT EXISTS " + TABLE_QUESTIONS +"(\n"
-                + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
-                + " chapter_id INTEGER NOT NULL,\n"
-                + " topic_id INTEGER NOT NULL,\n"
-                + " test_id INTEGER NOT NULL,\n"
+                + " _id INTEGER NOT NULL PRIMARY KEY,\n"
+//                + " chapterId INTEGER NOT NULL,\n"
+                + " lessonId INTEGER NOT NULL,\n"
+                + " testId INTEGER NOT NULL,\n"
                 + "	question TEXT,\n"
                 + "	answer0 TEXT,\n"
                 + "	answer1 TEXT,\n"
                 + "	answer2 TEXT,\n"
                 + "	answer3 TEXT,\n"
-                + " right_answer INTEGER NOT NULL\n"
+                + " rightAnswer INTEGER NOT NULL\n"
                 + ");";
 
         String sqlScores = "CREATE TABLE IF NOT EXISTS " + TABLE_SCORES +"(\n"
                 + " _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,\n"
-                + " type_test INTEGER NOT NULL,\n"
-                + " type_result INTEGER NOT NULL,\n"
-                + " chapter_id INTEGER NOT NULL,\n"
-                + " lesson_id INTEGER NOT NULL,\n"
+                + " typeTest INTEGER NOT NULL,\n"
+                + " typeResult INTEGER NOT NULL,\n"
+                + " chapterId INTEGER NOT NULL,\n"
+                + " lessonId INTEGER NOT NULL,\n"
                 + " result INTEGER NOT NULL\n"
                 + ");";
 
+        createTable(urlPersonal, sqlPurchases);
+        createTable(urlPersonal, sqlScores);
 
-        createTable(sqlChapters);
-        createTable(sqlLessons);
-        createTable(sqlTests);
-        createTable(sqlQuestions);
-        createTable(sqlScores);
+        createTable(urlGeneral, sqlChapters);
+        createTable(urlGeneral, sqlLessonsGrammar);
+        createTable(urlGeneral, sqlLessonsTest);
+        createTable(urlGeneral, sqlTests);
+        createTable(urlGeneral, sqlQuestions);
+
     }
 
-    private static void createTable(String sql) {
-        try (Connection conn = DriverManager.getConnection(url);
+    private static void createTable(String urlDB, String sql) {
+        try (Connection conn = DriverManager.getConnection(urlDB);
              Statement stmt = conn.createStatement()) {
             // create a new table
             stmt.execute(sql);
@@ -101,44 +136,44 @@ public class DBHelper {
         }
     }
 
-    public static void fillDB() {
-        String a0 = "Answer 1";
-        String a1 = "Answer 2";
-        String a2 = "Answer 3";
-        String a3 = "Answer 4";
-        int ra = 2;
-        for (int m = 1; m < 11; m++) { ///////////////////////////////////////// COUNT OF CHAPTERS
-            String chapter = "Chapter " + m;
-            int chapter_id = insertIntoChapters(chapter);
-            System.out.println("Chapter " + chapter_id);
-            for (int i = 1; i < 15; i++) { ///////////////////////////////////// COUNT OF TOPICS
-                String topic = chapter +  " : Topic " + i;
-//            String grammar = "Grammar text of topic " + i;
-                StringBuilder grammar = new StringBuilder("ch_");
-                grammar.append(chapter_id)
-                        .append("_les_")
-                        .append(i)
-                        .append(".html");
-
-                int lesson_id = insertIntoLessons(chapter_id,topic, grammar.toString());
-                for (int d = 1; d < 4; d++) { ////////////////////////////////// COUNT OF TESTS
-                    int test_id = insertIntoTests(chapter_id, lesson_id, "Test: " + topic);
-                    for (int j = 1; j < 11; j++) { ///////////////////////////// COUNT OF QUESTIONS
-                        String q = topic + " : Test " + test_id +  " : Text of question " + j;
-                        int question_id = insertIntoQuestions(chapter_id, lesson_id,test_id, q, a0, a1, a2, a3, ra);
-                    }
-                }
-            }
-        }
-    }
-    private static int insertIntoChapters(String chapter) {
-        String sql = "INSERT INTO " + TABLE_CHAPTERS + " (chapter) VALUES(?)";
+    public static int insertIntoPurchases(Purchase p) {
+        String sql = "INSERT INTO " + TABLE_PURCHASES + " (_id, name, status) VALUES(?,?,?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
-        try (Connection conn = connect();
+        try (Connection conn = connect(urlPersonal);
              PreparedStatement pstmt = conn.prepareStatement(sql, returnId)) {
-            pstmt.setString(1, chapter);
+            pstmt.setLong(1, p.getId());
+            pstmt.setString(2, p.getName());
+            pstmt.setLong(3, p.getStatus());
+            int affectedRows = pstmt.executeUpdate();
+
+            if (affectedRows == 0) {
+                throw new SQLException("Creating row failed, no rows affected.");
+            }
+
+            ResultSet rs = pstmt.getGeneratedKeys();
+            if (rs.next()) {
+                id = rs.getInt(1);
+            }
+            rs.close();
+
+        } catch (SQLException e) {
+            System.out.println("insertIntoPurchases: " + e.getMessage());
+        }
+        return id;
+    }
+
+
+    public static int insertIntoChapters(Chapter c) {
+        String sql = "INSERT INTO " + TABLE_CHAPTERS + " (_id, chapter) VALUES(?,?)";
+        String[] returnId = { "BATCHID" };
+        int id = -1;
+
+        try (Connection conn = connect(urlGeneral);
+             PreparedStatement pstmt = conn.prepareStatement(sql, returnId)) {
+            pstmt.setLong(1, c.get_id());
+            pstmt.setString(2, c.getChapter());
             int affectedRows = pstmt.executeUpdate();
 
             if (affectedRows == 0) {
@@ -157,16 +192,17 @@ public class DBHelper {
         return id;
     }
 
-    private static int insertIntoLessons(int chapter_id, String topic, String grammar) {
-        String sql = "INSERT INTO " + TABLE_LESSONS + "(chapter_id,topic,grammar) VALUES(?,?,?)";
+    public static int insertIntoLessonsGrammar(LessonGrammar l) {
+        String sql = "INSERT INTO " + TABLE_LESSONS_GRAMMAR + "(_id, chapterId,topic,grammar) VALUES(?,?,?,?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
-        try (Connection conn = connect();
+        try (Connection conn = connect(urlGeneral);
              PreparedStatement pstmt = conn.prepareStatement(sql, returnId)) {
-            pstmt.setInt(1, chapter_id);
-            pstmt.setString(2, topic);
-            pstmt.setString(3, grammar);
+            pstmt.setLong(1, l.getId());
+            pstmt.setLong(2, l.getChapterId());
+            pstmt.setString(3, l.getTopic());
+            pstmt.setString(4, l.getGrammar());
             int affectedRows = pstmt.executeUpdate();
 
             if (affectedRows == 0) {
@@ -180,21 +216,53 @@ public class DBHelper {
             rs.close();
 
         } catch (SQLException e) {
-            System.out.println("insertIntoLessons: " + e.getMessage());
+            System.out.println("insertIntoLessonsGrammar: " + e.getMessage());
         }
         return id;
     }
 
-    private static int insertIntoTests(int chapter_id, int topic_id, String topic) {
-        String sql = "INSERT INTO " + TABLE_TESTS + "(chapter_id,topic_id,topic) VALUES(?,?,?)";
+    public static int insertIntoLessonsTest(LessonTest l) {
+        String sql = "INSERT INTO " + TABLE_LESSONS_TEST + "(_id, chapterId,topic) VALUES(?,?,?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
-        try (Connection conn = connect();
+        try (Connection conn = connect(urlGeneral);
              PreparedStatement pstmt = conn.prepareStatement(sql, returnId)) {
-            pstmt.setInt(1, chapter_id);
-            pstmt.setInt(2, topic_id);
-            pstmt.setString(3, topic);
+            pstmt.setLong(1, l.getId());
+            pstmt.setLong(2, l.getChapterId());
+            pstmt.setString(3, l.getTopic());
+            int affectedRows = pstmt.executeUpdate();
+
+            if (affectedRows == 0) {
+                throw new SQLException("Creating row failed, no rows affected.");
+            }
+
+            ResultSet rs = pstmt.getGeneratedKeys();
+            if (rs.next()) {
+                id = rs.getInt(1);
+            }
+            rs.close();
+
+        } catch (SQLException e) {
+            System.out.println("insertIntoLessonsGrammar: " + e.getMessage());
+        }
+        return id;
+    }
+
+
+
+    public static int insertIntoTests(Test t) {
+        String sql = "INSERT INTO " + TABLE_TESTS + "(_id,chapterId,lessonId,topic,price) VALUES(?,?,?,?,?)";
+        String[] returnId = { "BATCHID" };
+        int id = -1;
+
+        try (Connection conn = connect(urlGeneral);
+             PreparedStatement pstmt = conn.prepareStatement(sql, returnId)) {
+            pstmt.setLong(1, t.getId());
+            pstmt.setLong(2, t.getChapterId());
+            pstmt.setLong(3, t.getLessonId());
+            pstmt.setString(4, t.getTopic());
+            pstmt.setLong(5,t.getPrice());
             int affectedRows = pstmt.executeUpdate();
 
             if (affectedRows == 0) {
@@ -213,22 +281,21 @@ public class DBHelper {
         return id;
     }
 
-    private static int insertIntoQuestions(int chapter_id, int topic_id, int test_id,  String q, String a0, String a1, String a2, String a3, int ra) {
-        String sql = "INSERT INTO " + TABLE_QUESTIONS + " (chapter_id,topic_id,test_id,question, answer0,answer1,answer2,answer3,right_answer) VALUES(?,?,?,?,?,?,?,?,?)";
+    public static int insertIntoQuestions(Question q) {
+        String sql = "INSERT INTO " + TABLE_QUESTIONS + " (lessonId,testId,question, answer0,answer1,answer2,answer3,rightAnswer) VALUES(?,?,?,?,?,?,?,?)";
         String[] returnId = { "BATCHID" };
         int id = -1;
 
-        try (Connection conn = connect();
+        try (Connection conn = connect(urlGeneral);
              PreparedStatement pstmt = conn.prepareStatement(sql)) {
-            pstmt.setInt(1, chapter_id);
-            pstmt.setInt(2, topic_id);
-            pstmt.setInt(3, test_id);
-            pstmt.setString(4, q);
-            pstmt.setString(5, a0);
-            pstmt.setString(6, a1);
-            pstmt.setString(7, a2);
-            pstmt.setString(8, a3);
-            pstmt.setInt(9, ra);
+            pstmt.setLong(1, q.getLessonId());
+            pstmt.setLong(2, q.getTestId());
+            pstmt.setString(3, q.getQuestion());
+            pstmt.setString(4, q.getAnswer0());
+            pstmt.setString(5, q.getAnswer1());
+            pstmt.setString(6, q.getAnswer2());
+            pstmt.setString(7, q.getAnswer3());
+            pstmt.setLong(8, q.getRightAnswer());
             int affectedRows = pstmt.executeUpdate();
 
             if (affectedRows == 0) {

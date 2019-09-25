@@ -1,0 +1,565 @@
+{
+  "chapterId": 7,
+  "chapter": "Pronouns and determiners",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 700,
+      "topic": "Reflexive pronouns",
+      "path": "07_pronouns_determiners_00_reflexive.html"
+    },
+    {
+      "lessonGrammarId": 701,
+      "topic": "Determiners",
+      "path": "07_pronouns_determiners_01_determiners.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 700,
+      "topic": "Pronouns and determiners"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 700,
+      "lessonTestId": 700,
+      "topic": "Pronouns and determiners",
+      "price": 0
+    },
+    {
+      "testId": 701,
+      "lessonTestId": 700,
+      "topic": "Pronouns and determiners",
+      "price": 0
+    },
+    {
+      "testId": 702,
+      "lessonTestId": 700,
+      "topic": "Pronouns and determiners",
+      "price": 2
+    },
+    {
+      "testId": 703,
+      "lessonTestId": 700,
+      "topic": "Pronouns and determiners",
+      "price": 2
+    },
+    {
+      "testId": 704,
+      "lessonTestId": 700,
+      "topic": "Pronouns and determiners",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "PRONOUNS AND DETERMINERS, TEST 1",
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "You haven’t done anything bad, you shouldn’t be ashamed of __ .",
+      "answer0": "yourself",
+      "answer1": "you",
+      "answer2": "your",
+      "answer3": "myself",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "Do you need any __ these books or can I take __?",
+      "answer0": "of, it",
+      "answer1": "of, some",
+      "answer2": "–, some",
+      "answer3": "-, them",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "Thank you for your help, but we don’t have any problems, we have __ money.",
+      "answer0": "few",
+      "answer1": "little",
+      "answer2": "plenty of",
+      "answer3": "no",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "My kids never agree with me, they always have __ opinion.",
+      "answer0": "their own",
+      "answer1": "theirs own",
+      "answer2": "they own",
+      "answer3": "themselves",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "__ is something wrong with the printer. __ is not working.",
+      "answer0": "it, there",
+      "answer1": "it, it",
+      "answer2": "there, it",
+      "answer3": "there, there",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "Where is your father? Is he at home or at work? - __  . He has gone to his friend’s house.",
+      "answer0": "none",
+      "answer1": "neither",
+      "answer2": "both",
+      "answer3": "each",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "Have you read __ good books recently? – Actually yes! I have __ .",
+      "answer0": "some, some",
+      "answer1": "some, any",
+      "answer2": "any, no",
+      "answer3": "any, some",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "We have __ sugar left. Can you buy __?",
+      "answer0": "some, any",
+      "answer1": "any, little",
+      "answer2": "no, lots",
+      "answer3": "no, some",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "I usually have __ sugar in my coffee.",
+      "answer0": "a little",
+      "answer1": "some",
+      "answer2": "little",
+      "answer3": "a few",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 700,
+      "question": "This part of town is new, so there are __ old buildings.",
+      "answer0": "lots of",
+      "answer1": "few",
+      "answer2": "many",
+      "answer3": "much",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PRONOUNS AND DETERMINERS, TEST 2",
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "I came out of the bath and dried __ with a towel.",
+      "answer0": "myself",
+      "answer1": "me",
+      "answer2": "my",
+      "answer3": "myselves",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "I’ve called her twice, but __ times she always busy and couldn’t talk.",
+      "answer0": "every",
+      "answer1": "each",
+      "answer2": "both",
+      "answer3": "two",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "This restaurant has __ terrace.",
+      "answer0": "some",
+      "answer1": "its own",
+      "answer2": "own",
+      "answer3": "any",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "How many films by Tarantino have you seen? - __ . And I liked each one.",
+      "answer0": "none of them",
+      "answer1": "each of them",
+      "answer2": "every of them",
+      "answer3": "all of them",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "Last week __ was a great storm here. __ destroyed all my flowers in the garden.",
+      "answer0": "there, it",
+      "answer1": "it, it",
+      "answer2": "there, its",
+      "answer3": "it, its",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "He didn’t have __ to do that day, so we went to the countryside.",
+      "answer0": "much",
+      "answer1": "many",
+      "answer2": "few",
+      "answer3": "little",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "We didn’t have __ money by the end of the month, so we had to borrow __ from our friends.",
+      "answer0": "no, -",
+      "answer1": "a lot of, many",
+      "answer2": "any, some",
+      "answer3": "many, some",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "I’ve tried to book a table in two restaurants, but __ had free seats. So we had to go to the park.",
+      "answer0": "all of them",
+      "answer1": "each of them",
+      "answer2": "all of them",
+      "answer3": "neither of them",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "I made a few photos, but __ of them were good. I had to look for some better pictures in the net.",
+      "answer0": "all",
+      "answer1": "none",
+      "answer2": "each",
+      "answer3": "every",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 701,
+      "question": "__ said they enjoyed __ .",
+      "answer0": "everybody, themselves",
+      "answer1": "they, them",
+      "answer2": "all, us",
+      "answer3": "everyone, themself",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "PRONOUNS AND DETERMINERS, TEST 3",
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "__ liked the excursion. Actually, it was terrible.",
+      "answer0": "everybody",
+      "answer1": "none of us",
+      "answer2": "all of us",
+      "answer3": "each",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "There is __ difference between these two desserts.",
+      "answer0": "few",
+      "answer1": "little",
+      "answer2": "any",
+      "answer3": "lots",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "These dresses are 10 dollars __ .",
+      "answer0": "every",
+      "answer1": "some",
+      "answer2": "each",
+      "answer3": "no",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "Mum, please, don’t worry about us. We are grown-ups and can take care of __ .",
+      "answer0": "us",
+      "answer1": "we",
+      "answer2": "ours",
+      "answer3": "ourselves",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "Who was he with that night? – Nobody, he was on __ .",
+      "answer0": "my own",
+      "answer1": "his own",
+      "answer2": "himself",
+      "answer3": "his",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "When we came into the café, __ was crowded. __ were a lot of people there.",
+      "answer0": "there, there",
+      "answer1": "there, it",
+      "answer2": "it, they",
+      "answer3": "it, there",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "I know this museum well enough, I have been here __ times.",
+      "answer0": "few",
+      "answer1": "little",
+      "answer2": "a few",
+      "answer3": "a little",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "Not all my friends are Russian, __ are foreigners.",
+      "answer0": "none of them",
+      "answer1": "some of them",
+      "answer2": "each of them",
+      "answer3": "any of them",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "There’s __ by the door. Can you go and check? – No, there is__  . You must have heard the dog.",
+      "answer0": "somebody, nobody",
+      "answer1": "anybody, nobody",
+      "answer2": "nobody, somebody",
+      "answer3": "anyone, someone",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 702,
+      "question": "It was so dark in the room, that I couldn’t see __ .",
+      "answer0": "nothing",
+      "answer1": "anything",
+      "answer2": "something",
+      "answer3": "everything",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "PRONOUNS AND DETERMINERS, TEST 4",
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "They never go out, they stay at home __ the time.",
+      "answer0": "each of",
+      "answer1": "some of",
+      "answer2": "every",
+      "answer3": "all",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "I was __ shocked and angry, when I heard the news.",
+      "answer0": "every",
+      "answer1": "both",
+      "answer2": "two",
+      "answer3": "none",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "Please, read __ page of this contract very attentively.",
+      "answer0": "all",
+      "answer1": "both",
+      "answer2": "each",
+      "answer3": "yourself",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "Have you cooked all these cakes __? – No, I’ve had __help from my husband.",
+      "answer0": "yourself, a few",
+      "answer1": "on your own, no",
+      "answer2": "on your own, many",
+      "answer3": "yourself, a little",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "I don’t like rich people, they only care about __ .",
+      "answer0": "themselves",
+      "answer1": "myself",
+      "answer2": "its own",
+      "answer3": "all by themselves",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "My parents are having dinner tonight with some colleagues of __ .",
+      "answer0": "theirs",
+      "answer1": "themselves",
+      "answer2": "them",
+      "answer3": "their own",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "I’ve read most of the book, but not __ .",
+      "answer0": "all of it",
+      "answer1": "some of it",
+      "answer2": "each of it",
+      "answer3": "every of it",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "I like my flat, but __ would be better to have a townhouse.",
+      "answer0": "there",
+      "answer1": "it",
+      "answer2": "its",
+      "answer3": "it’s",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "I was so hungry, that I couldn’t control myself and ate a __ bag of sweets.",
+      "answer0": "all",
+      "answer1": "few",
+      "answer2": "lots",
+      "answer3": "whole",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 703,
+      "question": "What are you looking for? Have you lost __?",
+      "answer0": "nothing",
+      "answer1": "nobody",
+      "answer2": "anything",
+      "answer3": "himself",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "PRONOUNS AND DETERMINERS, TEST 5",
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "There are two shops nearby, we can go to __ of them.",
+      "answer0": "either",
+      "answer1": "some",
+      "answer2": "all",
+      "answer3": "none",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "__ in the room remained at the same place. __ has changed.",
+      "answer0": "something, nothing",
+      "answer1": "everything, nothing",
+      "answer2": "all, something",
+      "answer3": "each, everything",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "Who has cleaned Paul’s house since he divorced? – He does it __ .",
+      "answer0": "of his own",
+      "answer1": "myself",
+      "answer2": "none",
+      "answer3": "himself",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "She’s watched __ film by Fellini.",
+      "answer0": "all",
+      "answer1": "every",
+      "answer2": "some",
+      "answer3": "any",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "Last night I went to the cinema with Amber and some friends of __ .",
+      "answer0": "her",
+      "answer1": "her own",
+      "answer2": "hers",
+      "answer3": "herself",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "The wi-fi is not working here. __ is no signal.",
+      "answer0": "there",
+      "answer1": "it",
+      "answer2": "it’s",
+      "answer3": "there’s",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "Let’s go __ tonight! You never go __, you always stay at home.",
+      "answer0": "somewhere, anywhere",
+      "answer1": "nowhere, nowhere",
+      "answer2": "anywhere, nowhere",
+      "answer3": "somewhere, nowhere",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "There’s __ in this shop, let’s go __ else.",
+      "answer0": "anybody, anywhere",
+      "answer1": "nobody, nowhere",
+      "answer2": "somebody, -",
+      "answer3": "nobody, somewhere",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "Rebecca is so smart and independent, I think she can repair her house __ .",
+      "answer0": "her own",
+      "answer1": "herself",
+      "answer2": "hers",
+      "answer3": "itself",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 700,
+      "testId": 704,
+      "question": "__was shocked with Peter. And we told him we knew __ .",
+      "answer0": "everybody, everything",
+      "answer1": "all, all",
+      "answer2": "each, everything",
+      "answer3": "nobody, all",
+      "rightAnswer": 0
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "chapterId": 11,
+  "chapter": "Conjunctions",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 1100,
+      "topic": "Conjunctions",
+      "path": "11_conjunctions_00_conjunctions.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 1100,
+      "topic": "Conjunctions"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 1100,
+      "lessonTestId": 1100,
+      "topic": "Conjunctions",
+      "price": 0
+    },
+    {
+      "testId": 1101,
+      "lessonTestId": 1100,
+      "topic": "Conjunctions",
+      "price": 0
+    },
+    {
+      "testId": 1102,
+      "lessonTestId": 1100,
+      "topic": "Conjunctions",
+      "price": 2
+    },
+    {
+      "testId": 1103,
+      "lessonTestId": 1100,
+      "topic": "Conjunctions",
+      "price": 2
+    },
+    {
+      "testId": 1104,
+      "lessonTestId": 1100,
+      "topic": "Conjunctions",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "CONJUNCTIONS, TEST 1",
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "We can’t leave classroom __ we’ve written the dictation.",
+      "answer0": "while",
+      "answer1": "until",
+      "answer2": "where",
+      "answer3": "because",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "I was driving to the shopping mall __ the accident happened.",
+      "answer0": "where",
+      "answer1": "but",
+      "answer2": "when",
+      "answer3": "because",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "__ the fact that you lied, I fully trust you to do the right thing at the moment.",
+      "answer0": "despite",
+      "answer1": "while",
+      "answer2": "in spite of",
+      "answer3": "unless",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "I’m studying hard this term__ I won’t fail like last time.",
+      "answer0": "so that",
+      "answer1": "as soon as",
+      "answer2": "if",
+      "answer3": "before",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "__ we arrive I’m having a bath.",
+      "answer0": "even though",
+      "answer1": "because",
+      "answer2": "unless",
+      "answer3": "as soon as",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "I won’t start eating __ they come.",
+      "answer0": "whether",
+      "answer1": "until",
+      "answer2": "although",
+      "answer3": "in spite of",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "__ you were on holiday your house burnt down.",
+      "answer0": "so that",
+      "answer1": "until",
+      "answer2": "while",
+      "answer3": "whenever",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "I suppose I can offer the job to Benjamin __ I get a good reference.",
+      "answer0": "if",
+      "answer1": "but",
+      "answer2": "because",
+      "answer3": "however",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "__ all the guests arrive, bring them something fresh to drink.",
+      "answer0": "so that",
+      "answer1": "while",
+      "answer2": "despite",
+      "answer3": "as soon as",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1100,
+      "question": "__ you keep doing the best and try hard, you’ll definitely win the competition.",
+      "answer0": "as much as",
+      "answer1": "as long as",
+      "answer2": "since",
+      "answer3": "that",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "CONJUNCTIONS, TEST 2",
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "__ Mrs. Black decides, I’ll support her decision.",
+      "answer0": "where",
+      "answer1": "or",
+      "answer2": "whatever",
+      "answer3": "although",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "Sam, we can’t buy these burgers __ we find another dollar.",
+      "answer0": "while",
+      "answer1": "because",
+      "answer2": "although",
+      "answer3": "unless",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "__ I see sand it reminds me of our trip to the Maldives.",
+      "answer0": "whenever",
+      "answer1": "or",
+      "answer2": "so",
+      "answer3": "until",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "I don’t really like broccoli __ I eat it once a year.",
+      "answer0": "since",
+      "answer1": "after",
+      "answer2": "although",
+      "answer3": "as much as",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "They landed on time __ the plane took off late.",
+      "answer0": "but",
+      "answer1": "despite",
+      "answer2": "although",
+      "answer3": "or",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "Megan came to work __ having really high temperature.",
+      "answer0": "however",
+      "answer1": "despite",
+      "answer2": "so that",
+      "answer3": "in spite of",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "She didn't go to the night club with peers __ her mother told her not to.",
+      "answer0": "although",
+      "answer1": "but",
+      "answer2": "because",
+      "answer3": "or",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "I’m afraid of dogs and always try to avoid them __ my brother loves them.",
+      "answer0": "even though",
+      "answer1": "but",
+      "answer2": "because",
+      "answer3": "despite",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "Follow our guide’s directions __ you won't get lost.",
+      "answer0": "but",
+      "answer1": "unless",
+      "answer2": "until",
+      "answer3": "and",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1101,
+      "question": "Is it my turn to do the washing up __ yours?",
+      "answer0": "although",
+      "answer1": "or",
+      "answer2": "while",
+      "answer3": "because",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "CONJUNCTIONS, TEST 3",
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "__ John was watching television, his wife was reading a book and children were playing computer games.",
+      "answer0": "neither",
+      "answer1": "until",
+      "answer2": "while",
+      "answer3": "unless",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "The economy in China is developing fast, __ many Russian and American investors are planning to enter China's market.",
+      "answer0": "as much as",
+      "answer1": "that’s why",
+      "answer2": "although",
+      "answer3": "so that",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "__ it was after midnight, they did not feel tired at all.",
+      "answer0": "whereas",
+      "answer1": "while",
+      "answer2": "although",
+      "answer3": "since",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "Remind him to take a sweater and an umbrella __ it gets freezing.",
+      "answer0": "even if",
+      "answer1": "as soon as",
+      "answer2": "because",
+      "answer3": "in case",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "__ had I reached the railway station, __ the train came.",
+      "answer0": "no sooner, than",
+      "answer1": "either, or",
+      "answer2": "both, and",
+      "answer3": "neither, nor",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "The sun is warm, __ the air is cool and the wind is strong.",
+      "answer0": "since",
+      "answer1": "yet",
+      "answer2": "and",
+      "answer3": "or",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "Russia is famous for the beauty of its landscape __ the generosity of its people.",
+      "answer0": "despite",
+      "answer1": "or",
+      "answer2": "but",
+      "answer3": "and",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "Think twice! Did you go out __ stay at home?",
+      "answer0": "since",
+      "answer1": "or",
+      "answer2": "while",
+      "answer3": "and",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "__ you help us, we cannot succeed.",
+      "answer0": "although",
+      "answer1": "until",
+      "answer2": "unless",
+      "answer3": "in spite of",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1102,
+      "question": "__ my dad comes home from work he sits on the sofa and watches sitcoms __ he is tired.",
+      "answer0": "while, but",
+      "answer1": "when, because",
+      "answer2": "although, because",
+      "answer3": "when, or",
+      "rightAnswer": 1
+    },
+
+    {
+      "_comment": "CONJUNCTIONS, TEST 4",
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "Jimmy had a stomachache the day before yesterday, __ he didn’t come to basketball practice.",
+      "answer0": "so",
+      "answer1": "while",
+      "answer2": "however",
+      "answer3": "yet",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "You can have __ tea __ coffee for breakfast! Choose what you want.",
+      "answer0": "neither, nor",
+      "answer1": "no sooner, than",
+      "answer2": "both, and",
+      "answer3": "either, or",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "__ being the best team, we lost the last match.",
+      "answer0": "in spite of",
+      "answer1": "despite",
+      "answer2": "because",
+      "answer3": "as long as",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "Unfortunately I arrived late for work, __ the bad traffic.",
+      "answer0": "while",
+      "answer1": "because",
+      "answer2": "due to",
+      "answer3": "even though",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "Honda makes cars __ motorbikes.",
+      "answer0": "but",
+      "answer1": "as well as",
+      "answer2": "or",
+      "answer3": "both",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "I wake up early every morning __ have time for meditation.",
+      "answer0": "in order to",
+      "answer1": "in spite of",
+      "answer2": "as long as",
+      "answer3": "although",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "__ he doesn’t like overcrowded places, he goes to lots of music festivals.",
+      "answer0": "due to",
+      "answer1": "whereas",
+      "answer2": "although",
+      "answer3": "unless",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "I think that these steps were __ justified __ necessary.",
+      "answer0": "either, or",
+      "answer1": "not only, but also",
+      "answer2": "neither, nor",
+      "answer3": "whether, or",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "__ that is true, __ what happened is not surprising.",
+      "answer0": "if, then",
+      "answer1": "both, and",
+      "answer2": "not only, but also",
+      "answer3": "either, or",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1103,
+      "question": "Believe me, all will be well, __ you are careful.",
+      "answer0": "but",
+      "answer1": "unless",
+      "answer2": "providing",
+      "answer3": "nevertheless",
+      "rightAnswer": 2
+    },
+
+    {
+      "_comment": "CONJUNCTIONS, TEST 5",
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "__ you watch silly TV programs __ do your homework and improve your skills is your decision.",
+      "answer0": "not only, but also",
+      "answer1": "either, or",
+      "answer2": "both, and",
+      "answer3": "whether, or",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "You can __ walk to school __ take the bus. It depends on time.",
+      "answer0": "either, or",
+      "answer1": "both, and",
+      "answer2": "neither, nor",
+      "answer3": "whether, or",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "__ are they noisy __ they are lazy.",
+      "answer0": "both, and",
+      "answer1": "neither, nor",
+      "answer2": "not only, but also",
+      "answer3": "whether, or",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "__ you get the best grade in the writing test, you'll need to pass an oral test.",
+      "answer0": "unless",
+      "answer1": "even if",
+      "answer2": "while",
+      "answer3": "until",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "__ I was not at home, I could not meet my aunt.",
+      "answer0": "so",
+      "answer1": "as",
+      "answer2": "though",
+      "answer3": "because",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "Bill won the match __ his numerous injuries.",
+      "answer0": "although",
+      "answer1": "in spite of",
+      "answer2": "despite",
+      "answer3": "but",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "It was so dark __ I could not see anything.",
+      "answer0": "when",
+      "answer1": "while",
+      "answer2": "but",
+      "answer3": "that",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "__ he has apologized, they will not take any further actions against him.",
+      "answer0": "since",
+      "answer1": "yet",
+      "answer2": "although",
+      "answer3": "so",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "She went to the shops __ couldn't find anything she liked.",
+      "answer0": "or",
+      "answer1": "but",
+      "answer2": "because",
+      "answer3": "as soon as",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 1100,
+      "testId": 1104,
+      "question": "__ had I finished washing my car __ it started raining.",
+      "answer0": "either, or",
+      "answer1": "whether, or",
+      "answer2": "neither, nor",
+      "answer3": "no sooner, than",
+      "rightAnswer": 3
+    }
+  ]
+}

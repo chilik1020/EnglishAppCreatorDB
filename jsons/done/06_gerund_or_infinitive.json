@@ -1,0 +1,570 @@
+{
+  "chapterId": 6,
+  "chapter": "Ing or to",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 600,
+      "topic": "Gerund",
+      "path": "06_inr_or_infinitive_00_gerund.html"
+    },
+    {
+      "lessonGrammarId": 601,
+      "topic": "Infinitive",
+      "path": "06_inr_or_infinitive_01_infinitive.html"
+    },
+    {
+      "lessonGrammarId": 602,
+      "topic": "Gerund or infinitive",
+      "path": "06_inr_or_infinitive_02_gerund_or_infinitive.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 600,
+      "topic": "Ing ot to"
+    }
+  ],
+  "tests": [
+    {
+      "testId": 600,
+      "lessonTestId": 600,
+      "topic": "Ing ot to",
+      "price": 0
+    },
+    {
+      "testId": 601,
+      "lessonTestId": 600,
+      "topic": "Ing ot to",
+      "price": 0
+    },
+    {
+      "testId": 602,
+      "lessonTestId": 600,
+      "topic": "Ing ot to",
+      "price": 2
+    },
+    {
+      "testId": 603,
+      "lessonTestId": 600,
+      "topic": "Ing ot to",
+      "price": 2
+    },
+    {
+      "testId": 604,
+      "lessonTestId": 600,
+      "topic": "Ing ot to",
+      "price": 2
+    }
+  ],
+  "questions": [
+    {
+      "_comment": "ING OR TO, TEST 1",
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "Sam went to the bank __ some money. He considered __ abroad.",
+      "answer0": "to get, moving",
+      "answer1": "getting, moving",
+      "answer2": "get, move",
+      "answer3": "to get, to move",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "She likes __. She would like __ your portrait.",
+      "answer0": "to paint, painting",
+      "answer1": "painting, to paint",
+      "answer2": "painting, paint",
+      "answer3": "to paint, to paint",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "He avoided __ my question, but he was the first __ me.",
+      "answer0": "to answer, asking",
+      "answer1": "answering, asking",
+      "answer2": "answering, to ask",
+      "answer3": "to answer, to ask",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "He was found guilty __ __in court.",
+      "answer0": "of, lying",
+      "answer1": "-, to lie",
+      "answer2": "-, lying",
+      "answer3": "of, to lie",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "__ is a popular form of exercise. I advise you __ twice a week.",
+      "answer0": "to cycle, cycling",
+      "answer1": "cycling, cycling",
+      "answer2": "cycling, to cycle",
+      "answer3": "to cycle, to cycle",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "I was annoyed __ that he had left. I don’t know why he __.",
+      "answer0": "hearing, to leave",
+      "answer1": "hear, left",
+      "answer2": "hearing, leaving",
+      "answer3": "to hear, left",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "You were clever not __ them. They lost $100,000 __ in unsuccessful companies.",
+      "answer0": "to believe, to invest",
+      "answer1": "to believe, investing",
+      "answer2": "believing, invest",
+      "answer3": "believe, investing",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "He agreed __ us. He explained how __ the machine.",
+      "answer0": "to help, to operate",
+      "answer1": "helping, operating",
+      "answer2": "help, to operate",
+      "answer3": "help, operating",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "She is __ young __ out so late.",
+      "answer0": "enough, staying",
+      "answer1": "too, staying",
+      "answer2": "too, to stay",
+      "answer3": "-, to stay",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "You had __ __ a doctor.",
+      "answer0": "better, see",
+      "answer1": "-, seeing",
+      "answer2": "better, to see",
+      "answer3": "-, to see",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "ING OR TO, TEST 2",
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "I would rather __ at home tonight than __ to the cinema.",
+      "answer0": "stay, go",
+      "answer1": "to stay, going",
+      "answer2": "staying, going",
+      "answer3": "staying, to go",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "We wasted a lot of time __ to find a parking space. We are sorry for __ you waiting.",
+      "answer0": "to try, keeping",
+      "answer1": "trying, keeping",
+      "answer2": "try, keep",
+      "answer3": "trying, to keep",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "She is used __ alone. She looks forward __ on Saturdays.",
+      "answer0": "to living, working",
+      "answer1": "live, to work",
+      "answer2": "to living, to working",
+      "answer3": "live, work",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "She is busy __ the sandwiches. Take something __ on the bus.",
+      "answer0": "to prepare, to eat",
+      "answer1": "preparing, eating",
+      "answer2": "prepare, eat",
+      "answer3": "preparing, to eat",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "There’s no point __ __ angry with him.",
+      "answer0": "in, to get",
+      "answer1": "in, getting",
+      "answer2": "-, getting",
+      "answer3": "-, get",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "I listened __ James __ a song. I listened to part of the song.",
+      "answer0": "to, singing",
+      "answer1": "-, to sing",
+      "answer2": "to, sing",
+      "answer3": "-, singing",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "It is important __ there on time. I can’t stand __ late.",
+      "answer0": "getting, to be",
+      "answer1": "to get, be",
+      "answer2": "to get, being",
+      "answer3": "get, being",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "Kate is too ill __ today. She was seen __ into a taxi.",
+      "answer0": "to work, getting",
+      "answer1": "working, get",
+      "answer2": "work, get",
+      "answer3": "working, getting",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "We could see smoke __ out _ the building.",
+      "answer0": "coming, -",
+      "answer1": "come, of",
+      "answer2": "to come, -",
+      "answer3": "coming, of",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 601,
+      "question": "It was a mistake for you __ him the money. He ought __ a job.",
+      "answer0": "to lend, to find",
+      "answer1": "lending, finding",
+      "answer2": "lend, find",
+      "answer3": "lending, find",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "ING OR TO, TEST 3",
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "It’s __ __ cold.",
+      "answer0": "start, get",
+      "answer1": "starting, getting",
+      "answer2": "starting, to get",
+      "answer3": "to start, to get",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "I’ll never forget __ by plane __ the first time.",
+      "answer0": "travel, -",
+      "answer1": "travelling, for",
+      "answer2": "to travel, for",
+      "answer3": "travelling, -",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "If you can’t __ to sleep, try __ some milk.",
+      "answer0": "go, drinking",
+      "answer1": "to go, to drink",
+      "answer2": "going, drinking",
+      "answer3": "go, to drink",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "She doesn’t want __ her father’s car. She’s afraid of __ it.",
+      "answer0": "drive, crashing",
+      "answer1": "to drive, crashing",
+      "answer2": "driving, to crash",
+      "answer3": "driving, crashing",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "She means __ a new car soon, even if it means __ a lot of money.",
+      "answer0": "buy, pay",
+      "answer1": "buying, paying",
+      "answer2": "buy, to pay",
+      "answer3": "to buy, paying",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "He stopped __ the tank with petrol, then continued __.",
+      "answer0": "to fill, driving",
+      "answer1": "filling, to drive",
+      "answer2": "fill, drive",
+      "answer3": "filling, driving",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "He stopped __ __ coffee because it upset his stomach.",
+      "answer0": "drinking, a",
+      "answer1": "drinking, -",
+      "answer2": "to drink, the",
+      "answer3": "drink, -",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "The carpet needs __ __.",
+      "answer0": "being, hoovering",
+      "answer1": "being, hoovered",
+      "answer2": "be, hoovering",
+      "answer3": "to be, hoovered",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "He went __ __ letters until 10.00.",
+      "answer0": "-, writing",
+      "answer1": "on, to write",
+      "answer2": "on, writing",
+      "answer3": "-, write",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 602,
+      "question": "She introduced herself and went __ __ about her new book.",
+      "answer0": "on, to talk",
+      "answer1": "on, talking",
+      "answer2": "on, talk",
+      "answer3": "-, talking",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "ING OR TO, TEST 4",
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "I remember __ to him before. He advised us __ in advance.",
+      "answer0": "talking, to book",
+      "answer1": "to talk, booking",
+      "answer2": "talking, booking",
+      "answer3": "to talk, to book",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "We regret __ you that you have failed. I regret __ these stocks.",
+      "answer0": "inform, to buy",
+      "answer1": "informing, buying",
+      "answer2": "to inform, buying",
+      "answer3": "informing, buy",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "I can’t stop Sandra __to the cinema. I’m anxious for her __ out so late.",
+      "answer0": "to go, to go",
+      "answer1": "go, go",
+      "answer2": "go, going",
+      "answer3": "going, to go",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "Let me __ your bag for you. It’s too heavy for you __ it.",
+      "answer0": "to carry, to carry",
+      "answer1": "carry, to carry",
+      "answer2": "carrying, carry",
+      "answer3": "carrying, carrying",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "She tried __ serious but she couldn’t help __.",
+      "answer0": "to be, laughing",
+      "answer1": "being, laugh",
+      "answer2": "be, laughing",
+      "answer3": "being, laughing",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "I prefer __ to __ by train.",
+      "answer0": "drive, travel",
+      "answer1": "driving, to travel",
+      "answer2": "driving, travelling",
+      "answer3": "to drive, travelling",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "You can __ your  English by __ more.",
+      "answer0": "improving, to study",
+      "answer1": "to improve, studying",
+      "answer2": "improve, studying",
+      "answer3": "improve, studying",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "After __ his Master’s degree, he decided__ for a job.",
+      "answer0": "taking, to apply",
+      "answer1": "taking, applying",
+      "answer2": "take, apply",
+      "answer3": "taking, apply",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "She succeeded __ __ the piano.",
+      "answer0": "-, to play",
+      "answer1": "in, playing",
+      "answer2": "in, plat",
+      "answer3": "-, playing",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 603,
+      "question": "She was proud __ __ the first prize.",
+      "answer0": "of, winning",
+      "answer1": "-, winning",
+      "answer2": "of, to win",
+      "answer3": "-, win",
+      "rightAnswer": 0
+    },
+
+    {
+      "_comment": "ING OR TO, TEST 5",
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "__ cigarettes is bad for the health.  She doesn’t allow us __ in the house.",
+      "answer0": "smoke, to smoke",
+      "answer1": "smoking, to smoke",
+      "answer2": "smoking, smoke",
+      "answer3": "smoking, smoking",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "I started __ what would __ if I lost my job.",
+      "answer0": "wonder, to happen",
+      "answer1": "wondering, happening",
+      "answer2": "wondering, happen",
+      "answer3": "to wonder, to happen",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "He is fond of __. He dreams of __ Paris.",
+      "answer0": "to travel, to visit",
+      "answer1": "travelling, visit",
+      "answer2": "travel, visit",
+      "answer3": "travelling, visiting",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "It was too dark __ anything on the road. She made him __ full responsibility for the accident.",
+      "answer0": "to see, accept",
+      "answer1": "seeing, accepting",
+      "answer2": "to see, to accept",
+      "answer3": "see, accept",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "I congratulated Mary __ __ her exams.",
+      "answer0": "-, to pass",
+      "answer1": "on, passing",
+      "answer2": "on,  pass",
+      "answer3": "-, passing",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "Would you __ __ this letter for me, please?",
+      "answer0": "to mind, to post",
+      "answer1": "mind, post",
+      "answer2": "mind, posting",
+      "answer3": "minding, posting",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "I saw a burglar __ __ my neighbour’s house.",
+      "answer0": "breaking, in",
+      "answer1": "to break, into",
+      "answer2": "breaking, -",
+      "answer3": "break, into",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "__ shy, Laura avoided __ to Ben.",
+      "answer0": "feeling, talk",
+      "answer1": "feeling, talking",
+      "answer2": "feel, talking",
+      "answer3": "to feel, to talk",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "We met John __ __.",
+      "answer0": "while, shopping",
+      "answer1": "-, to shop",
+      "answer2": "while, to shop",
+      "answer3": "-, shopping",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 600,
+      "testId": 604,
+      "question": "The woman __ __ me is my aunt.",
+      "answer0": "to wave, -",
+      "answer1": "wave, for",
+      "answer2": "waving, -",
+      "answer3": "waving, at",
+      "rightAnswer": 3
+    }
+  ]
+}
