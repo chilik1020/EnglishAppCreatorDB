@@ -1,0 +1,56 @@
+https://www.json-generator.com/
+{
+  "chapterId": 6,
+  "chapter": "",
+  "lessonsGrammar": [
+    {
+      "lessonGrammarId": 600,
+      "topic": "",
+      "path": "ch_0_les_1.html"
+    },
+    {
+      "lessonGrammarId": 601,
+      "topic": "",
+      "path": "ch_0_les_2.html"
+    }
+  ],
+  "lessonsTest": [
+    {
+      "lessonTestId": 600,
+      "topic": ""
+    }
+  ],
+
+  "tests": [
+    {
+      "testId": 600,
+      "lessonTestId": 600,
+      "topic": "",
+      "price": 0
+    },
+    {
+      "testId": 601,
+      "lessonTestId": 600,
+      "topic": "",
+      "price": 0
+    },
+    {
+      "testId": 602,
+      "lessonTestId": 600,
+      "topic": "",
+      "price": 0
+    }
+  ],
+  "questions": [ '{{repeat(21, 21)}}',
+    {
+      "lessonTestId": 600,
+      "testId": 600,
+      "question": "",
+      "answer0": "",
+      "answer1": "",
+      "answer2": "",
+      "answer3": "",
+      "rightAnswer": 1000
+    }
+  ]
+}

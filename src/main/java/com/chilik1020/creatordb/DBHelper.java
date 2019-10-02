@@ -7,13 +7,14 @@ import java.sql.*;
 public class DBHelper {
 
 
-    private static final String dbGeneralname = "eng_grammar_tests_general_data_v3_4.db";
+    private static final String dbGeneralname = "eng_grammar_tests_general_data_v3_5.db";
     private static final String urlGeneral = "jdbc:sqlite:" + CreatorDB.fileLocation + "creatorDB/db/" + dbGeneralname;
 
-    private static final String dbPersonalname = "eng_grammar_tests_personal_data_v3_4.db";
+    private static final String dbPersonalname = "eng_grammar_tests_personal_data_v3_5.db";
     private static final String urlPersonal = "jdbc:sqlite:" + CreatorDB.fileLocation + "creatorDB/db/" + dbPersonalname;
 
     private static final String TABLE_PURCHASES = "purchases";
+    private static final String TABLE_USER_STATS = "userStats";
     private static final String TABLE_CHAPTERS = "chapters";
     private static final String TABLE_LESSONS_GRAMMAR = "lessonsGrammar";
     private static final String TABLE_LESSONS_TEST = "lessonsTest";
@@ -61,6 +62,12 @@ public class DBHelper {
         }
     }
     public static void createTables() {
+        String sqlUserStats= "CREATE TABLE IF NOT EXISTS " + TABLE_USER_STATS +"(\n"
+                + " _id INTEGER NOT NULL  PRIMARY KEY,\n"
+                + "	numberOfAppStarts INTEGER NOT NULL,\n"
+                + " statusRate INTEGER NOT NULL \n"
+                + ");";
+
         String sqlPurchases = "CREATE TABLE IF NOT EXISTS " + TABLE_PURCHASES +"(\n"
                 + " _id INTEGER NOT NULL,\n"
                 + "	name TEXT NOT NULL  PRIMARY KEY,\n"
@@ -112,9 +119,11 @@ public class DBHelper {
                 + " typeResult INTEGER NOT NULL,\n"
                 + " chapterId INTEGER NOT NULL,\n"
                 + " lessonId INTEGER NOT NULL,\n"
+                + " testId INTEGER NOT NULL,\n"
                 + " result INTEGER NOT NULL\n"
                 + ");";
 
+        createTable(urlPersonal, sqlUserStats);
         createTable(urlPersonal, sqlPurchases);
         createTable(urlPersonal, sqlScores);
 
@@ -134,6 +143,34 @@ public class DBHelper {
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
+    }
+
+    public static int insertIntoUserStats(UserStat us) {
+        String sql = "INSERT INTO " + TABLE_USER_STATS + " (_id, numberOfAppStarts, statusRate) VALUES(?,?,?)";
+        String[] returnId = { "BATCHID" };
+        int id = -1;
+
+        try (Connection conn = connect(urlPersonal);
+             PreparedStatement pstmt = conn.prepareStatement(sql, returnId)) {
+            pstmt.setLong(1, us.get_id());
+            pstmt.setLong(2, us.getNumberOfAppStarts());
+            pstmt.setLong(3, us.getStatusRate());
+            int affectedRows = pstmt.executeUpdate();
+
+            if (affectedRows == 0) {
+                throw new SQLException("Creating row failed, no rows affected.");
+            }
+
+            ResultSet rs = pstmt.getGeneratedKeys();
+            if (rs.next()) {
+                id = rs.getInt(1);
+            }
+            rs.close();
+
+        } catch (SQLException e) {
+            System.out.println("insertIntoUserStats: " + e.getMessage());
+        }
+        return id;
     }
 
     public static int insertIntoPurchases(Purchase p) {
