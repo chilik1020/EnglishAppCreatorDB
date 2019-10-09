@@ -36,19 +36,19 @@
       "testId": 202,
       "lessonTestId": 200,
       "topic": "Modals",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 203,
       "lessonTestId": 200,
       "topic": "Modals",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 204,
       "lessonTestId": 200,
       "topic": "Modals",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 205,
@@ -64,6 +64,18 @@
     },
     {
       "testId": 207,
+      "lessonTestId": 200,
+      "topic": "Modals",
+      "price": 2
+    },
+    {
+      "testId": 208,
+      "lessonTestId": 200,
+      "topic": "Modals",
+      "price": 2
+    },
+    {
+      "testId": 209,
       "lessonTestId": 200,
       "topic": "Modals",
       "price": 2
@@ -94,7 +106,7 @@
     {
       "lessonTestId": 200,
       "testId": 200,
-      "question": "We haven’t got enough sugar to bake your favourite cupcakes. You __to go to the grocery store.",
+      "question": "We haven’t got enough sugar to bake your favourite cupcakes. You __ to go to the grocery store.",
       "answer0": "must",
       "answer1": "ought",
       "answer2": "need",
@@ -186,7 +198,7 @@
     {
       "lessonTestId": 200,
       "testId": 201,
-      "question": "Colin __play chess when he was young.",
+      "question": "Colin __ play basketball when he was young.",
       "answer0": "can",
       "answer1": "could",
       "answer2": "ought to",
@@ -266,7 +278,7 @@
     {
       "lessonTestId": 200,
       "testId": 201,
-      "question": "You __given your boss the report two days ago when he asked for it.",
+      "question": "You __ given your boss the report two days ago when he asked for it.",
       "answer0": "should have",
       "answer1": "could have",
       "answer2": "might have",
@@ -338,7 +350,7 @@
     {
       "lessonTestId": 200,
       "testId": 202,
-      "question": "When I was a kid, we used to live in the countryside. So every morning we__ have a cup of warm fresh milk for breakfast.",
+      "question": "When I was a kid, we used to live in the countryside. So every morning we __ have a cup of warm fresh milk for breakfast.",
       "answer0": "could",
       "answer1": "should",
       "answer2": "would",
@@ -381,16 +393,16 @@
       "lessonTestId": 200,
       "testId": 203,
       "question": "__ you like some coffee?",
-      "answer0": "could",
-      "answer1": "would",
-      "answer2": "can",
-      "answer3": "will",
+      "answer0": "Could",
+      "answer1": "Would",
+      "answer2": "Can",
+      "answer3": "Will",
       "rightAnswer": 1
     },
     {
       "lessonTestId": 200,
       "testId": 203,
-      "question": "It __ be Sarah on that party. She was at home last night. You __her for else.",
+      "question": "It __ be Sarah on that party. She was at home last night. You __ her for somebody else.",
       "answer0": "must, could have taken",
       "answer1": "mustn’t, should have taken",
       "answer2": "couldn’t, must have taken",
@@ -410,7 +422,7 @@
     {
       "lessonTestId": 200,
       "testId": 203,
-      "question": "Where is Celine? What is she doing? – I’m not sure, __ TV.",
+      "question": "Where is Celine? What is she doing? – I’m not sure, she __ TV.",
       "answer0": "must be watching",
       "answer1": "might be watching",
       "answer2": "must have watched",
@@ -421,10 +433,10 @@
       "lessonTestId": 200,
       "testId": 203,
       "question": "__ you please help me with this task? – Sure, but I __ finish mine first.",
-      "answer0": "can, need",
-      "answer1": "could, have to",
-      "answer2": "may, would",
-      "answer3": "might, should",
+      "answer0": "Can, need",
+      "answer1": "Could, have to",
+      "answer2": "May, would",
+      "answer3": "Might, should",
       "rightAnswer": 1
     },
     {
@@ -440,7 +452,7 @@
     {
       "lessonTestId": 200,
       "testId": 203,
-      "question": "I’m so sorry, but I really __ to go. I wish I __  .  I wish I __ stay.",
+      "question": "I’m so sorry, but I really __ to go. I wish I __  . I wish I __ stay.",
       "answer0": "have,  needn’t, can",
       "answer1": "had, couldn’t, had to",
       "answer2": "need, didn’t have to, could",
@@ -471,10 +483,10 @@
       "lessonTestId": 200,
       "testId": 203,
       "question": "__ I borrow your pencil? – Sorry, I __ it right now.",
-      "answer0": "may, need",
-      "answer1": "can, must",
-      "answer2": "could, have",
-      "answer3": "might, needn’t",
+      "answer0": "May, need",
+      "answer1": "Can, must",
+      "answer2": "Could, have",
+      "answer3": "Might, needn’t",
       "rightAnswer": 0
     },
 
@@ -533,10 +545,10 @@
       "lessonTestId": 200,
       "testId": 204,
       "question": "__ you do me a favor? – Of course, you __ always rely on me.",
-      "answer0": "can, can",
-      "answer1": "could, can’t",
-      "answer2": "can, can’t",
-      "answer3": "could, must",
+      "answer0": "Can, can",
+      "answer1": "Could, can’t",
+      "answer2": "Can, can’t",
+      "answer3": "Could, must",
       "rightAnswer": 0
     },
     {
@@ -552,11 +564,11 @@
     {
       "lessonTestId": 200,
       "testId": 204,
-      "question": "__ you swim when you were kid? No, but I __ now.",
-      "answer0": "can, must",
-      "answer1": "must, have to",
-      "answer2": "may, might",
-      "answer3": "could, can",
+      "question": "__ you swim when you were a kid? No, but I __ now.",
+      "answer0": "Can, must",
+      "answer1": "Must, have to",
+      "answer2": "May, might",
+      "answer3": "Could, can",
       "rightAnswer": 3
     },
     {
@@ -584,7 +596,7 @@
       "_comment": "MODALS, TEST 6",
       "lessonTestId": 200,
       "testId": 205,
-      "question": "Jane hasn’t congratulated me with birthday. I’m not sure, but she __ have forgotten.",
+      "question": "Jane hasn’t wished me happy birthday. I’m not sure, but she __ have forgotten.",
       "answer0": "may",
       "answer1": "must",
       "answer2": "should",
@@ -787,102 +799,304 @@
       "_comment": "MODALS, TEST 8",
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "We __ no longer ignore the evidence.",
+      "answer0": "can’t",
+      "answer1": "mustn’t",
+      "answer2": "can",
+      "answer3": "may",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "He __ cancel his meeting or he __ come tonight.",
+      "answer0": "has to, can’t",
+      "answer1": "shouldn’t, can’t",
+      "answer2": "can’t, can",
+      "answer3": "should, mustn’t",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "My God, when I read that, I __ believe it.",
+      "answer0": "should",
+      "answer1": "must",
+      "answer2": "couldn't",
+      "answer3": "could",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "Barbara looks pretty sick. I think she __ go to a doctor.",
+      "answer0": "must",
+      "answer1": "can",
+      "answer2": "should",
+      "answer3": "may",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "We are friends and we __ to help each other.",
+      "answer0": "should",
+      "answer1": "can",
+      "answer2": "could have",
+      "answer3": "ought",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "She __ what her brother had done. But she wasn't at home.",
+      "answer0": "could have seen",
+      "answer1": "can see",
+      "answer2": "have to see",
+      "answer3": "should see",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "You look tired you __ go home.",
+      "answer0": "had better",
+      "answer1": "should",
+      "answer2": "have",
+      "answer3": "should or had better",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I tried to follow her, but she __ me and slipped away.",
+      "answer0": "can see",
+      "answer1": "must see",
+      "answer2": "must have seen",
+      "answer3": "should have seen",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "__ you like some wine? Sure.",
+      "answer0": "Can",
+      "answer1": "Could",
+      "answer2": "Would",
+      "answer3": "Have to",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 200,
       "testId": 207,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "Hey I'm lost. __ you help me?",
+      "answer0": "Could",
+      "answer1": "Should",
+      "answer2": "Would",
+      "answer3": "Must",
+      "rightAnswer": 0
+    },
+    {
+      "_comment": "MODALS, TEST 9",
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "I __ try to explain it a bit better for you, but that's all.",
+      "answer0": "can’t",
+      "answer1": "dare",
+      "answer2": "haven’t to",
+      "answer3": "can",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "I'm on my way. I __ be there in about 10 minutes.",
+      "answer0": "can",
+      "answer1": "should",
+      "answer2": "ought",
+      "answer3": "must have",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "If you need money, I __ try to help you.",
+      "answer0": "have",
+      "answer1": "can",
+      "answer2": "ought",
+      "answer3": "must to",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "Daddy, you've been driving all day. You __ be exhausted!",
+      "answer0": "must",
+      "answer1": "should",
+      "answer2": "can",
+      "answer3": "could",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "How __ you speak without permission!",
+      "answer0": "should",
+      "answer1": "would",
+      "answer2": "dare",
+      "answer3": "can’t",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "He looks so bad that he __ drunk too much last night.",
+      "answer0": "shouldn't",
+      "answer1": "haven’t to",
+      "answer2": "could",
+      "answer3": "must have",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "You __ visit your parents more often they always miss you.",
+      "answer0": "ought to",
+      "answer1": "ought",
+      "answer2": "must have",
+      "answer3": "can",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "My wife's worried it __ be serious.",
+      "answer0": "should",
+      "answer1": "ought to",
+      "answer2": "may",
+      "answer3": "could",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "I __ have given it a little more attention.",
+      "answer0": "should",
+      "answer1": "can",
+      "answer2": "have to",
+      "answer3": "can’t",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 208,
+      "question": "People __ see us talking right now.",
+      "answer0": "shouldn't",
+      "answer1": "could",
+      "answer2": "ought",
+      "answer3": "couldn’t",
+      "rightAnswer": 0
+    },
+    {
+      "_comment": "MODALS, TEST 10",
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "Violence __ end and negotiation __ resume.",
+      "answer0": "could, can",
+      "answer1": "must, must",
+      "answer2": "have, must",
+      "answer3": "should, could",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "I saw that pen this morning. It __ be around here somewhere.",
+      "answer0": "must",
+      "answer1": "may",
+      "answer2": "might",
+      "answer3": "should",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "When I was 40 I __ run up those stairs.",
+      "answer0": "could",
+      "answer1": "can",
+      "answer2": "must",
+      "answer3": "may",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "I’ve just finished my homework. __ I go for a walk?",
+      "answer0": "Must",
+      "answer1": "Might",
+      "answer2": "May",
+      "answer3": "Have",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "- Isn't that Bob’s umbrella? -  Yes, he __ have left it here yesterday.",
+      "answer0": "must",
+      "answer1": "can",
+      "answer2": "should",
+      "answer3": "may",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "It's too late. I __ get going.",
+      "answer0": "can",
+      "answer1": "ought",
+      "answer2": "should",
+      "answer3": "might",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "You __ yell at your parents. It's not nice.",
+      "answer0": "ought not",
+      "answer1": "shouldn’t",
+      "answer2": "can’t",
+      "answer3": "mustn’t",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "If you do that, I __ shoot you.",
+      "answer0": "must",
+      "answer1": "have to",
+      "answer2": "should",
+      "answer3": "will have to",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "If you cheer for me, I __ win.",
+      "answer0": "should",
+      "answer1": "could",
+      "answer2": "will be able to",
+      "answer3": "was able to",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 200,
+      "testId": 209,
+      "question": "I __ this job a lot earlier, but now it's too late.",
+      "answer0": "have to do",
+      "answer1": "must do",
+      "answer2": "should do",
+      "answer3": "should have done",
+      "rightAnswer": 3
     }
   ]
 }

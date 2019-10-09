@@ -56,7 +56,7 @@
       "_comment": "PHRASAL VERBS, TEST 1",
       "lessonTestId": 1300,
       "testId": 1300,
-      "question": "Meaning: look for sth.  If you don’t know a word you should look it __ in the dictionary.",
+      "question": "Meaning: search. If you don’t know a word you should look it __ in the dictionary.",
       "answer0": "up",
       "answer1": "round",
       "answer2": "for",
@@ -66,7 +66,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1300,
-      "question": "Meaning: die. Sadly, the chairman of the club passed __last weekend.",
+      "question": "Meaning: die. Sadly, the chairman of the club passed __ last weekend.",
       "answer0": "off as",
       "answer1": "out",
       "answer2": "away",
@@ -96,7 +96,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1300,
-      "question": "Meaning: wait. The secretary asked me to hold __until Mrs Harris was ready to take my call.",
+      "question": "Meaning: wait. The secretary asked me to hold __ until Mrs Harris was ready to take my call.",
       "answer0": "in",
       "answer1": "out",
       "answer2": "back",
@@ -126,7 +126,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1300,
-      "question": "Meaning: examine carefully.  They went __ the survey results carefully.",
+      "question": "Meaning: examine carefully. They went __ the survey results carefully.",
       "answer0": "through",
       "answer1": "down with",
       "answer2": "over",
@@ -136,7 +136,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1300,
-      "question": "Meaning: reveal sth.  Someone is giving __ secret information.",
+      "question": "Meaning: reveal sth. Someone is giving __ secret information.",
       "answer0": "in",
       "answer1": "away",
       "answer2": "up",
@@ -148,10 +148,10 @@
       "testId": 1300,
       "question": "Meaning: break a promise. I hope he doesn’t go __ his promise.",
       "answer0": "in for",
-      "answer1": "off",
-      "answer2": "over",
-      "answer3": "back on",
-      "rightAnswer": 3
+      "answer1": "up",
+      "answer2": "back on",
+      "answer3": "out of",
+      "rightAnswer": 2
     },
 
     {
@@ -171,14 +171,14 @@
       "question": "Meaning: survive despite difficulties. I earn enough money to get __, but I haven’t managed to save much lately.",
       "answer0": "on",
       "answer1": "by",
-      "answer2": "off  with",
+      "answer2": "off with",
       "answer3": "round",
       "rightAnswer": 1
     },
     {
       "lessonTestId": 1300,
       "testId": 1301,
-      "question": "Meaning: break into pieces. This book is so old that it’s falling  __.",
+      "question": "Meaning: break into pieces. This book is so old that it’s falling __.",
       "answer0": "for",
       "answer1": "out",
       "answer2": "in with",
@@ -198,12 +198,12 @@
     {
       "lessonTestId": 1300,
       "testId": 1301,
-      "question": "Meaning: stop. The car drew __ next to me, and the driver asked for directions.",
-      "answer0": "in",
-      "answer1": "up",
-      "answer2": "with",
+      "question": "Meaning: to prepare smth by writing it. Our manager usually draws __ plans against our competitors.",
+      "answer0": "up",
+      "answer1": "on",
+      "answer2": "in",
       "answer3": "out",
-      "rightAnswer": 1
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 1300,
@@ -270,7 +270,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1302,
-      "question": "Meaning: begin suddenly. War broke__ suddenly in the country",
+      "question": "Meaning: begin suddenly. War broke __ suddenly in the country",
       "answer0": "in",
       "answer1": "out",
       "answer2": "up",
@@ -330,7 +330,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1302,
-      "question": "Meaning: care for sb. ‘The baby’s crying again.’ ‘Don’t worry. I’ll see __ him this time.",
+      "question": "Meaning: care for smbd. ‘The baby’s crying again.’ ‘Don’t worry. I’ll see __ him this time.",
       "answer0": "off",
       "answer1": "about",
       "answer2": "to",
@@ -392,7 +392,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1303,
-      "question": "Meaning: have an effect on.  That washing powder doesn’t work __ grass stains. You’ll have to use something stronger.",
+      "question": "Meaning: have an effect on. That washing powder doesn't work __ grass stains. You’ll have to use something stronger.",
       "answer0": "out",
       "answer1": "on",
       "answer2": "up",
@@ -432,7 +432,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1303,
-      "question": "Meaning: anticipate with pleasure. We’re really looking__ your birthday party.",
+      "question": "Meaning: anticipate with pleasure. We’re really looking __ your birthday party.",
       "answer0": "for",
       "answer1": "forward to",
       "answer2": "on",
@@ -484,7 +484,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1304,
-      "question": "Meaning: not punish. The young man was let__ because he had never been in trouble before.",
+      "question": "Meaning: not punish. The young man was let __ because he had never been in trouble before.",
       "answer0": "out",
       "answer1": "down",
       "answer2": "up",
@@ -534,7 +534,7 @@
     {
       "lessonTestId": 1300,
       "testId": 1304,
-      "question": "Meaning: encounter difficulties. The builders came__ some major problems while they were laying the foundations.",
+      "question": "Meaning: encounter difficulties. The builders came __ some major problems while they were laying the foundations.",
       "answer0": "up against",
       "answer1": "over",
       "answer2": "up",

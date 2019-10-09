@@ -109,7 +109,7 @@
       "testId": 102,
       "lessonTestId": 100,
       "topic": "Present tenses",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 103,
@@ -153,7 +153,7 @@
       "testId": 109,
       "lessonTestId": 101,
       "topic": "Past tenses",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 110,
@@ -196,7 +196,7 @@
       "testId": 116,
       "lessonTestId": 102,
       "topic": "Future tenses",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 117,
@@ -239,7 +239,7 @@
       "testId": 123,
       "lessonTestId": 103,
       "topic": "Mixed tenses",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 124,
@@ -281,7 +281,7 @@
     {
       "lessonTestId": 100,
       "testId": 100,
-      "question": "She (to go / already) to school.",
+      "question": "She (to go/already) to school, don’t wait for her.",
       "answer0": "already go",
       "answer1": "has already go",
       "answer2": "is already going",
@@ -301,12 +301,12 @@
     {
       "lessonTestId": 100,
       "testId": 100,
-      "question": "(to let) me know when you (to decide).",
-      "answer0": "Let’s, decide",
-      "answer1": "Let, decide",
-      "answer2": "Let, are deciding",
-      "answer3": "Let’s, have decided",
-      "rightAnswer": 1
+      "question": "- How many times (you/to try) to pass your biology exam? - Three times so far.",
+      "answer0": "have you try",
+      "answer1": "do you try",
+      "answer2": "have you tried",
+      "answer3": "are you trying",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 100,
@@ -321,7 +321,7 @@
     {
       "lessonTestId": 100,
       "testId": 100,
-      "question": "Go outside! You (to watch) TV all day.",
+      "question": "Go outside! You (to watch) TV all day. Don’t be a couch potato!",
       "answer0": "have been watching",
       "answer1": "watches",
       "answer2": "is watching",
@@ -331,17 +331,17 @@
     {
       "lessonTestId": 100,
       "testId": 100,
-      "question": "He (to go) home now.",
-      "answer0": "go",
-      "answer1": "is going",
-      "answer2": "goes",
-      "answer3": "has gone",
+      "question": "He (to go) home now and (to think) about summer vacation.",
+      "answer0": "go, think",
+      "answer1": "is going, is thinking",
+      "answer2": "is going, think",
+      "answer3": "has gone, thought",
       "rightAnswer": 1
     },
     {
       "lessonTestId": 100,
       "testId": 100,
-      "question": "The bus (to leave) at 8:30.",
+      "question": "The bus (to leave) at 8:30, don’t be late!",
       "answer0": "is going to leave",
       "answer1": "have leaved",
       "answer2": "is leaving",
@@ -361,7 +361,7 @@
     {
       "lessonTestId": 100,
       "testId": 100,
-      "question": "He (to wake up), (to have) breakfast and (to read) the morning news every sunday.",
+      "question": "He (to wake up), (to have) breakfast and (to read) the morning news every Sunday.",
       "answer0": "wake up, have, read",
       "answer1": "wake ups, has, reads",
       "answer2": "wakes up, has have, reads",
@@ -392,7 +392,7 @@
     {
       "lessonTestId": 100,
       "testId": 101,
-      "question": "We (to be) what we (to eat).",
+      "question": "Well, we (to be) what we (to eat). Remember it when you buy a big burger.",
       "answer0": "have been, have eaten",
       "answer1": "been, are eating",
       "answer2": "are, is eating",
@@ -403,10 +403,10 @@
       "lessonTestId": 100,
       "testId": 101,
       "question": "You (to speak) with the only real king, (to be) more polite!",
-      "answer0": "have been speaking , Be",
-      "answer1": "are speaking, Be",
-      "answer2": "are speaking, To be",
-      "answer3": "speak, Is",
+      "answer0": "have been speaking , be",
+      "answer1": "are speaking, be",
+      "answer2": "are speaking, to be",
+      "answer3": "speak, is",
       "rightAnswer": 1
     },
     {
@@ -422,7 +422,7 @@
     {
       "lessonTestId": 100,
       "testId": 101,
-      "question": "What have you been doing up to now?",
+      "question": "What (you/to do) the past four years? You have changed a lot!",
       "answer0": "are you doing",
       "answer1": "have you did",
       "answer2": "have you been doing",
@@ -442,32 +442,32 @@
     {
       "lessonTestId": 100,
       "testId": 101,
-      "question": "I (not / to see) him this week.",
-      "answer0": "don’t see",
-      "answer1": "haven’t seen",
-      "answer2": "‘m not seeing",
-      "answer3": "haven’t saw",
-      "rightAnswer": 1
-    },
-    {
-      "lessonTestId": 100,
-      "testId": 101,
-      "question": "My parents  (to arrive) at 7 o'clock.",
-      "answer0": "arrives",
-      "answer1": "arrive",
-      "answer2": "are arriving",
-      "answer3": "is arriving",
+      "question": "I don’t want to go to the café, I (just/to eat).",
+      "answer0": "am just eating",
+      "answer1": "just eat",
+      "answer2": "have just eaten",
+      "answer3": "have just ate",
       "rightAnswer": 2
     },
     {
       "lessonTestId": 100,
       "testId": 101,
-      "question": "He (to be) the best driver. He (to participate) in the competition this week.",
-      "answer0": "is, participates",
-      "answer1": "has been, is participating",
-      "answer2": "are, are participating",
-      "answer3": "is, is participating",
-      "rightAnswer": 3
+      "question": "The airplane (to take off) at 2.30 p.m.",
+      "answer0": "take off",
+      "answer1": "is taking off",
+      "answer2": "takes off",
+      "answer3": "have taken off",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 100,
+      "testId": 101,
+      "question": "Honey, I (to drive), that’s why I can’t talk right now.",
+      "answer0": "drive",
+      "answer1": "am driving",
+      "answer2": "have driven",
+      "answer3": "drives",
+      "rightAnswer": 1
     },
     {
       "_comment": "PRESENT TENSES, TEST 3",
@@ -506,7 +506,7 @@
       "question": "(you/ to hear) the latest news?",
       "answer0": "Do you hear",
       "answer1": "Are you hearing",
-      "answer2": "Have you heart",
+      "answer2": "Have you hearded",
       "answer3": "Have you heard",
       "rightAnswer": 3
     },
@@ -523,22 +523,22 @@
     {
       "lessonTestId": 100,
       "testId": 102,
-      "question": "You (to break) our most sacred oath, and the penalty (to be) death.",
-      "answer0": "have broken, is",
-      "answer1": "break, are",
-      "answer2": "have broken, is being",
-      "answer3": "broke, is",
+      "question": "How many deals (she/to make) at the moment?",
+      "answer0": "has she made",
+      "answer1": "have she made",
+      "answer2": "does she make",
+      "answer3": "she has made",
       "rightAnswer": 0
     },
     {
       "lessonTestId": 100,
       "testId": 102,
-      "question": "We (to understand) everything, and we (to believe) you.",
-      "answer0": "are understanding, are believing",
-      "answer1": "have understood, are believing",
-      "answer2": "understand, believe",
-      "answer3": "understands, believes",
-      "rightAnswer": 2
+      "question": "I (to live) with my sister for a month because she is pregnant and I can help her.",
+      "answer0": "have lived",
+      "answer1": "am living",
+      "answer2": "live",
+      "answer3": "have been living",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 100,
@@ -575,21 +575,21 @@
       "_comment": "PRESENT TENSES, TEST 4",
       "lessonTestId": 100,
       "testId": 103,
-      "question": "It (to be)  horrible. He (to work) every weekend.",
-      "answer0": "is, is working",
-      "answer1": "was, works",
-      "answer2": "is, works",
-      "answer3": "are, working",
+      "question": "I (to be) worried about him. He (to look) so exhausted. He (to work) every weekend.",
+      "answer0": "am, is looking, is working",
+      "answer1": "am, is looking, works",
+      "answer2": "am, looks, works",
+      "answer3": "are, looks, working",
       "rightAnswer": 2
     },
     {
       "lessonTestId": 100,
       "testId": 103,
-      "question": "The whole world (to watch) us!",
-      "answer0": "watches",
-      "answer1": "is watching",
-      "answer2": "watches",
-      "answer3": "are watching",
+      "question": "I wonder why the neighbor's dog (to bark) again. Maybe there is a burglar!",
+      "answer0": "barks",
+      "answer1": "is barking",
+      "answer2": "have barked",
+      "answer3": "are barking",
       "rightAnswer": 1
     },
     {
@@ -625,17 +625,17 @@
     {
       "lessonTestId": 100,
       "testId": 103,
-      "question": "You really like this movie. You (already / to look) it 10 times.",
-      "answer0": "are looking already",
-      "answer1": "already look",
-      "answer2": "have already been looking",
-      "answer3": "have already looked",
+      "question": "I see you really like this movie! You (already/to watch) it 10 times.",
+      "answer0": "are watching already",
+      "answer1": "already watch",
+      "answer2": "have already been watching",
+      "answer3": "have already watched",
       "rightAnswer": 3
     },
     {
       "lessonTestId": 100,
       "testId": 103,
-      "question": "Often, it (to take) a long time to achieve results.",
+      "question": "As a rule, it (to take) a long time to achieve brilliant results.",
       "answer0": "is taking",
       "answer1": "takes",
       "answer2": "‘s taken",
@@ -645,12 +645,12 @@
     {
       "lessonTestId": 100,
       "testId": 103,
-      "question": "He has bad manners, he constantly (to interrupt) me.",
-      "answer0": "interrupt",
-      "answer1": "is interrupting",
+      "question": "He has bad manners, he (constantly/to interrupt) me! It’s irritating!",
+      "answer0": "constantly interrupt",
+      "answer1": "is constantly interrupting",
       "answer2": "interrupts",
-      "answer3": "has interrupted",
-      "rightAnswer": 2
+      "answer3": "constantly is interrupting",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 100,
@@ -665,18 +665,18 @@
     {
       "lessonTestId": 100,
       "testId": 103,
-      "question": "Saturn (to have) 47 satellites.",
-      "answer0": "have",
-      "answer1": "is",
-      "answer2": "has",
-      "answer3": "have had",
+      "question": "Saturn (not/to have) 65 satellites, it (to have) 47 ones.",
+      "answer0": "don’t have, has",
+      "answer1": "haven’t, has",
+      "answer2": "doesn’t have, has",
+      "answer3": "haven’t had, have",
       "rightAnswer": 2
     },
     {
       "_comment": "PRESENT TENSES, TEST 5",
       "lessonTestId": 100,
       "testId": 104,
-      "question": "She (to go) to bed late on weekends.",
+      "question": "She (to go) to bed late on weekends even if she needs to be fresh and full of energy in the morning.",
       "answer0": "go",
       "answer1": "goes",
       "answer2": "has gone",
@@ -696,7 +696,7 @@
     {
       "lessonTestId": 100,
       "testId": 104,
-      "question": "You (to speak) very good Chinese. How long (you / to learn) this?",
+      "question": "You (to speak) Chinese very fluently. How long (you/to learn) this?",
       "answer0": "are speaking, have learnt",
       "answer1": "speak, have you been learning",
       "answer2": "have spoken, are you learning",
@@ -706,17 +706,17 @@
     {
       "lessonTestId": 100,
       "testId": 104,
-      "question": "This emphasis (to be) characteristic of people in this part of the country.",
-      "answer0": "are",
-      "answer1": "am",
-      "answer2": "is",
-      "answer3": "have been",
-      "rightAnswer": 2
+      "question": "That is the fourth time James (to phone) his girlfriend this evening.",
+      "answer0": "has phoned",
+      "answer1": "phones",
+      "answer2": "have phones",
+      "answer3": "is phoning",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 100,
       "testId": 104,
-      "question": "I'm so happy It (to snow) today.",
+      "question": "I'm delighted it (to snow) today.",
       "answer0": "‘s snowing",
       "answer1": "snow",
       "answer2": "has been snowing",
@@ -736,22 +736,22 @@
     {
       "lessonTestId": 100,
       "testId": 104,
-      "question": "Mike (to know) exactly what he (to do).",
-      "answer0": "has known, is doing",
-      "answer1": "has known, does",
-      "answer2": "knows, ‘s doing",
-      "answer3": "is knowing, is doing",
-      "rightAnswer": 2
+      "question": "I (not/to be) at university this week because of the flu.",
+      "answer0": "haven’t been",
+      "answer1": "am not",
+      "answer2": "hasn’t been",
+      "answer3": "don’t",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 100,
       "testId": 104,
-      "question": "Just (to do) it! I (to believe) in you.",
-      "answer0": "do, ‘m believing",
-      "answer1": "do, believe",
-      "answer2": "done, believe",
-      "answer3": "have done, believe",
-      "rightAnswer": 1
+      "question": "First Colin (to play) football, then he (to watch) TV.",
+      "answer0": "is playing, is watching",
+      "answer1": "plays, watchs",
+      "answer2": "plays, watches",
+      "answer3": "has played, is watching",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 100,
@@ -766,11 +766,11 @@
     {
       "lessonTestId": 100,
       "testId": 104,
-      "question": "I (to swim) since I was three.",
-      "answer0": "am swimming",
-      "answer1": "‘ve swimmed",
-      "answer2": "swim",
-      "answer3": "'ve been swimming",
+      "question": "She (to visit) this beauty shop recently.",
+      "answer0": "have visited",
+      "answer1": "is visiting",
+      "answer2": "visits",
+      "answer3": "has visited",
       "rightAnswer": 3
     },
     {
@@ -888,7 +888,7 @@
     {
       "lessonTestId": 100,
       "testId": 106,
-      "question": "Don’t forget! Our holiday (to start) on the 26th March, it (to start) on the 30th   March!",
+      "question": "Don’t forget! Our holiday (not/to start) on the 26th March, it (to start) on the 30th March!",
       "answer0": "isn’t starting, is starting",
       "answer1": "hasn’t been started, has been started",
       "answer2": "hasn’t started, has started",
@@ -938,7 +938,7 @@
     {
       "lessonTestId": 100,
       "testId": 106,
-      "question": "Jimmy is a sensible person , but in this case he (to behave)  foolishly.",
+      "question": "Jimmy is a sensible person , but in this case he (to behave) foolishly.",
       "answer0": "behaves",
       "answer1": "is behaving",
       "answer2": "has been behaving",
@@ -1010,7 +1010,7 @@
     {
       "lessonTestId": 101,
       "testId": 107,
-      "question": "She (to cook) dinner and (to wash) the dishes.",
+      "question": "First, she (to cook) dinner and then (to wash) the dishes.",
       "answer0": "cooked, washed",
       "answer1": "had cooked, washed",
       "answer2": "was cooking, was washing",
@@ -1020,17 +1020,17 @@
     {
       "lessonTestId": 101,
       "testId": 107,
-      "question": "He (to serve / already) a similar sentence earlier for the same reasons.",
-      "answer0": "already served",
-      "answer1": "had already served",
-      "answer2": "had served already",
-      "answer3": "was already serving",
-      "rightAnswer": 1
+      "question": "(to brush/you) your teeth before you went to bed?",
+      "answer0": "Have you brushed",
+      "answer1": "Did you brush",
+      "answer2": "Had you brushed",
+      "answer3": "Were you brushing",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 101,
       "testId": 107,
-      "question": "I saw him in the hall. He (to wait) for you.",
+      "question": "When I saw him in the hall, he (to wait) for you.",
       "answer0": "was waiting",
       "answer1": "had waited",
       "answer2": "waited",
@@ -1060,7 +1060,7 @@
     {
       "lessonTestId": 101,
       "testId": 107,
-      "question": "I (to sit) in my room and listen to phonograph records hour after hour. I don't have time for it now.",
+      "question": "I (to sit) in my room and listen to phonograph records hour after hour. But unfortunately, I don't have time for it now.",
       "answer0": "sat",
       "answer1": "had sat",
       "answer2": "used to sit",
@@ -1092,7 +1092,7 @@
     {
       "lessonTestId": 101,
       "testId": 108,
-      "question": "He (to believe) that violence (to be) the only option.",
+      "question": "Yesterday he (to believe) that violence (to be) the only option. He was wrong.",
       "answer0": "believed, was",
       "answer1": "believed, were",
       "answer2": "used to believe, had been",
@@ -1102,7 +1102,7 @@
     {
       "lessonTestId": 101,
       "testId": 108,
-      "question": "Finally he found the keys he had been looking for since morning.",
+      "question": "Finally he (to find) the keys he (to look) for since morning.",
       "answer0": "had found, had been looking",
       "answer1": "found, was looking",
       "answer2": "had found, was looking",
@@ -1172,11 +1172,11 @@
     {
       "lessonTestId": 101,
       "testId": 108,
-      "question": "We (to sneak away) into the woods when the grown-ups (to look).She and I (to be) that close.",
-      "answer0": "had snuck away, weren’t looking,were",
-      "answer1": "used to sneak away, weren't looking, were",
-      "answer2": "had snuck away, didn’t look, was",
-      "answer3": "used to sneak away, weren’t looking, was",
+      "question": "Amanda (to spend) a lot of money yesterday. She (to buy) a dress. It (to cost) 100 dollars.",
+      "answer0": "spend, had bought, cost",
+      "answer1": "spent, bought, cost",
+      "answer2": "had spent, had bought, had cost",
+      "answer3": "was spending, was buying, costed",
       "rightAnswer": 1
     },
     {
@@ -1266,14 +1266,14 @@
       "question": "While my wife was shopping in town, I (to tidy up) in the kitchen.",
       "answer0": "shopped, tidied up",
       "answer1": "shopped, was tidying up",
-      "answer2": "was shopping, tidied up",
+      "answer2": "was shopping, was tidying up",
       "answer3": "was shopping, had tidied up",
       "rightAnswer": 2
     },
     {
       "lessonTestId": 101,
       "testId": 109,
-      "question": "At ten. she (to read) every book in the house. She (to grow up) and she still loves reading.",
+      "question": "When she was ten she (to read) every book in the house. She (to grow up) and she still loves reading.",
       "answer0": "read, had grown up",
       "answer1": "read, grew up",
       "answer2": "had read, had grown up",
@@ -1294,7 +1294,7 @@
     {
       "lessonTestId": 101,
       "testId": 110,
-      "question": "I'm surprised to see you smoking. you (not / to smoke).",
+      "question": "I'm surprised to see you smoking! You (not / to smoke).",
       "answer0": "didn’t smoke",
       "answer1": "hadn’t smoked",
       "answer2": "didn’t use to smoke",
@@ -1314,7 +1314,7 @@
     {
       "lessonTestId": 101,
       "testId": 110,
-      "question": "Scary tale. I (to read) it all last night and I (to get) scared.",
+      "question": "I (to read) scary tale at 10 pm when it was already dark and I (to get) scared.",
       "answer0": "was reading, had gotten",
       "answer1": "read, had gotten",
       "answer2": "had read, gotten",
@@ -1344,12 +1344,12 @@
     {
       "lessonTestId": 101,
       "testId": 110,
-      "question": "We (to plan) this party for a few days, but you messed it up.",
-      "answer0": "had been planning",
-      "answer1": "had planned",
-      "answer2": "planned",
-      "answer3": "were planning",
-      "rightAnswer": 0
+      "question": "(They/to fly) over the volcano during their last flight?",
+      "answer0": "Had they flown",
+      "answer1": "Were they flying",
+      "answer2": "Did they fly",
+      "answer3": "Did they used to fly",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 101,
@@ -1374,7 +1374,7 @@
     {
       "lessonTestId": 101,
       "testId": 110,
-      "question": "It was very sad for me, because I (to realize) that for those many years I (to learn) anything.",
+      "question": "It was very sad for me, because I (to realize) that for those many years I (not/to learn) anything.",
       "answer0": "had realized, had not been learning",
       "answer1": "had realized, hadn’t studied",
       "answer2": "realized, wasn’t learning",
@@ -1406,7 +1406,7 @@
     {
       "lessonTestId": 101,
       "testId": 111,
-      "question": "Where (you / to look) when he (to reach) for his gun?",
+      "question": "What (you/to look) at when he (to reach) for his gun?",
       "answer0": "had you looked, reached",
       "answer1": "were you looking, reached",
       "answer2": "did you look, had reached",
@@ -1471,7 +1471,7 @@
       "answer1": "had tried",
       "answer2": "was trying",
       "answer3": "had been trying",
-      "rightAnswer": 1
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 101,
@@ -1548,10 +1548,10 @@
       "lessonTestId": 101,
       "testId": 112,
       "question": "She (just / to leave) the room when the police arrived.",
-      "answer0": "was leaving",
-      "answer1": "had been left",
-      "answer2": "had left",
-      "answer3": "had left",
+      "answer0": "just was leaving",
+      "answer1": "had just been left",
+      "answer2": "had left just",
+      "answer3": "had just left",
       "rightAnswer": 3
     },
     {
@@ -1710,12 +1710,12 @@
     {
       "lessonTestId": 102,
       "testId": 114,
-      "question": "Tomorrow we (to get married) for six years.",
-      "answer0": "are going to get married",
-      "answer1": "will get married",
-      "answer2": "will have been gotten married",
-      "answer3": "will be getting married",
-      "rightAnswer": 2
+      "question": "Next year we (to be married) for 35 years.",
+      "answer0": "will be married",
+      "answer1": "will have be married",
+      "answer2": "are going to be",
+      "answer3": "will have been married",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 102,
@@ -1760,12 +1760,12 @@
     {
       "lessonTestId": 102,
       "testId": 114,
-      "question": "We arranged to meet the following Friday. Therefore, I (busy) the following Friday but I (free) on Thursday.",
-      "answer0": "am going to be busy, am going to be free",
-      "answer1": "will be busy, am going to be free",
-      "answer2": "am busy, am free",
-      "answer3": "am going to be busy, free",
-      "rightAnswer": 2
+      "question": "We (to have) dinner at a nice restaurant on Saturday, but we haven't booked a table yet.",
+      "answer0": "will have",
+      "answer1": "are going to have",
+      "answer2": "will have been",
+      "answer3": "will be having",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 102,
@@ -1792,7 +1792,7 @@
       "_comment": "FUTURE TENSES, TEST 2",
       "lessonTestId": 102,
       "testId": 115,
-      "question": "They will have (to congratulate) Marie by the time we come.",
+      "question": "They (to congratulate) Marie by the time we come.",
       "answer0": "have congratulated",
       "answer1": "are going to congratulate",
       "answer2": "will congratulate",
@@ -1802,7 +1802,7 @@
     {
       "lessonTestId": 102,
       "testId": 115,
-      "question": "You  (not to pass) the exam if you (to study) harder.",
+      "question": "You (not to pass) the exam if you (to study) harder.",
       "answer0": "will not pass, will study",
       "answer1": "do not pass, will study",
       "answer2": "will not pass, study",
@@ -1812,12 +1812,12 @@
     {
       "lessonTestId": 102,
       "testId": 115,
-      "question": "Please note that your purchase (not to refund).",
-      "answer0": "will not refunded",
-      "answer1": "will not refund",
-      "answer2": "did not refund",
-      "answer3": "will have been refunded",
-      "rightAnswer": 0
+      "question": "My ski instructor, John, believes it (to snow) in the mountains tomorrow evening.",
+      "answer0": "will be snow",
+      "answer1": "will snow",
+      "answer2": "is going to snow",
+      "answer3": "are going to snow",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 102,
@@ -1852,11 +1852,11 @@
     {
       "lessonTestId": 102,
       "testId": 115,
-      "question": "I (to do) my homework next Friday. I (to do) the same.",
-      "answer0": "am going to do, will do",
-      "answer1": "will do, am going to do",
-      "answer2": "am going to do, am going to do",
-      "answer3": "will do, will do",
+      "question": "This time tomorrow I (to have) a discussion with my boss.",
+      "answer0": "will have",
+      "answer1": "am going to have",
+      "answer2": "will be having",
+      "answer3": "are going to",
       "rightAnswer": 2
     },
     {
@@ -1907,7 +1907,7 @@
       "question": "I (to cook) dinner for us while you (to wash) dishes.",
       "answer0": "will be cooking, will wash",
       "answer1": "will cook, will be washing",
-      "answer2": "will be cooking, wash",
+      "answer2": "will be cooking, will be washing",
       "answer3": "will cook, will wash",
       "rightAnswer": 2
     },
@@ -1924,8 +1924,8 @@
     {
       "lessonTestId": 102,
       "testId": 116,
-      "question": "I (to rent) a waterfront villa. It (to be) stunning.",
-      "answer0": "am going to rent,  is",
+      "question": "I’ve arranged! I (to rent) a waterfront villa. It (to be) stunning.",
+      "answer0": "am going to rent, is",
       "answer1": "am renting, will be",
       "answer2": "am going to rent, will be being",
       "answer3": "will rent, will be",
@@ -2016,7 +2016,7 @@
     {
       "lessonTestId": 102,
       "testId": 117,
-      "question": "This time tomorrow, she (to have) a guitar lesson. Then she (to meet) with me at 6 o’clock.",
+      "question": "This time tomorrow, she (to have) a guitar lesson. Then we’ve arranged that she (to meet) with me at 6 o’clock.",
       "answer0": "will have, will meet",
       "answer1": "will be having, is meeting",
       "answer2": "will be having, will be meeting",
@@ -2060,7 +2060,7 @@
       "answer0": "will, will pass",
       "answer1": "am, will pass",
       "answer2": "will, am passing",
-      "answer3": "am, am passing",
+      "answer3": "will be, am passing",
       "rightAnswer": 3
     },
     {
@@ -2188,12 +2188,12 @@
     {
       "lessonTestId": 102,
       "testId": 118,
-      "question": "I (to be) late. By the time I (to arrive) to the school, the classes (to end).",
-      "answer0": "wil, will have arrived, will be ended",
-      "answer1": "am, arrived, will have been ended",
-      "answer2": "will, will be arriving, will end",
-      "answer3": "am lte, will arrived, will have been ended",
-      "rightAnswer": 3
+      "question": "I heard, you are going to retire next month! For how many years (you/to work) here by that time?",
+      "answer0": "you will have been working",
+      "answer1": "will you have been working",
+      "answer2": "will you work",
+      "answer3": "will you be working",
+      "rightAnswer": 1
     },
 
     {
@@ -2351,21 +2351,21 @@
     {
       "lessonTestId": 102,
       "testId": 120,
-      "question": "In an hour I  (still / to iron) my clothes.",
+      "question": "In an hour I (still / to iron) my clothes.",
       "answer0": "will still iron",
-      "answer1": "will still  have been ironing",
-      "answer2": "will still  be ironing",
-      "answer3": "will still  have ironed",
+      "answer1": "will still have been ironing",
+      "answer2": "will still be ironing",
+      "answer3": "will still have ironed",
       "rightAnswer": 2
     },
     {
       "lessonTestId": 102,
       "testId": 120,
       "question": "(you / to eat) when I pick you up?",
-      "answer0": "Will you  eat",
-      "answer1": "Will you  be eating",
-      "answer2": "Will you  have been eating",
-      "answer3": "Will you  have eaten",
+      "answer0": "Will you eat",
+      "answer1": "Will you be eating",
+      "answer2": "Will you have been eating",
+      "answer3": "Will you have eaten",
       "rightAnswer": 3
     },
     {
@@ -2453,10 +2453,10 @@
       "lessonTestId": 103,
       "testId": 121,
       "question": "I went to Poland last month. I (never / to be) there before.",
-      "answer0": "have been",
-      "answer1": "was being",
-      "answer2": "will have been",
-      "answer3": "had been",
+      "answer0": "have never been",
+      "answer1": "was never being",
+      "answer2": "will have never been",
+      "answer3": "had never been",
       "rightAnswer": 3
     },
     {
@@ -2484,7 +2484,7 @@
       "testId": 121,
       "question": "She (to clean) the kitchen when she (to hear) a strange noise in the bathroom.",
       "answer0": "cleaned, was hearing",
-      "answer1": "was cleaning, heardd",
+      "answer1": "was cleaning, heard",
       "answer2": "have cleaned, heard",
       "answer3": "will clean, will hear",
       "rightAnswer": 1
@@ -2604,7 +2604,7 @@
       "_comment": "ALL TENSES, TEST 3",
       "lessonTestId": 103,
       "testId": 123,
-      "question": "If I don’t turn on my air conditioner, I (not / to get) sick because I have health immunity.",
+      "question": "If I turn on my air conditioner, I (not/to get) sick because I have health immunity.",
       "answer0": "haven’t gotten",
       "answer1": "wasn’t getting",
       "answer2": "don’t get",
@@ -2624,17 +2624,17 @@
     {
       "lessonTestId": 103,
       "testId": 123,
-      "question": "This task (to do) tomorrow.",
-      "answer0": "will being done",
-      "answer1": "will be done",
-      "answer2": "will have been done",
-      "answer3": "will done",
+      "question": "He (not/to finish) arguing until you agree with him.",
+      "answer0": "won’t finish",
+      "answer1": "won’t have finished",
+      "answer2": "doesn’t finish",
+      "answer3": "haven’t finished",
       "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 123,
-      "question": "I (to go) to home then I (to eat) and (to feed) my dog two hours ago.",
+      "question": "Two hours ago I (to go) home then I (to eat) lunch and (to feed) my dog.",
       "answer0": "went, was eating, feeding",
       "answer1": "go, ate, was feeding",
       "answer2": "go, eat, feed",
@@ -2654,12 +2654,12 @@
     {
       "lessonTestId": 103,
       "testId": 123,
-      "question": "He said that he (to relax) after bad days.",
-      "answer0": "was relaxing",
-      "answer1": "had relaxed",
-      "answer2": "was relaxing",
-      "answer3": "relaxed",
-      "rightAnswer": 0
+      "question": "Hey, you (to sit) at the computer all day. You should really take a break now.",
+      "answer0": "are sitting",
+      "answer1": "have sat",
+      "answer2": "have been sitting",
+      "answer3": "had sat",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 103,
@@ -2674,12 +2674,12 @@
     {
       "lessonTestId": 103,
       "testId": 123,
-      "question": "While I (to talk) on the phone with him, he (to hang up).",
-      "answer0": "talked, hung up",
-      "answer1": "talking, have hung up",
-      "answer2": "was talking, was hung up",
-      "answer3": "was talking, hung up",
-      "rightAnswer": 3
+      "question": "She never (to call back) when someone leaves her a message.",
+      "answer0": "will call back",
+      "answer1": "calls back",
+      "answer2": "call back",
+      "answer3": "has called",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
@@ -2725,12 +2725,12 @@
     {
       "lessonTestId": 103,
       "testId": 124,
-      "question": "She (to be) a doctor. She (to dream) of all her life.",
-      "answer0": "will be, dreamed",
-      "answer1": "is going to, has dreamed",
-      "answer2": "is going to, is dreaming",
-      "answer3": "will be, had dreamed",
-      "rightAnswer": 1
+      "question": "She (to prepare) lunch when someone (to ring) the doorbell.",
+      "answer0": "prepared, was ringing",
+      "answer1": "has prepared, had rung",
+      "answer2": "was preparing, rung",
+      "answer3": "was preparing, rang",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
@@ -2745,11 +2745,11 @@
     {
       "lessonTestId": 103,
       "testId": 124,
-      "question": "I am tired because I (to be) on the job for 30 hours straight with no sleep.",
-      "answer0": "had been",
-      "answer1": "will be",
-      "answer2": "‘ve been",
-      "answer3": "will have been",
+      "question": "What (to speak) to her about last night?",
+      "answer0": "are you speaking",
+      "answer1": "you spoke",
+      "answer2": "did you speak",
+      "answer3": "have you spoken",
       "rightAnswer": 2
     },
     {
@@ -2765,17 +2765,17 @@
     {
       "lessonTestId": 103,
       "testId": 124,
-      "question": "It (to take) so long! Are we there yet?",
-      "answer0": "is taking",
-      "answer1": "takes",
-      "answer2": "was taking",
-      "answer3": "has taken",
-      "rightAnswer": 0
+      "question": "Monika claimed that she had never seen that man, but I know that she (to have).",
+      "answer0": "has",
+      "answer1": "has had",
+      "answer2": "had",
+      "answer3": "had been",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 103,
       "testId": 124,
-      "question": "We (to shop) in that shop before you (to lose) the keys.We need to find it.",
+      "question": "We (to shop) in that shopping mall before you (to lose) the keys. We need to find it.",
       "answer0": "had shopped, lost",
       "answer1": "were shopping, lost",
       "answer2": "shopped, lost",
@@ -2785,11 +2785,11 @@
     {
       "lessonTestId": 103,
       "testId": 124,
-      "question": "I (to study) linguistic this term. It (to be) wonderful.",
-      "answer0": "studied, was",
-      "answer1": "had been studying, is being",
-      "answer2": "studied, is",
-      "answer3": "was studying, was",
+      "question": "By the time I'm 45, I (to make) a million dollars.",
+      "answer0": "will have make",
+      "answer1": "will make",
+      "answer2": "will be making",
+      "answer3": "will have made",
       "rightAnswer": 3
     },
     {
@@ -2806,7 +2806,7 @@
       "_comment": "ALL TENSES, TEST 5",
       "lessonTestId": 103,
       "testId": 125,
-      "question": "Alex said that they (to marry)  before they (to break) up.",
+      "question": "Alex said that they (to marry) before they (to break) up.",
       "answer0": "had been marrying, broke up",
       "answer1": "had married, had broken up",
       "answer2": "had married, broke up",
@@ -2816,294 +2816,294 @@
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "Nancy (to watch) comedy show and I (to talk) with you at the moment.",
+      "answer0": "watch, am talking",
+      "answer1": "is watching, am talking",
+      "answer2": "watch, talk",
+      "answer3": "is watching, have talked",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "While she (to eat) at the Macdonald’s, paparazzi (to take) some unacceptable photos.",
+      "answer0": "is eating, took",
+      "answer1": "was eating, took",
+      "answer2": "has been eating, was taking",
+      "answer3": "has been eating, took",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (to answer) you by the end of this day.",
+      "answer0": "will have answered",
+      "answer1": "had answered",
+      "answer2": "will answer",
+      "answer3": "have answered",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (never/to be) to the USA until Sarah and I went there last summer.",
+      "answer0": "have never been",
+      "answer1": "had never been",
+      "answer2": "was never",
+      "answer3": "won’t never be",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (to listen) music when she (to come).",
+      "answer0": "listen, comes",
+      "answer1": "listened, was coming",
+      "answer2": "listened, came",
+      "answer3": "was listening, came",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "She (to want) juice, but (to get) water.",
+      "answer0": "had wanted, got",
+      "answer1": "had been wanting, got",
+      "answer2": "wanted, had got",
+      "answer3": "wanted, got",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "He (to stop) smoking a long time ago.",
+      "answer0": "stoped",
+      "answer1": "has stopped",
+      "answer2": "had stopped",
+      "answer3": "stopped",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (to smoke) since 11th grade, but now I (to try) to give up.",
+      "answer0": "am smoking, am trying",
+      "answer1": "have been smoking, try",
+      "answer2": "have smoked, have tried",
+      "answer3": "have been smoking, am trying",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 125,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "If I (to buy) some apples, how many you (to eat)?",
+      "answer0": "will buy, will eat",
+      "answer1": "buy, will eat",
+      "answer2": "buy, would eat",
+      "answer3": "buy, eat",
+      "rightAnswer": 1
     },
     {
       "_comment": "ALL TENSES, TEST 6",
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "At 7 Tom (to watch) TV and Mike (to exercise).",
+      "answer0": "had been watching, had not been exercising",
+      "answer1": "had watched, had not exercised",
+      "answer2": "was watching, had not been exercising",
+      "answer3": "was watching, was exercising",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (to live) in France for five years when my mom (to come) to me.",
+      "answer0": "will have lived, will come",
+      "answer1": "will have been living, comes",
+      "answer2": "will be living, will come",
+      "answer3": "will live, will be coming",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "Unfortunately, I (to receive) my order by Friday.",
+      "answer0": "will not receive",
+      "answer1": "will not be receiving",
+      "answer2": "won’t have received",
+      "answer3": "don’t receive",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (to clean) the house all day yesterday while you (to play) computer games.",
+      "answer0": "had cleaned, played",
+      "answer1": "was cleaning, played",
+      "answer2": "cleaned, was playing",
+      "answer3": "was cleaning, was playing",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "Ann is American but she (to live) in Canada since May.",
+      "answer0": "has been living",
+      "answer1": "is living",
+      "answer2": "lived",
+      "answer3": "has lived",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "He (to want) to go swimming, but the water was too cold.",
+      "answer0": "was wanting",
+      "answer1": "wanted",
+      "answer2": "has wanted",
+      "answer3": "had wanted",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "We (to remind) you four days before trial (to end).",
+      "answer0": "remind, ends",
+      "answer1": "will remind, will end",
+      "answer2": "will remind, ends",
+      "answer3": "remind, will end",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "Every time I looked at her, she (to smile).",
+      "answer0": "has smiled",
+      "answer1": "was smiling",
+      "answer2": "will smile",
+      "answer3": "smiled",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "When I (to get) home yesterday, my daughter already (to wash) the floor.",
+      "answer0": "had gotten, washed",
+      "answer1": "got, washed",
+      "answer2": "got, had washed",
+      "answer3": "had gotten, had washed",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 103,
       "testId": 126,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (never/to play) the guitar. (You/to teach) me?",
+      "answer0": "have never played, will you teach",
+      "answer1": "have never played, are you teaching",
+      "answer2": "never played, are you teaching",
+      "answer3": "had never played, do you teach",
+      "rightAnswer": 0
     },
     {
       "_comment": "ALL TENSES, TEST 7",
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "America (to explore) in the fifteenth century.",
+      "answer0": "was explored",
+      "answer1": "is explored",
+      "answer2": "will be explored",
+      "answer3": "has been explored",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "In 2020, my father (to work) as farmer twenty years.",
+      "answer0": "had worked",
+      "answer1": "will have worked",
+      "answer2": "will have been working",
+      "answer3": "have been working",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "You (to look) sick. You (to play) computer games too much!",
+      "answer0": "looks, have played",
+      "answer1": "are looking, played",
+      "answer2": "look, had played",
+      "answer3": "look, have been playing",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "If I (to eat) less, I (to lose) the weight.",
+      "answer0": "have lost",
+      "answer1": "will be lose",
+      "answer2": "lost",
+      "answer3": "will lose",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "By the time you (to wake up), I (to prepare) breakfast for you.",
+      "answer0": "wake up, will prepared",
+      "answer1": "wake up, will have prepared",
+      "answer2": "will wake up, will have prepared",
+      "answer3": "wake up, will been preparing",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (to watch) Stranger things since I (to buy) Netflix subscription.",
+      "answer0": "have watched, buy",
+      "answer1": "have been watching, bought",
+      "answer2": "watch, buy",
+      "answer3": "had watch, bought",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "Mrs. Lane said that you (to be) seriously ill.",
+      "answer0": "was",
+      "answer1": "were",
+      "answer2": "have",
+      "answer3": "is",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "Lara (not/to read) now she (to play) the piano.",
+      "answer0": "is not reading, playing",
+      "answer1": "read, playing",
+      "answer2": "has read, play",
+      "answer3": "is not reading, is playing",
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "I (to invite) to the party right now.",
+      "answer0": "am being invited",
+      "answer1": "am invited",
+      "answer2": "was been invited",
+      "answer3": "was invited",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 103,
       "testId": 127,
-      "question": "",
-      "answer0": "",
-      "answer1": "",
-      "answer2": "",
-      "answer3": "",
-      "rightAnswer": 1000
+      "question": "If John is late again, teacher (to be) angry.",
+      "answer0": "will be",
+      "answer1": "be",
+      "answer2": "would be, will",
+      "answer3": "will been",
+      "rightAnswer": 0
     }
   ]
 }

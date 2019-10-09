@@ -81,7 +81,7 @@
     {
       "lessonTestId": 1100,
       "testId": 1100,
-      "question": "I’m studying hard this term__ I won’t fail like last time.",
+      "question": "I’m studying hard this term __ I won’t fail like last time.",
       "answer0": "so that",
       "answer1": "as soon as",
       "answer2": "if",
@@ -357,7 +357,7 @@
       "_comment": "CONJUNCTIONS, TEST 4",
       "lessonTestId": 1100,
       "testId": 1103,
-      "question": "Jimmy had a stomachache the day before yesterday, __ he didn’t come to basketball practice.",
+      "question": "Jimmy had a stomachache the day before yesterday, __ he didn't come to basketball practice.",
       "answer0": "so",
       "answer1": "while",
       "answer2": "however",
@@ -417,7 +417,7 @@
     {
       "lessonTestId": 1100,
       "testId": 1103,
-      "question": "__ he doesn’t like overcrowded places, he goes to lots of music festivals.",
+      "question": "__ he doesn't like overcrowded places, he goes to lots of music festivals.",
       "answer0": "due to",
       "answer1": "whereas",
       "answer2": "although",

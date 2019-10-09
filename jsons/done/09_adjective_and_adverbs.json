@@ -111,7 +111,7 @@
     {
       "lessonTestId": 900,
       "testId": 900,
-      "question": "They went __ to the headmaster with their __complaint.",
+      "question": "They went __ to the headmaster with their __ complaint.",
       "answer0": "directly, serious",
       "answer1": "directly, more serious",
       "answer2": "direct, seriously",
@@ -325,7 +325,7 @@
     {
       "lessonTestId": 900,
       "testId": 902,
-      "question": "How's Ben? - He's still __ but he looks a lot __than the day before.",
+      "question": "How's Ben? - He's still __ but he looks a lot __ than the day before.",
       "answer0": "iller, better",
       "answer1": "ill, good",
       "answer2": "ill, better",
@@ -519,7 +519,7 @@
     {
       "lessonTestId": 900,
       "testId": 904,
-      "question": "Charlie is a__ young man and he sings __.",
+      "question": "Charlie is a __ young man and he sings __.",
       "answer0": "handsome, beautiful",
       "answer1": "handsome, beautifully",
       "answer2": "more handsome, more beautiful",

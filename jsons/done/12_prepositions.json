@@ -299,7 +299,7 @@
     {
       "lessonTestId": 1200,
       "testId": 1201,
-      "question": "Look __ that bee! It’s right__ the cake.",
+      "question": "Look __ that bee! It’s right __ the cake.",
       "answer0": "at, at",
       "answer1": "on, at",
       "answer2": "in, on",
@@ -503,7 +503,7 @@
     {
       "lessonTestId": 1200,
       "testId": 1203,
-      "question": "My little son was hiding __ the table, but I pretended that I didn’t see him and looked __ him __ the curtains. He was laughing and it was so cute.",
+      "question": "My little son was hiding __ the table, but I pretended that I didn't see him and looked __ him __ the curtains. He was laughing and it was so cute.",
       "answer0": "on, at, under",
       "answer1": "under, for, behind",
       "answer2": "into, on, over",
@@ -575,7 +575,7 @@
       "_comment": "PREPOSITIONS OF PLACE, TEST 5",
       "lessonTestId": 1200,
       "testId": 1204,
-      "question": "My stepfather teaches__a college __ Boston.",
+      "question": "My stepfather teaches __ a college __ Boston.",
       "answer0": "in, at",
       "answer1": "in, in",
       "answer2": "at, at",
@@ -625,7 +625,7 @@
     {
       "lessonTestId": 1200,
       "testId": 1204,
-      "question": "Look at the stars __ you. The sky is so clean with no clouds__ it. Amazing!",
+      "question": "Look at the stars __ you. The sky is so clean with no clouds __ it. Amazing!",
       "answer0": "near, in",
       "answer1": "next to, on",
       "answer2": "at, near",
@@ -870,7 +870,7 @@
     {
       "lessonTestId": 1201,
       "testId": 1206,
-      "question": "Get __the house and get __ the car. We are late for school!",
+      "question": "Get __ the house and get __ the car. We are late for school!",
       "answer0": "off, out of",
       "answer1": "into, into",
       "answer2": "from, over",
@@ -952,7 +952,7 @@
     {
       "lessonTestId": 1201,
       "testId": 1207,
-      "question": "Sarah walked right __ me, pretending she didn’t see me.",
+      "question": "Sarah walked right __ me, pretending she didn't see me.",
       "answer0": "through",
       "answer1": "between",
       "answer2": "down",
@@ -984,7 +984,7 @@
       "_comment": "PREPOSITIONS OF MOVEMENT, TEST 4",
       "lessonTestId": 1201,
       "testId": 1208,
-      "question": "We were driving __for ages looking for you! Why didn’t you answer my calls?",
+      "question": "We were driving __ for ages looking for you! Why didn't you answer my calls?",
       "answer0": "onto",
       "answer1": "off",
       "answer2": "round",
@@ -1189,7 +1189,7 @@
       "_comment": "PREPOSITIONS OF TIME, TEST 1",
       "lessonTestId": 1202,
       "testId": 1210,
-      "question": "Mr and Mrs Kelly have been married __1978.",
+      "question": "Mr and Mrs Kelly have been married __ 1978.",
       "answer0": "since",
       "answer1": "after",
       "answer2": "before",
@@ -1269,7 +1269,7 @@
     {
       "lessonTestId": 1202,
       "testId": 1210,
-      "question": "He works __ Monday__ Saturday.",
+      "question": "He works __ Monday __ Saturday.",
       "answer0": "at, on",
       "answer1": "on, to",
       "answer2": "from, to",
@@ -1321,17 +1321,17 @@
     {
       "lessonTestId": 1202,
       "testId": 1211,
-      "question": "If you want to see cherry blossoms in Japan, you should go there __ spring.",
-      "answer0": "before",
-      "answer1": "in",
-      "answer2": "after",
-      "answer3": "until",
-      "rightAnswer": 1
+      "question": "No one was allowed to use any written materials __ the exam.",
+      "answer0": "during",
+      "answer1": "by",
+      "answer2": "over",
+      "answer3": "in",
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 1202,
       "testId": 1211,
-      "question": "We’ve been waiting for Suzy __ half an hour, but she hasn’t arrived.",
+      "question": "We’ve been waiting for Suzy __ half an hour, but she hasn't arrived.",
       "answer0": "in",
       "answer1": "for",
       "answer2": "till",
@@ -1341,7 +1341,7 @@
     {
       "lessonTestId": 1202,
       "testId": 1211,
-      "question": "This monument was built __19th century.",
+      "question": "This monument was built __ 19th century.",
       "answer0": "in",
       "answer1": "at",
       "answer2": "on",
@@ -1361,12 +1361,12 @@
     {
       "lessonTestId": 1202,
       "testId": 1211,
-      "question": "The temperature drops below zero __ night.",
-      "answer0": "in the",
-      "answer1": "at",
-      "answer2": "on",
-      "answer3": "by",
-      "rightAnswer": 1
+      "question": "Don't call me __ lunch time, please. I won't be able to hear you in the restaurant.",
+      "answer0": "on",
+      "answer1": "in",
+      "answer2": "at",
+      "answer3": "while",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 1202,
@@ -1403,7 +1403,7 @@
     {
       "lessonTestId": 1202,
       "testId": 1212,
-      "question": "“Have you just arrived?” – “No, I have been here __half past seven.",
+      "question": "“Have you just arrived?” – “No, I have been here __ half past seven.",
       "answer0": "since",
       "answer1": "for",
       "answer2": "during",
@@ -1463,11 +1463,11 @@
     {
       "lessonTestId": 1202,
       "testId": 1212,
-      "question": "I love looking at the stars __ night.",
-      "answer0": "in",
-      "answer1": "at",
-      "answer2": "on",
-      "answer3": "by",
+      "question": "The company is closed __ public holidays.",
+      "answer0": "at",
+      "answer1": "on",
+      "answer2": "in",
+      "answer3": "for",
       "rightAnswer": 1
     },
     {
@@ -1505,7 +1505,7 @@
     {
       "lessonTestId": 1202,
       "testId": 1213,
-      "question": "My parents aren’t here __ the moment.",
+      "question": "My parents aren't here __ the moment.",
       "answer0": "in",
       "answer1": "at",
       "answer2": "by",
@@ -1555,11 +1555,11 @@
     {
       "lessonTestId": 1202,
       "testId": 1213,
-      "question": "Everyone should brush his teeth twice a day: __ the morning and __ the evening.",
-      "answer0": "in, in",
-      "answer1": "at, at",
-      "answer2": "on, on",
-      "answer3": "from, to",
+      "question": "The country's currency has fallen by around 20% __ the last year.",
+      "answer0": "over",
+      "answer1": "by",
+      "answer2": "during",
+      "answer3": "for",
       "rightAnswer": 0
     },
     {
@@ -1700,12 +1700,12 @@
       "_comment": "PREPOSITIONS OF CAUSE, TEST 1",
       "lessonTestId": 1203,
       "testId": 1215,
-      "question": "My mum can sometimes be extremely impatient, __ her duties are rather stressful.",
-      "answer0": "so",
-      "answer1": "for",
-      "answer2": "of",
-      "answer3": "as a result",
-      "rightAnswer": 1
+      "question": "She doesn't eat much __ her acute depression.",
+      "answer0": "because",
+      "answer1": "so",
+      "answer2": "on account of",
+      "answer3": "thanks to",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 1203,
@@ -1720,7 +1720,7 @@
     {
       "lessonTestId": 1203,
       "testId": 1215,
-      "question": "__the importance of this problem, I suggest discussing it immediately.",
+      "question": "__ the importance of this problem, I suggest discussing it immediately.",
       "answer0": "due to",
       "answer1": "as a result of",
       "answer2": "because",
@@ -1750,11 +1750,11 @@
     {
       "lessonTestId": 1203,
       "testId": 1215,
-      "question": "__ I didn’t do my report, I had to miss that work day.",
-      "answer0": "because of",
-      "answer1": "therefore",
-      "answer2": "since",
-      "answer3": "as a result of",
+      "question": "__ I didn't do my report, I had to miss that work day.",
+      "answer0": "Because of",
+      "answer1": "Therefore",
+      "answer2": "Since",
+      "answer3": "As a result of",
       "rightAnswer": 2
     },
     {
@@ -1832,7 +1832,7 @@
     {
       "lessonTestId": 1203,
       "testId": 1216,
-      "question": "Max stayed up late reading __ he was very tired today.\n",
+      "question": "Max stayed up late reading __ he was very tired today.",
       "answer0": "because",
       "answer1": "of",
       "answer2": "so",
@@ -1924,7 +1924,7 @@
     {
       "lessonTestId": 1203,
       "testId": 1217,
-      "question": "I didn’t understand this task, __ I couldn’t fulfil it in time.",
+      "question": "I didn't understand this task, __ I couldn't fulfil it in time.",
       "answer0": "therefore",
       "answer1": "since",
       "answer2": "because of",
@@ -1934,7 +1934,7 @@
     {
       "lessonTestId": 1203,
       "testId": 1217,
-      "question": "They didn’t give her a chance, __ she had to struggle herself.",
+      "question": "They didn't give her a chance, __ she had to struggle herself.",
       "answer0": "so",
       "answer1": "because ",
       "answer2": "from",
@@ -1964,7 +1964,7 @@
     {
       "lessonTestId": 1203,
       "testId": 1217,
-      "question": "My granny never talked about war__ it was the most terrible time in her life.",
+      "question": "My granny never talked about war __ it was the most terrible time in her life.",
       "answer0": "since",
       "answer1": "so",
       "answer2": "therefore",
@@ -2026,7 +2026,7 @@
     {
       "lessonTestId": 1203,
       "testId": 1218,
-      "question": "John made a rude comment, __ Helen doesn’t talk to him anymore.",
+      "question": "John made a rude comment, __ Helen doesn't talk to him anymore.",
       "answer0": "as",
       "answer1": "from",
       "answer2": "on account of",
@@ -2138,8 +2138,8 @@
     {
       "lessonTestId": 1203,
       "testId": 1219,
-      "question": "I learned to play the drums very quickly __ I took the lessons from a pro.",
-      "answer0": "for",
+      "question": "I learned to play the drums very quickly __ I had taken the lessons from a pro.",
+      "answer0": "because",
       "answer1": "so",
       "answer2": "because of",
       "answer3": "in accordance with",

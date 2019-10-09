@@ -91,7 +91,7 @@
     {
       "lessonTestId": 600,
       "testId": 600,
-      "question": "He was found guilty __ __in court.",
+      "question": "He was found guilty __ __ in court.",
       "answer0": "of, lying",
       "answer1": "-, to lie",
       "answer2": "-, lying",
@@ -295,7 +295,7 @@
     {
       "lessonTestId": 600,
       "testId": 602,
-      "question": "She doesn’t want __ her father’s car. She’s afraid of __ it.",
+      "question": "She doesn't want __ her father’s car. She’s afraid of __ it.",
       "answer0": "drive, crashing",
       "answer1": "to drive, crashing",
       "answer2": "driving, to crash",
@@ -325,7 +325,7 @@
     {
       "lessonTestId": 600,
       "testId": 602,
-      "question": "He stopped __ __ coffee because it upset his stomach.",
+      "question": "He stopped __ __ coffee because it upsets his stomach.",
       "answer0": "drinking, a",
       "answer1": "drinking, -",
       "answer2": "to drink, the",
@@ -387,7 +387,7 @@
     {
       "lessonTestId": 600,
       "testId": 603,
-      "question": "I can’t stop Sandra __to the cinema. I’m anxious for her __ out so late.",
+      "question": "I can’t stop Sandra __ to the cinema. I’m anxious for her __ out so late.",
       "answer0": "to go, to go",
       "answer1": "go, go",
       "answer2": "go, going",
@@ -407,7 +407,7 @@
     {
       "lessonTestId": 600,
       "testId": 603,
-      "question": "She tried __ serious but she couldn’t help __.",
+      "question": "She tried __ serious but she couldn't help __.",
       "answer0": "to be, laughing",
       "answer1": "being, laugh",
       "answer2": "be, laughing",
@@ -437,7 +437,7 @@
     {
       "lessonTestId": 600,
       "testId": 603,
-      "question": "After __ his Master’s degree, he decided__ for a job.",
+      "question": "After __ his Master's degree, he decided __ for a job.",
       "answer0": "taking, to apply",
       "answer1": "taking, applying",
       "answer2": "take, apply",
@@ -469,7 +469,7 @@
       "_comment": "ING OR TO, TEST 5",
       "lessonTestId": 600,
       "testId": 604,
-      "question": "__ cigarettes is bad for the health.  She doesn’t allow us __ in the house.",
+      "question": "__ cigarettes is bad for the health. She doesn't allow us __ in the house.",
       "answer0": "smoke, to smoke",
       "answer1": "smoking, to smoke",
       "answer2": "smoking, smoke",

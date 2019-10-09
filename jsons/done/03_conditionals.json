@@ -41,19 +41,19 @@
       "testId": 302,
       "lessonTestId": 300,
       "topic": "Conditionals and wishes",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 303,
       "lessonTestId": 300,
       "topic": "Conditionals and wishes",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 304,
       "lessonTestId": 300,
       "topic": "Conditionals and wishes",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 305,
@@ -69,6 +69,24 @@
     },
     {
       "testId": 307,
+      "lessonTestId": 300,
+      "topic": "Conditionals and wishes",
+      "price": 2
+    },
+    {
+      "testId": 308,
+      "lessonTestId": 300,
+      "topic": "Conditionals and wishes",
+      "price": 2
+    },
+    {
+      "testId": 309,
+      "lessonTestId": 300,
+      "topic": "Conditionals and wishes",
+      "price": 2
+    },
+    {
+      "testId": 310,
       "lessonTestId": 300,
       "topic": "Conditionals and wishes",
       "price": 2
@@ -201,7 +219,7 @@
     {
       "lessonTestId": 300,
       "testId": 301,
-      "question": "Peter __ to congratulate mum with birthday if I __ him. She was so upset yesterday.",
+      "question": "Peter __ to wish mum happy birthday if I __ him. She was so upset yesterday.",
       "answer0": "won’t forget, remind",
       "answer1": "wouldn’t have forgotten, had reminded",
       "answer2": "wouldn’t forget, reminded",
@@ -415,7 +433,7 @@
     {
       "lessonTestId": 300,
       "testId": 303,
-      "question": "If we __ on Sunday, we __ . I’m really sorry, but we can’t.",
+      "question": "If we __ on Sunday, we __. I’m really sorry, but we can’t.",
       "answer0": "can come, will come",
       "answer1": "could come, would come",
       "answer2": "could have come, would have come",
@@ -425,7 +443,7 @@
     {
       "lessonTestId": 300,
       "testId": 303,
-      "question": "If you __ water till 100C, it __ .",
+      "question": "If you __ water till 100C, it __.",
       "answer0": "heat, boils",
       "answer1": "heat, boil",
       "answer2": "will heat, boils",
@@ -497,7 +515,7 @@
     {
       "lessonTestId": 300,
       "testId": 304,
-      "question": "Jane __ me about her new boyfriend, if I __her.",
+      "question": "Jane __ me about her new boyfriend, if I __ her.",
       "answer0": "have told, wouldn’t have asked",
       "answer1": "wouldn’t have told, hadn’t asked",
       "answer2": "wouldn’t have told, didn’t ask",
@@ -589,7 +607,7 @@
       "_comment": "CONDITIONALS and WISH, TEST 6",
       "lessonTestId": 300,
       "testId": 305,
-      "question": "Bill wouldn't be living in this city if he __the choice.",
+      "question": "Bill wouldn't be living in this city if he __ the choice.",
       "answer0": "has",
       "answer1": "had had",
       "answer2": "had",
@@ -609,7 +627,7 @@
     {
       "lessonTestId": 300,
       "testId": 305,
-      "question": "__ you __happier if you had never met her?",
+      "question": "__ you __ happier if you had never met her?",
       "answer0": "will, be",
       "answer1": "would, be",
       "answer2": "would, been",
@@ -629,7 +647,7 @@
     {
       "lessonTestId": 300,
       "testId": 305,
-      "question": "Sorry, I have nothing tasty! If __ you were coming I __a cake.",
+      "question": "Sorry, I have nothing tasty! If __ you were coming I __ a cake.",
       "answer0": "had known, would have baked",
       "answer1": "knew, would bake",
       "answer2": "had known, would bake",
@@ -639,7 +657,7 @@
     {
       "lessonTestId": 300,
       "testId": 305,
-      "question": "If she had time, she __shopping with me.",
+      "question": "If she had time, she __ shopping with me.",
       "answer0": "will go",
       "answer1": "goes",
       "answer2": "would go",
@@ -659,7 +677,7 @@
     {
       "lessonTestId": 300,
       "testId": 305,
-      "question": "If you speak Chinese, you __along with them perfectly.",
+      "question": "If you speak Chinese, you __ along with them perfectly.",
       "answer0": "get",
       "answer1": "will get",
       "answer2": "would have got",
@@ -679,7 +697,7 @@
     {
       "lessonTestId": 300,
       "testId": 305,
-      "question": "I’m always so busy and exhausted. I wish I__ more free time!",
+      "question": "I’m always so busy and exhausted. I wish I __ more free time!",
       "answer0": "have",
       "answer1": "had",
       "answer2": "have had",
@@ -853,7 +871,7 @@
     {
       "lessonTestId": 300,
       "testId": 307,
-      "question": "The weather is awful but if it __ so bad, we __to the park.",
+      "question": "The weather is awful but if it __ so bad, we __ to the park.",
       "answer0": "wasn’t, would go",
       "answer1": "isn’t, go",
       "answer2": "hadn’t been, would have gone",
@@ -863,7 +881,7 @@
     {
       "lessonTestId": 300,
       "testId": 307,
-      "question": "Does he ever wish he __his well-paid job and travel the world?",
+      "question": "Does he ever wish he __ his well-paid job and travel the world?",
       "answer0": "can quit",
       "answer1": "will be able to quit",
       "answer2": "could quit",
@@ -889,6 +907,310 @@
       "answer2": "was, give",
       "answer3": "had been, would have given",
       "rightAnswer": 0
+    },
+
+    {
+      "_comment": "CONDITIONALS and WISH, TEST 9",
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "If I __ you, I __ his advice.",
+      "answer0": "am, would follow",
+      "answer1": "was, would followed",
+      "answer2": "am, follow",
+      "answer3": "were, would follow",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "If you __ that again, I __ the police. I promise.",
+      "answer0": "will do, call",
+      "answer1": "do, will call",
+      "answer2": "did, would call",
+      "answer3": "had done, would have called",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "It __ better if you __ by train.",
+      "answer0": "would be, went",
+      "answer1": "would be, go",
+      "answer2": "is, went",
+      "answer3": "would be, had gone",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "If it __ very cold tomorrow, children __ to school.",
+      "answer0": "was, wouldn’t gone",
+      "answer1": "is, do not go",
+      "answer2": "is, wouldn’t go",
+      "answer3": "was, do not go",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "Hmm, if I __ her to dinner on Saturday, she (to come)?",
+      "answer0": "invited, would she came",
+      "answer1": "invited, would she’s come",
+      "answer2": "invite, will she come",
+      "answer3": "invite, does she come",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "It __ better if she __ about it. But she knows everything!",
+      "answer0": "might have been, had not known",
+      "answer1": "was, had not known",
+      "answer2": "would have been, has not known",
+      "answer3": "would had been, had not known",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "If I __ you, I __ to her right away.",
+      "answer0": "were, will apologize",
+      "answer1": "were, would apologize",
+      "answer2": "am, will apologize",
+      "answer3": "was, would have apologized",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "Jim is really shy! He __ her out on a date if she __ him first.",
+      "answer0": "will never ask, kisses",
+      "answer1": "had never asked, would have kissed",
+      "answer2": "didn’t ask, will kiss",
+      "answer3": "would have never asked, hadn’t kissed",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "You __ badly if you __ coffee late.",
+      "answer0": "sleep, drunk",
+      "answer1": "would sleep, drink",
+      "answer2": "sleep, drink",
+      "answer3": "slept, drink",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 308,
+      "question": "If she __ early she __ angry.",
+      "answer0": "wake up, get",
+      "answer1": "wakes up, gets",
+      "answer2": "woke up, would got",
+      "answer3": "wake ups, gets",
+      "rightAnswer": 1
+    },
+    {
+      "_comment": "CONDITIONALS and WISH, TEST 10",
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "If you __ in the park late at night, you __ careful.",
+      "answer0": "will walk, must be",
+      "answer1": "will walk, will be",
+      "answer2": "walked, must have been",
+      "answer3": "walk, must be",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "She drives me crazy telling me about the meeting with him! If she __ to England, she __ Orlando Bloom.",
+      "answer0": "haven’t gone, wouldn’t have met",
+      "answer1": "didn’t go, won’t meet",
+      "answer2": "hadn’t gone, wouldn’t have met",
+      "answer3": "hadn’t gone, won’t meet",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "If you __ me, I __ you. But now it’s late.",
+      "answer0": "asked, would helped",
+      "answer1": "asked, could have helped",
+      "answer2": "have asked, could have helped",
+      "answer3": "had asked, could have helped",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "If you __ me, I always __ you. You know it very well!",
+      "answer0": "ask, help",
+      "answer1": "asked, would helped",
+      "answer2": "ask, would help",
+      "answer3": "have asked, would have helped",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "What __ if you __ here?",
+      "answer0": "will you do, were",
+      "answer1": "would you do, were",
+      "answer2": "would you have done, have been",
+      "answer3": "would you do, have been",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "If I __ at the airport so late, I __ my flight. But I was unlucky!",
+      "answer0": "wouldn’t arrive, didn’t miss",
+      "answer1": "didn’t arrive, won’t miss",
+      "answer2": "hadn’t arrived, wouldn’t have missed",
+      "answer3": "don’t arrive, won’t missed",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "If I __ stronger I’d help you.",
+      "answer0": "were",
+      "answer1": "was",
+      "answer2": "will",
+      "answer3": "would",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "If you knew him better, you __ him more.",
+      "answer0": "like",
+      "answer1": "will like",
+      "answer2": "would have liked",
+      "answer3": "would like",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "I don’t have to go with you if I __. Did you get it?",
+      "answer0": "didn’t want",
+      "answer1": "want",
+      "answer2": "wanted",
+      "answer3": "don’t want",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 309,
+      "question": "I __ the rest of water if I were you.",
+      "answer0": "would saved",
+      "answer1": "would save",
+      "answer2": "save",
+      "answer3": "will save",
+      "rightAnswer": 1
+    },
+    {
+      "_comment": "CONDITIONALS and WISH, TEST 11",
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "If you __ one t-shirt, you __ the second one free. It’s our rule!",
+      "answer0": "will buy, get",
+      "answer1": "bought, would get",
+      "answer2": "buy, get",
+      "answer3": "buy, would get",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "Let’s read the weather forecast! If it __ snowing, we __ this evening.",
+      "answer0": "doesn’t start, will go out",
+      "answer1": "won’t start, go out",
+      "answer2": "didn’t start, would go out",
+      "answer3": "hadn’t started, would have gone out",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "If he __ his job, he __ for a new one. He has no choice!",
+      "answer0": "lose, will find",
+      "answer1": "lost, would have found",
+      "answer2": "loses, will find",
+      "answer3": "had lost, would have found",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "If you __ tonight, I __ tasty cake. Come on, I am waiting for you!",
+      "answer0": "came, will make",
+      "answer1": "come, will make",
+      "answer2": "will come, will make",
+      "answer3": "came, would made",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "If I __ you were coming, I __ lunch. I’m sorry, I have nothing to eat.",
+      "answer0": "had known, would have prepared",
+      "answer1": "has known, would have prepared",
+      "answer2": "knew, would have prepared",
+      "answer3": "know, will prepare",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "If I __ before 7:00 AM, I __ you breakfast. May be!",
+      "answer0": "woke up, will make",
+      "answer1": "had woken up, would make",
+      "answer2": "wake up, will make",
+      "answer3": "will wake up, make",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "If I had known this test would be so difficult, I __ harder.",
+      "answer0": "would study",
+      "answer1": "would have studied",
+      "answer2": "would have studyed",
+      "answer3": "would studied",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "His mother would have talked to him if she __ that he had a problem.",
+      "answer0": "had knew",
+      "answer1": "has known",
+      "answer2": "would have known",
+      "answer3": "had known",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "I __ that if I were you.",
+      "answer0": "wouldn’t try",
+      "answer1": "wouldn’t tried",
+      "answer2": "won’t try",
+      "answer3": "wouldn’t have tried",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 300,
+      "testId": 310,
+      "question": "You look so exhausted! If you __ more, you __ so tired.",
+      "answer0": "sleep, wouldn’t be",
+      "answer1": "slept, wouldn’t be",
+      "answer2": "will sleep, won’t be",
+      "answer3": "slept, won’t be",
+      "rightAnswer": 1
     }
   ]
 }

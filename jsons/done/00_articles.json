@@ -148,7 +148,7 @@
       "testId": 0,
       "question": "__ tomato is not __ vegetable. It's __ fruit.",
       "answer0": "The, a, a",
-      "answer1": "-,a, a",
+      "answer1": "A, a, a",
       "answer2": "-, -, -",
       "answer3": "The, a, -",
       "rightAnswer": 0
@@ -167,7 +167,7 @@
     {
       "lessonTestId": 0,
       "testId": 1,
-      "question": "Did you fix __ car? we have to get it back today.",
+      "question": "Did you fix __ car? We have to get it back today.",
       "answer0": "-",
       "answer1": "a",
       "answer2": "an",
@@ -237,7 +237,7 @@
     {
       "lessonTestId": 0,
       "testId": 1,
-      "question": "I hate washing ___ dishes.",
+      "question": "I hate washing __ dishes.",
       "answer0": "-",
       "answer1": "the",
       "answer2": "a",
@@ -258,7 +258,7 @@
       "_comment": "ARTICLES, TEST 3",
       "lessonTestId": 0,
       "testId": 2,
-      "question": "Repairing ___ old cars is his hobby.",
+      "question": "Repairing __ old cars is his hobby.",
       "answer0": "the",
       "answer1": "a",
       "answer2": "-",
@@ -278,11 +278,11 @@
     {
       "lessonTestId": 0,
       "testId": 2,
-      "question": "What did happen at __ school yesterday?",
-      "answer0": "the",
-      "answer1": "-",
-      "answer2": "a",
-      "answer3": "an",
+      "question": "- I managed to get on __ train just before it left. – Oh, great! Do you like travelling by __ train?",
+      "answer0": "the, -",
+      "answer1": "a, a",
+      "answer2": "-, the",
+      "answer3": "the, the",
       "rightAnswer": 0
     },
     {
@@ -298,7 +298,7 @@
     {
       "lessonTestId": 0,
       "testId": 2,
-      "question": "A: You need some rest. B: No, I have __ little time.",
+      "question": "- You need some rest. - No, I have __ little time.",
       "answer0": "a",
       "answer1": "-",
       "answer2": "the",
@@ -328,7 +328,7 @@
     {
       "lessonTestId": 0,
       "testId": 2,
-      "question": "I need your help after ___ school.",
+      "question": "I need your help after __ school.",
       "answer0": "a",
       "answer1": "the",
       "answer2": "-",
@@ -359,7 +359,7 @@
       "_comment": "ARTICLES, TEST 4",
       "lessonTestId": 0,
       "testId": 3,
-      "question": "I'm going to go ___ Miami and __ Bahamas.",
+      "question": "I'm going to go to __ Miami and __ Bahamas.",
       "answer0": "-, -",
       "answer1": "-, the",
       "answer2": "the, the",
@@ -382,8 +382,8 @@
       "question": "__ Spanish arrived in America in __ 15th century.",
       "answer0": "-, a",
       "answer1": "The, the",
-      "answer2": "-, an",
-      "answer3": "-, -",
+      "answer2": "The, an",
+      "answer3": "An, the",
       "rightAnswer": 1
     },
     {
@@ -399,7 +399,7 @@
     {
       "lessonTestId": 0,
       "testId": 3,
-      "question": "He did everything __ doctor asked.",
+      "question": "He did everything __ doctor said.",
       "answer0": "a",
       "answer1": "-",
       "answer2": "an",
@@ -439,12 +439,12 @@
     {
       "lessonTestId": 0,
       "testId": 3,
-      "question": "After ___ school he visits his brother in __ hospital.",
-      "answer0": "-, a",
-      "answer1": "-, -",
+      "question": "Is __ Netherlands part of __ European Union?",
+      "answer0": "the, -",
+      "answer1": "-, the",
       "answer2": "the, the",
-      "answer3": "-, the",
-      "rightAnswer": 3
+      "answer3": "-, -",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 0,
@@ -500,7 +500,7 @@
     {
       "lessonTestId": 0,
       "testId": 4,
-      "question": "__ second law of thermodynamics says that  __  entropy will always increase.",
+      "question": "__ second law of thermodynamics says that __ entropy will always increase.",
       "answer0": "the, the",
       "answer1": "A, an",
       "answer2": "The, a",
@@ -510,12 +510,12 @@
     {
       "lessonTestId": 0,
       "testId": 4,
-      "question": "It is like beginning __ story in __ middle.",
-      "answer0": "-, the",
-      "answer1": "a, the",
-      "answer2": "a, -",
-      "answer3": "-, -",
-      "rightAnswer": 1
+      "question": "I have ____ news for you!!",
+      "answer0": "a",
+      "answer1": "an",
+      "answer2": "-",
+      "answer3": "the",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 0,

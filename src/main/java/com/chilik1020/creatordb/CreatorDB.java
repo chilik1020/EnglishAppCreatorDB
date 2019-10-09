@@ -5,7 +5,7 @@ import com.chilik1020.creatordb.models.UserStat;
 
 public class CreatorDB {
 
-    public static String fileLocation = "D:/loboda/";
+    public static String fileLocation = "E:/loboda/";
 
     public static void main(String[] args) {
         DBHelper.createDB();

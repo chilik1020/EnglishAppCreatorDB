@@ -7,10 +7,10 @@ import java.sql.*;
 public class DBHelper {
 
 
-    private static final String dbGeneralname = "eng_grammar_tests_general_data_v3_5.db";
+    private static final String dbGeneralname = "eng_grammar_tests_general_data_v1_0.db";
     private static final String urlGeneral = "jdbc:sqlite:" + CreatorDB.fileLocation + "creatorDB/db/" + dbGeneralname;
 
-    private static final String dbPersonalname = "eng_grammar_tests_personal_data_v3_5.db";
+    private static final String dbPersonalname = "eng_grammar_tests_personal_data_v1_0.db";
     private static final String urlPersonal = "jdbc:sqlite:" + CreatorDB.fileLocation + "creatorDB/db/" + dbPersonalname;
 
     private static final String TABLE_PURCHASES = "purchases";

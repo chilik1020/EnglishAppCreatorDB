@@ -340,7 +340,7 @@
     {
       "lessonTestId": 700,
       "testId": 702,
-      "question": "There’s __ by the door. Can you go and check? – No, there is__  . You must have heard the dog.",
+      "question": "There’s __ by the door. Can you go and check? – No, there is __  . You must have heard the dog.",
       "answer0": "somebody, nobody",
       "answer1": "anybody, nobody",
       "answer2": "nobody, somebody",
@@ -350,7 +350,7 @@
     {
       "lessonTestId": 700,
       "testId": 702,
-      "question": "It was so dark in the room, that I couldn’t see __ .",
+      "question": "It was so dark in the room, that I couldn't see __ .",
       "answer0": "nothing",
       "answer1": "anything",
       "answer2": "something",
@@ -392,7 +392,7 @@
     {
       "lessonTestId": 700,
       "testId": 703,
-      "question": "Have you cooked all these cakes __? – No, I’ve had __help from my husband.",
+      "question": "Have you cooked all these cakes __? – No, I’ve had __ help from my husband.",
       "answer0": "yourself, a few",
       "answer1": "on your own, no",
       "answer2": "on your own, many",
@@ -402,7 +402,7 @@
     {
       "lessonTestId": 700,
       "testId": 703,
-      "question": "I don’t like rich people, they only care about __ .",
+      "question": "I don’t like rich people, they only care about __.",
       "answer0": "themselves",
       "answer1": "myself",
       "answer2": "its own",
@@ -412,7 +412,7 @@
     {
       "lessonTestId": 700,
       "testId": 703,
-      "question": "My parents are having dinner tonight with some colleagues of __ .",
+      "question": "My parents are having dinner tonight with some colleagues of __.",
       "answer0": "theirs",
       "answer1": "themselves",
       "answer2": "them",
@@ -442,7 +442,7 @@
     {
       "lessonTestId": 700,
       "testId": 703,
-      "question": "I was so hungry, that I couldn’t control myself and ate a __ bag of sweets.",
+      "question": "I was so hungry, that I couldn't control myself and ate a __ bag of sweets.",
       "answer0": "all",
       "answer1": "few",
       "answer2": "lots",
@@ -554,7 +554,7 @@
     {
       "lessonTestId": 700,
       "testId": 704,
-      "question": "__was shocked with Peter. And we told him we knew __ .",
+      "question": "__ was shocked with Peter. And we told him we knew __ .",
       "answer0": "everybody, everything",
       "answer1": "all, all",
       "answer2": "each, everything",

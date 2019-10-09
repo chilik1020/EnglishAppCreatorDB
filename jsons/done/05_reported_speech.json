@@ -36,13 +36,13 @@
       "testId": 502,
       "lessonTestId": 500,
       "topic": "Reported Speech",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 503,
       "lessonTestId": 500,
       "topic": "Reported Speech",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 504,
@@ -58,6 +58,12 @@
     },
     {
       "testId": 506,
+      "lessonTestId": 500,
+      "topic": "Reported Speech",
+      "price": 2
+    },
+    {
+      "testId": 507,
       "lessonTestId": 500,
       "topic": "Reported Speech",
       "price": 2
@@ -89,7 +95,7 @@
     {
       "lessonTestId": 500,
       "testId": 500,
-      "question": "He said “Yes, I’ll help you.” \nHe __ to help me.",
+      "question": "He said “Yes, I’ll help you.”\nHe __ to help me.",
       "answer0": "offered",
       "answer1": "suggested",
       "answer2": "agreed",
@@ -99,7 +105,7 @@
     {
       "lessonTestId": 500,
       "testId": 500,
-      "question": "Jack said “I am fond of Dickens.” \nJack said that he __fond of Dickens.",
+      "question": "Jack said “I am fond of Dickens.”\nJack said that he __fond of Dickens.",
       "answer0": "was",
       "answer1": "is",
       "answer2": "is being",
@@ -109,7 +115,7 @@
     {
       "lessonTestId": 500,
       "testId": 500,
-      "question": "Tanya said “I will give you your book next week.”\nTanya said that she __ me my book back the next week.",
+      "question": "Tanya said “I will give you your book back next week.”\nTanya said that she __ me my book back the following week.",
       "answer0": "would give",
       "answer1": "will give",
       "answer2": "gave",
@@ -129,7 +135,7 @@
     {
       "lessonTestId": 500,
       "testId": 500,
-      "question": "The professor said to his assistant “You have made a great progress.” \nThe professor said to his assistant that he __ great progress.",
+      "question": "The professor said to his assistant “You have made a great progress.”\nThe professor said to his assistant that he __ great progress.",
       "answer0": "makes",
       "answer1": "made",
       "answer2": "has made",
@@ -241,7 +247,7 @@
     {
       "lessonTestId": 500,
       "testId": 501,
-      "question": "He said “I am quiet all right and the climate hasn’t done me any harm.”\nHe said that he __ quiet all right and that the climate __ him any harm.",
+      "question": "He said “I am quite all right and the climate hasn’t done me any harm.” \nHe said that he __ quite all right and that the climate __ him any harm.",
       "answer0": "was, hadn’t done",
       "answer1": "is, doesn’t do",
       "answer2": "was being, hadn’t done",
@@ -435,7 +441,7 @@
     {
       "lessonTestId": 500,
       "testId": 503,
-      "question": "She asked me “Hurry up! There is little time left before the beginning of the meeting.” \nShe asked me __ as there __ little time left before the beginning of the meeting.",
+      "question": "She asked me “Hurry up! There is little time left before the beginning of the meeting.”\nShe asked me __ as there __ little time left before the beginning of the meeting.",
       "answer0": "hurry up, is",
       "answer1": "to hurry up, is",
       "answer2": "hurry up, was",
@@ -589,7 +595,7 @@
     {
       "lessonTestId": 500,
       "testId": 505,
-      "question": "“Are you leaving today or tomorrow?”. He asked me whether ___ .",
+      "question": "“Are you leaving today or tomorrow?”. He asked me whether __ .",
       "answer0": "am I leaving today or tomorrow",
       "answer1": "was I leaving that day or the following day",
       "answer2": "I was leaving today or tomorrow",
@@ -599,7 +605,7 @@
     {
       "lessonTestId": 500,
       "testId": 505,
-      "question": "“You should do what you love.” She ___ me ___ what ___ .",
+      "question": "“You should do what you love.” She __ me __ what __ .",
       "answer0": "advised, to do, I loved",
       "answer1": "said, I should do, you loved",
       "answer2": "said, I should do, I loved",
@@ -609,7 +615,7 @@
     {
       "lessonTestId": 500,
       "testId": 505,
-      "question": "“I'm going to do it and nobody will stop me.” She said she ___ to do it and nobody ___ .",
+      "question": "“I'm going to do it and nobody will stop me.” She said she __ to do it and nobody __ .",
       "answer0": "was going, would stop her",
       "answer1": "is going, will stop her",
       "answer2": "was going, would have stopped her",
@@ -629,7 +635,7 @@
     {
       "lessonTestId": 500,
       "testId": 505,
-      "question": "“Did you feel good yesterday?”. She asked ___ .",
+      "question": "“Did you feel good yesterday?”. She asked __ .",
       "answer0": "me if I felt good yesterday",
       "answer1": "if I’d felt good the previous day",
       "answer2": "me if I’d felt good yesterday",
@@ -639,7 +645,7 @@
     {
       "lessonTestId": 500,
       "testId": 505,
-      "question": "“I have already admitted to myself that I have a problem.” He said that ____ .",
+      "question": "“I have already admitted to myself that I have a problem.” He said that __ .",
       "answer0": "he’s already admitted to myself that he’d a problem",
       "answer1": "he’d already admitted to himself that he’s a problem",
       "answer2": "he’s already admitted to myself that he’s a problem",
@@ -649,7 +655,7 @@
     {
       "lessonTestId": 500,
       "testId": 505,
-      "question": "John:”What must I say in return?” John asked ___ in return.",
+      "question": "John:”What must I say in return?” John asked __ in return.",
       "answer0": "what he must say",
       "answer1": "what he had to say",
       "answer2": "what he must said",
@@ -659,28 +665,28 @@
     {
       "lessonTestId": 500,
       "testId": 505,
-      "question": "“When they came to arrest me, I had already left for Bora Bora.” ___ for Bora-Bora.",
+      "question": "“When they came to arrest me, I had already left for Bora Bora.” __ for Bora-Bora.",
       "answer0": "she said when they’d come to arrest her, She’d already left",
       "answer1": "she asked when they’d come to arrest her, She’d already left",
       "answer2": "she said when they’ve come to arrest her, She’ve already left",
       "answer3": "she said when they would come to arrest her, She’ve already left",
-      "rightAnswer": 0
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 500,
       "testId": 505,
-      "question": "“When I woke up, it was snowing.” She said that when ___",
+      "question": "“When I woke up, it was snowing.” She said that when __",
       "answer0": "she had woken up, it had been snowing",
       "answer1": "she had woken up, it was snowing",
       "answer2": "she woke up, it had been snowing",
       "answer3": "she’d woke up, it had been snowing",
-      "rightAnswer": 1
+      "rightAnswer": 0
     },
     {
       "_comment": "REPORTED SPEECH, TEST 7",
       "lessonTestId": 500,
       "testId": 506,
-      "question": "“Tomorrow, I have to be in Moscow”. She told ___ .",
+      "question": "“Tomorrow, I have to be in Moscow”. She told __ .",
       "answer0": "that she had to be in Moscow the next day.",
       "answer1": "me that she had to be in Moscow tomorrow.",
       "answer2": "me that she had been in Moscow tomorrow.",
@@ -690,17 +696,17 @@
     {
       "lessonTestId": 500,
       "testId": 506,
-      "question": "“I have been working for 12 hours today, but I'm still at work.” He ___ for 12 hours ___, but ___ .",
+      "question": "“I have been working for 12 hours today, but I'm still at work.” He __ for 12 hours __, but __ .",
       "answer0": "said that he’d been working, that day, he’s still at work",
       "answer1": "says that he’s been working, today, he’s still at work",
       "answer2": "told me that he’s been working, today, he was still at work",
       "answer3": "told that he’d been working, that day, he was still at work",
-      "rightAnswer": 1
+      "rightAnswer": 0
     },
     {
       "lessonTestId": 500,
       "testId": 506,
-      "question": "“You should ask him the real reason why he moved to Paris.” She advised me ___ to Paris.",
+      "question": "“You should ask him the real reason why he moved to Paris.” She advised me __ to Paris.",
       "answer0": "asking him the real reason why he’d moved",
       "answer1": "to ask him the real reason why he’d moved",
       "answer2": "asking him the real reason why he moved",
@@ -710,7 +716,7 @@
     {
       "lessonTestId": 500,
       "testId": 506,
-      "question": "“I had already made the dinner when Mary came home.” He ___ the dinner when ___",
+      "question": "“I had already made the dinner when Mary came home.” He __ the dinner when __",
       "answer0": "said that he’d already made, Mary came home",
       "answer1": "told that he’d already made, Mary had come home",
       "answer2": "said that he’d already made, Mary had came home",
@@ -730,7 +736,7 @@
     {
       "lessonTestId": 500,
       "testId": 506,
-      "question": "“Can you all just be quiet and  listen to me?”",
+      "question": "“Can you all just be quiet and listen to me?”",
       "answer0": "He asked me to be quiet and listen to him.",
       "answer1": "He asked us be quiet and listen to him.",
       "answer2": "He said us to be quiet and listen to him.",
@@ -740,7 +746,7 @@
     {
       "lessonTestId": 500,
       "testId": 506,
-      "question": "“Will you marry me?”. He asked her ___ .",
+      "question": "“Will you marry me?”. He asked her __ .",
       "answer0": "whether she’ll marry him",
       "answer1": "if she would marry him",
       "answer2": "if would she marry him",
@@ -750,7 +756,7 @@
     {
       "lessonTestId": 500,
       "testId": 506,
-      "question": "\"How much money do we have?\". They wanted to know ___ .",
+      "question": "“How much money do we have?“. They wanted to know __ .",
       "answer0": "how much money they had",
       "answer1": "how much money we had",
       "answer2": "how much money did they have",
@@ -760,7 +766,7 @@
     {
       "lessonTestId": 500,
       "testId": 506,
-      "question": "“I have not been here since we were children.” He ___ .",
+      "question": "“I have not been here since we were children.” He __ .",
       "answer0": "said that he hadn’t been here since we’re children",
       "answer1": "told her that he hadn’t been there since they’re children",
       "answer2": "said that he hasn’t been here since we’re children",
@@ -770,12 +776,113 @@
     {
       "lessonTestId": 500,
       "testId": 506,
-      "question": "“May I show you something before you go?” She asked me ___",
+      "question": "“May I show you something before you go?” She asked me __",
       "answer0": "if she might show something before she went",
       "answer1": "if she might show something before I went",
       "answer2": "if she could show me something before I went",
       "answer3": "if she could show something before she went",
+      "rightAnswer": 1
+    },
+    {
+      "_comment": "REPORTED SPEECH, TEST 8",
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "“I have seen this movie three times“. He told me that __.",
+      "answer0": "I had seen that movie three times",
+      "answer1": "he has seen that movie three times",
+      "answer2": "he had seen that movie three times",
+      "answer3": "he saw that movie three times",
       "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "Melanie: “I’m flying back to Japan tomorrow.“ Melanie told you that __.",
+      "answer0": "she is flying back to Japan the next day",
+      "answer1": "she was flying back to Japan tomorrow",
+      "answer2": "she was flying back to Japan the next day",
+      "answer3": "I was flying back to Japan the next day",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "I:“Why is she not talking to me?“. I wondered why __.",
+      "answer0": "she wasn’t talking to me",
+      "answer1": "I wasn’t talking to her",
+      "answer2": "she isn’t talking to me",
+      "answer3": "she didn’t talk to me",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "Madison: “Sorry. I can’t play tennis. I’m too busy“. Madison said that __.",
+      "answer0": "she is too busy and can’t play tennis",
+      "answer1": "she has been too busy and couldn’t play tennis",
+      "answer2": "she was too busy and can’t play tennis",
+      "answer3": "she was too busy and couldn’t play tennis",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "You: “Who’s taken my pencil?“. You wanted to know __.",
+      "answer0": "who had taken my pencil",
+      "answer1": "who had taken your pencil",
+      "answer2": "who has taken your pencil",
+      "answer3": "who took my pencil",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "She said, “I can get home on my own.“ She said that __.",
+      "answer0": "she could get home on my own",
+      "answer1": "she can get home on her own",
+      "answer2": "she could get home on her own",
+      "answer3": "she could got home on her own",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "She told him, “Wait until I get back”. She told him __.",
+      "answer0": "to wait until she got back",
+      "answer1": "to wait until I got back",
+      "answer2": "to wait until she get back",
+      "answer3": "if wait until she got back",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "Sophie: “I went to bed early last night“. Sophie said that __.",
+      "answer0": "she went to bed early last night",
+      "answer1": "she had gone to bed early last night",
+      "answer2": "she has gone to bed early the night before",
+      "answer3": "she had gone to bed early the night before",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "Jason: “I am going to see my parents next week.“ Jason said that __.",
+      "answer0": "he is going to see his parents next week",
+      "answer1": "he was going to see his parents the following week",
+      "answer2": "he had been going to see his parents the following week",
+      "answer3": "I was going to see my parents the following week",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 500,
+      "testId": 507,
+      "question": "She told him, “Don't worry!“. She told him __.",
+      "answer0": "not worry to",
+      "answer1": "to worry",
+      "answer2": "to be worried",
+      "answer3": "not to worry",
+      "rightAnswer": 3
     }
   ]
 }

@@ -36,13 +36,13 @@
       "testId": 402,
       "lessonTestId": 400,
       "topic": "Passive",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 403,
       "lessonTestId": 400,
       "topic": "Passive",
-      "price": 2
+      "price": 0
     },
     {
       "testId": 404,
@@ -58,6 +58,12 @@
     },
     {
       "testId": 406,
+      "lessonTestId": 400,
+      "topic": "Passive",
+      "price": 2
+    },
+    {
+      "testId": 407,
       "lessonTestId": 400,
       "topic": "Passive",
       "price": 2
@@ -98,7 +104,7 @@
     {
       "lessonTestId": 400,
       "testId": 400,
-      "question": "Jack __ up by his aunt.",
+      "question": "Jack __ up by his aunt. Now he is really grateful for everything she had done for him.",
       "answer0": "is brought",
       "answer1": "was brought",
       "answer2": "brings",
@@ -108,7 +114,7 @@
     {
       "lessonTestId": 400,
       "testId": 400,
-      "question": "This work __ on time.",
+      "question": "I hope his work __ on time.",
       "answer0": "finishes",
       "answer1": "is finishes",
       "answer2": "will be finished",
@@ -272,7 +278,7 @@
       "_comment": "PASSIVE, TEST 3",
       "lessonTestId": 400,
       "testId": 402,
-      "question": "You __ enough time to finish your exam.",
+      "question": "Don’t worry. You __ enough time to finish your exam.",
       "answer0": "takes",
       "answer1": "will be given",
       "answer2": "will give",
@@ -384,7 +390,7 @@
     {
       "lessonTestId": 400,
       "testId": 403,
-      "question": "I __in Astana. How many babies __ there every day?",
+      "question": "I __ in Paris. How many babies __ there every day?",
       "answer0": "was born, are born",
       "answer1": "born, born",
       "answer2": "was born, born",
@@ -578,17 +584,17 @@
       "_comment": "PASSIVE, TEST 6",
       "lessonTestId": 400,
       "testId": 405,
-      "question": "I think he ___ us there by 6 o'clock.",
-      "answer0": "are led",
-      "answer1": "will lead",
-      "answer2": "will be led",
-      "answer3": "will led",
-      "rightAnswer": 1
+      "question": "The thief __ by the police two years ago.",
+      "answer0": "has caught",
+      "answer1": "was catch",
+      "answer2": "was caught",
+      "answer3": "will be caught",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "Some mistakes, you do, ___ .",
+      "question": "Some mistakes you do __.",
       "answer0": "shouldn't be corrected",
       "answer1": "shouldn’t correct",
       "answer2": "shouldn’t corrected",
@@ -598,17 +604,17 @@
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "I think you ___ her heart",
-      "answer0": "must have been broken",
-      "answer1": "have been broken",
-      "answer2": "must have broken",
-      "answer3": "has broken",
-      "rightAnswer": 2
+      "question": "Yesterday he __ by the movie.",
+      "answer0": "is disappointed",
+      "answer1": "was disappointed",
+      "answer2": "has been disappointed",
+      "answer3": "were disappointed",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "We ___ for a car that ___.",
+      "question": "We __ for a car that __ this week.",
       "answer0": "‘re looking, have stolen",
       "answer1": "look, has stolen",
       "answer2": "‘re looking, have been stolen",
@@ -618,7 +624,7 @@
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "It ___ like it ___ just yesterday.",
+      "question": "It __ like it __ just yesterday.",
       "answer0": "looked, was built",
       "answer1": "was looked, was built",
       "answer2": "looked, is built",
@@ -628,7 +634,7 @@
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "His leg ___ in four places, and in time he could walk again.",
+      "question": "His leg __ in four places, and in time he could walk again.",
       "answer0": "have broken",
       "answer1": "had been broken",
       "answer2": "have been broken",
@@ -638,27 +644,27 @@
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "Some mistakes, you do, you ___ .",
-      "answer0": "shouldn't be corrected",
-      "answer1": "shouldn’t have correct",
-      "answer2": "shouldn't corrected",
-      "answer3": "shouldn't correct",
-      "rightAnswer": 3
+      "question": "John __ an award by the president in 2017.",
+      "answer0": "is given",
+      "answer1": "had been given",
+      "answer2": "was given",
+      "answer3": "has given",
+      "rightAnswer": 2
     },
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "I ___ we ___ by tomorrow.",
-      "answer0": "suspect, ‘ll be snowed in",
-      "answer1": "suspected, was snowed in",
-      "answer2": "am suspected, will be snowed in",
-      "answer3": "suspect, will snowed",
+      "question": "English __ by everyone here. Look! Everybody speaks it!",
+      "answer0": "is understood",
+      "answer1": "understands",
+      "answer2": "has understand",
+      "answer3": "was understood",
       "rightAnswer": 0
     },
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "The stuff ___ tomorrow but we need it now.",
+      "question": "The stuff __ tomorrow but we need it now.",
       "answer0": "will delivery",
       "answer1": "are going be delivered",
       "answer2": "will be delivered",
@@ -668,12 +674,12 @@
     {
       "lessonTestId": 400,
       "testId": 405,
-      "question": "I ___ this name by my many, many friends.",
+      "question": "I __ this name by my many, many friends.",
       "answer0": "have given",
       "answer1": "gave",
       "answer2": "have been given",
       "answer3": "have be given",
-      "rightAnswer": 2
+      "rightAnswer": 3
     },
 
 
@@ -681,7 +687,7 @@
       "_comment": "PASSIVE, TEST 7",
       "lessonTestId": 400,
       "testId": 406,
-      "question": "This book ___ in 1998.",
+      "question": "This book __ in 1998.",
       "answer0": "is written",
       "answer1": "wrote",
       "answer2": "was written",
@@ -691,7 +697,7 @@
     {
       "lessonTestId": 400,
       "testId": 406,
-      "question": "It ___ and you ___ a famous writer.",
+      "question": "It __ and you __ a famous writer.",
       "answer0": "is going published, ‘re going to be",
       "answer1": "'s going to be published, 're going to be",
       "answer2": "will be published, will be became",
@@ -701,27 +707,27 @@
     {
       "lessonTestId": 400,
       "testId": 406,
-      "question": "She asked what ___ to solve this problem.",
+      "question": "She asked what __ to solve this problem.",
       "answer0": "is being done",
       "answer1": "does",
       "answer2": "is doing",
       "answer3": "has done",
-      "rightAnswer": 0
+      "rightAnswer": 3
     },
     {
       "lessonTestId": 400,
       "testId": 406,
-      "question": "It __ that 10 persons ___ .",
-      "answer0": "is reported, are missing",
-      "answer1": "is reported, are going to be missed",
-      "answer2": "has reported, are missed",
-      "answer3": "has been reported, are going to be missed",
-      "rightAnswer": 0
+      "question": "At the moment the Greek salad __ by Julia. Wow! It’s going to be awesome!",
+      "answer0": "is made",
+      "answer1": "is being made",
+      "answer2": "are prepared",
+      "answer3": "was made",
+      "rightAnswer": 1
     },
     {
       "lessonTestId": 400,
       "testId": 406,
-      "question": "He ___ because of something he __.",
+      "question": "He __ because of something he __.",
       "answer0": "has killed, find out",
       "answer1": "was killed, was found out",
       "answer2": "could has been killed, has find out",
@@ -731,7 +737,7 @@
     {
       "lessonTestId": 400,
       "testId": 406,
-      "question": "It ___ on strong foundations and it ___ to grow  every year.",
+      "question": "It __ on strong foundations and it __ to grow every year.",
       "answer0": "was built, continue",
       "answer1": "has built, continued",
       "answer2": "was built, are continued",
@@ -741,9 +747,9 @@
     {
       "lessonTestId": 400,
       "testId": 406,
-      "question": "The bank ___ yesterday and the police already ___ the criminals",
+      "question": "The bank __ yesterday and the police __already __ the criminals.",
       "answer0": "are robbed, catch",
-      "answer1": "was robbed, catched",
+      "answer1": "was robbed, has caught",
       "answer2": "was robbed, was catched",
       "answer3": "robbed, catched",
       "rightAnswer": 1
@@ -751,7 +757,7 @@
     {
       "lessonTestId": 400,
       "testId": 406,
-      "question": "Our ship was sunk but the sailors survived.",
+      "question": "Two years ago our ship __ but the sailors __.",
       "answer0": "was sunk, survived",
       "answer1": "was sunk, was survived",
       "answer2": "sunk, survived",
@@ -761,26 +767,27 @@
     {
       "lessonTestId": 400,
       "testId": 406,
-      "question": "You gave so many tips, but I have never followed them before.",
-      "answer0": "gave, have never been followed",
-      "answer1": "gave, have never followed",
-      "answer2": "have been given, have never followed",
-      "answer3": "have given, have never been followed",
-      "rightAnswer": 1
-    },
-    {
-      "lessonTestId": 400,
-      "testId": 406,
-      "question": "I ___ moving to make sure that I ___ .",
-      "answer0": "have been kept, am not being followed",
-      "answer1": "had to keep, was following",
-      "answer2": "had to keep, was not being followed",
-      "answer3": "continued, was following",
+      "question": "When I was 5, I __ by a dog.",
+      "answer0": "has bitten",
+      "answer1": "bit",
+      "answer2": "was bitten",
+      "answer3": "has been bitten",
       "rightAnswer": 2
     },
     {
       "lessonTestId": 400,
       "testId": 406,
+      "question": "The band's latest CD __ on the Internet next month.",
+      "answer0": "would release",
+      "answer1": "will be released",
+      "answer2": "has been released",
+      "answer3": "is released",
+      "rightAnswer": 1
+    },
+    {
+      "_comment": "PASSIVE, TEST 8",
+      "lessonTestId": 400,
+      "testId": 407,
       "question": "I was born and __ in the province where rice __ by almost everyone.",
       "answer0": "grew up, grew up",
       "answer1": "grew up, was grown up",
@@ -790,13 +797,93 @@
     },
     {
       "lessonTestId": 400,
-      "testId": 406,
-      "question": "Our ship __ the enemy vessel, but __ the sailors.",
-      "answer0": "sank, was saved",
-      "answer1": "was sunk, saved",
-      "answer2": "sank, saved",
-      "answer3": "was sunk, was saved",
+      "testId": 407,
+      "question": "Some planets can __ from Earth without a telescope.",
+      "answer0": "been seen",
+      "answer1": "see",
+      "answer2": "be seen",
+      "answer3": "seen",
       "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 400,
+      "testId": 407,
+      "question": "The Kremlin __ by thousands of people every year.",
+      "answer0": "is visited",
+      "answer1": "has been visited",
+      "answer2": "was visited",
+      "answer3": "been visited",
+      "rightAnswer": 0
+    },
+    {
+      "lessonTestId": 400,
+      "testId": 407,
+      "question": "A new James Bond movie __ at the moment.",
+      "answer0": "was filmed",
+      "answer1": "is filming",
+      "answer2": "is being filmed",
+      "answer3": "has been filmed",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 400,
+      "testId": 407,
+      "question": "The new chemical __ when it exploded. Nobody expected it!",
+      "answer0": "was tested",
+      "answer1": "is tested",
+      "answer2": "was being tested",
+      "answer3": "has been tested",
+      "rightAnswer": 2
+    },
+    {
+      "lessonTestId": 400,
+      "testId": 407,
+      "question": "When I opened the fridge, I saw that all the cupcakes __.",
+      "answer0": "have eaten",
+      "answer1": "had been eaten",
+      "answer2": "were eaten",
+      "answer3": "will be eaten",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 400,
+      "testId": 407,
+      "question": "A new restaurant __ in our street next week. Look at this announcement!",
+      "answer0": "would be open",
+      "answer1": "is opened",
+      "answer2": "was opened",
+      "answer3": "is going to be opened",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 400,
+      "testId": 407,
+      "question": "The bag isn't there anymore. It __ stolen.",
+      "answer0": "must be",
+      "answer1": "must been stolen",
+      "answer2": "must be stolen",
+      "answer3": "must have been stolen",
+      "rightAnswer": 3
+    },
+    {
+      "lessonTestId": 400,
+      "testId": 407,
+      "question": "The question __ still __ at the meeting. Don’t interrupt, please!",
+      "answer0": "is .. being discuss",
+      "answer1": "is .. being discussed",
+      "answer2": "was .. discussed",
+      "answer3": "has .. been ... discussed",
+      "rightAnswer": 1
+    },
+    {
+      "lessonTestId": 400,
+      "testId": 407,
+      "question": "She __ of everything three times!",
+      "answer0": "was informed",
+      "answer1": "is informed",
+      "answer2": "has informed",
+      "answer3": "has been informed",
+      "rightAnswer": 3
     }
   ]
 }
